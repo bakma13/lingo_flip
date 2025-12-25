@@ -1,0 +1,5690 @@
+[
+ {
+  "abandon": "absolute",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tam [s.],mutlak [s.],salt [s.]"
+ },
+ {
+  "abandon": "absorb",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "almak\n(dikkati\/enerjiyi\/zamanı\/parayı)\n[f.],kavramak (anlamak) [f.],emmek [f.]"
+ },
+ {
+  "abandon": "abstract",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "soyutlamak [f.],özet [i.],soyut [s.]"
+ },
+ {
+  "abandon": "academic",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "akademik [s.],üniversite öğretim görevlisi [i.],öğretim görevlisi [i.]"
+ },
+ {
+  "abandon": "accent",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "şive [i.],aksan [i.],vurgulamak [f.]"
+ },
+ {
+  "abandon": "acceptable",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kabul edilir [s.],kabul edilebilir [s.],makbul [s.]"
+ },
+ {
+  "abandon": "accidentally",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kazara [zf.],tesadüfen [zf.],hasbelkader [zf.]"
+ },
+ {
+  "abandon": "accommodate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yaşayacak yer temin etmek [f.],kalacak yer vermek [f.],telif etmek [f.]"
+ },
+ {
+  "abandon": "accompany",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "eşlik etmek [f.],refakat etmek [f.],katılmak [f.]"
+ },
+ {
+  "abandon": "accomplish",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "başarıyla tamamlamak [f.],sonuçlandırmak [f.],sonunu getirmek [f.]"
+ },
+ {
+  "abandon": "account",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hesap [i.],açıklamasını yapmak [f.],avlamak [f.]"
+ },
+ {
+  "abandon": "accountant",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "muhasebeci [i.],sayışman [i.],hesap uzmanı [i.]"
+ },
+ {
+  "abandon": "accounting",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "muhasebe [i.],saymanlık [i.],hesap verme [i.]"
+ },
+ {
+  "abandon": "accuracy",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "doğruluk [i.],kesinlik [i.],incelik [i.]"
+ },
+ {
+  "abandon": "accurate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "doğru [s.],kesin [s.],dakik [s.]"
+ },
+ {
+  "abandon": "accurately",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kesin olarak [zf.],tam olarak [zf.],doğru olarak [zf.]"
+ },
+ {
+  "abandon": "accuse",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "suçlamak [f.],itham etmek [f.],suçlamak [f.]"
+ },
+ {
+  "abandon": "acid",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ekşime [i.],asit [i.],iğneleyici eleştiri veya dalga\ngeçme [i.]"
+ },
+ {
+  "abandon": "acknowledge",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kabullenmek [f.],kabul etmek [f.],doğruluğunu kabul etmek [f.]"
+ },
+ {
+  "abandon": "acquire",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "elde etmek [f.],edinmek [f.],iktisap etmek [f.]"
+ },
+ {
+  "abandon": "activate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çalıştırmak [f.],etkinleştirmek [f.],etkin kılmak [f.]"
+ },
+ {
+  "abandon": "actual",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "aktüel [s.],gerçek [s.],fiili [s.]"
+ },
+ {
+  "abandon": "adapt",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "adapte etmek [f.],uyarlamak [f.],uymak [f.]"
+ },
+ {
+  "abandon": "addiction",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "düşkünlük [i.],bağımlılık [i.],hastalık [i.]"
+ },
+ {
+  "abandon": "additional",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "fazladan [s.],ek [s.],ilave [s.]"
+ },
+ {
+  "abandon": "additionally",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bundan başka [zf.],ilaveten [zf.],ayrıca [zf.]"
+ },
+ {
+  "abandon": "address",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hitap etmek [f.],söylev [i.],adres [i.]"
+ },
+ {
+  "abandon": "adequate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yeterli [s.],kafi [s.],elverişli [s.]"
+ },
+ {
+  "abandon": "adequately",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "layıkıyle [zf.],yeterince [zf.],yeterli olarak [zf.]"
+ },
+ {
+  "abandon": "adjust",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ayarlamak [f.],hizaya getirmek [f.],alıştırmak [f.]"
+ },
+ {
+  "abandon": "administration",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yönetim [i.],idare [i.],idare [i.]"
+ },
+ {
+  "abandon": "adopt",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "evlat edinmek [f.],benimsemek [f.],çalmak [f.]"
+ },
+ {
+  "abandon": "advance",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "terfi ettirmek [f.],avans vermek [f.],geliştirmek [f.]"
+ },
+ {
+  "abandon": "affair",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "mesele [i.],şey [i.],iş [i.]"
+ },
+ {
+  "abandon": "affordable",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bütçeye uygun [s.],ekonomik [s.],düşük maliyetli [s.]"
+ },
+ {
+  "abandon": "afterwards",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sonradan [zf.],sonra [zf.],sonraları [zf.]"
+ },
+ {
+  "abandon": "agency",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "acente [i.],acenta [i.],ajans [i.]"
+ },
+ {
+  "abandon": "agenda",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "gündem [i.],ajanda [i.],görüşülecek işler [i.]"
+ },
+ {
+  "abandon": "aggressive",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "agresif [s.],saldırgan [s.],kavgacı [s.]"
+ },
+ {
+  "abandon": "agriculture",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ziraat [i.],tarım [i.],çiftçilik [i.]"
+ },
+ {
+  "abandon": "AIDS",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "aids [i.],aids,"
+ },
+ {
+  "abandon": "aid",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yardım etmek [f.],yardım [i.],yardımcı olmak [f.]"
+ },
+ {
+  "abandon": "aircraft",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "uçak [i.],uçaklar [i.],hava taşıtı [i.]"
+ },
+ {
+  "abandon": "alarm",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "alarm [i.],telaşa düşürmek [f.],korkutmak [f.]"
+ },
+ {
+  "abandon": "alien",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yabancı uyruklu kimse [i.],yabancı kelime [i.],uzaylı [i.]"
+ },
+ {
+  "abandon": "alongside",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yanına [zf.],yanı sıra [zf.],yan yana [zf.]"
+ },
+ {
+  "abandon": "alter",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "değiştirmek [f.],değişiklik yapmak [f.],hadım etmek [f.]"
+ },
+ {
+  "abandon": "altogether",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hep beraber [zf.],büsbütün [zf.],tümüyle [zf.]"
+ },
+ {
+  "abandon": "ambulance",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ambulans [i.],cankurtaran [i.],ambülans [i.]"
+ },
+ {
+  "abandon": "amount",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "miktar [i.],tutar [i.],meblağ [i.]"
+ },
+ {
+  "abandon": "amusing",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "eğlenceli [s.],zevkli [s.],komik [s.]"
+ },
+ {
+  "abandon": "analyst",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çözümlemeci [i.],analist [i.],araştırmacı [i.]"
+ },
+ {
+  "abandon": "ancestor",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ata [i.],nesep [i.],soy [i.]"
+ },
+ {
+  "abandon": "anger",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kızdırmak [f.],sinir [i.],hiddet [i.]"
+ },
+ {
+  "abandon": "angle",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "açı [i.],olta ile balık tutmak [f.],saptırmak [f.]"
+ },
+ {
+  "abandon": "animation",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çizgi film yapma [i.],canlılık [i.],şevk [i.]"
+ },
+ {
+  "abandon": "anniversary",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yıl dönümü [i.],yıl dönümü [i.],yıl dönümü kutlaması [i.]"
+ },
+ {
+  "abandon": "annual",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "senelik [s.],yıllık [s.],bir yıllık ömrü olan bitki [i.]"
+ },
+ {
+  "abandon": "annually",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yılda bir [zf.],her yıl [zf.],yıllık olarak [zf.]"
+ },
+ {
+  "abandon": "anticipate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "beklemek [f.],ummak [f.],sezmek [f.]"
+ },
+ {
+  "abandon": "anxiety",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "endişe [i.],kaygı [i.],tasa [i.]"
+ },
+ {
+  "abandon": "anxious",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "endişeli [s.],kaygılı [s.],huzursuz [s.]"
+ },
+ {
+  "abandon": "apology",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "özür [i.],itizar [i.],özür dileme [i.]"
+ },
+ {
+  "abandon": "apparent",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "aşikar [s.],ortada [s.],belirgin [s.]"
+ },
+ {
+  "abandon": "apparently",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "görünüşte [zf.],belli ki [zf.],anlaşılan [zf.]"
+ },
+ {
+  "abandon": "appeal",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "başvurmak [f.],çağrı [i.],cazibe [i.]"
+ },
+ {
+  "abandon": "applicant",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "aday [i.],başvuran kimse [i.],namzet [i.]"
+ },
+ {
+  "abandon": "approach",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yanaşmak [f.],yaklaşmak [f.],yaklaşım [i.]"
+ },
+ {
+  "abandon": "appropriate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "el koymak [f.],münasip [s.],uygun [s.]"
+ },
+ {
+  "abandon": "appropriately",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "uygun olarak [zf.],uygun bir şekilde [zf.],gereğine uygun [zf.]"
+ },
+ {
+  "abandon": "approval",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tasvip [i.],onaylama [i.],onay [i.]"
+ },
+ {
+  "abandon": "approve",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "onaylamak [f.],beğenmek [f.],kabul etmek [f.]"
+ },
+ {
+  "abandon": "arise",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "arose - arisen [f.],kaynaklanmak [f.],kalkmak [f.]"
+ },
+ {
+  "abandon": "armed",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ateşli [s.],zırhlı [s.],silahlandırılmış [s.]"
+ },
+ {
+  "abandon": "arms",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "koyun [i.],kucak [i.],silahlar [i.]"
+ },
+ {
+  "abandon": "arrow",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ok [i.],temren [i.],ok işareti"
+ },
+ {
+  "abandon": "artificial",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yapma [s.],yapay [s.],suni [s.]"
+ },
+ {
+  "abandon": "artistic",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sanatçı ruhuna sahip [s.],artistik [s.],sanatsal yönü olan [s.]"
+ },
+ {
+  "abandon": "artwork",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sanat eseri [i.],çizim [i.],sanat çalışması"
+ },
+ {
+  "abandon": "ashamed",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "mahcup [s.],utanmış [s.],utandırılmış [s.]"
+ },
+ {
+  "abandon": "aside",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bertaraf [s.],ayrı [s.],bir kenara [zf.]"
+ },
+ {
+  "abandon": "aspect",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hal [i.],taraf [i.],yön [i.]"
+ },
+ {
+  "abandon": "assess",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "değer biçmek [f.],hesaplamak [f.],incelemek [f.]"
+ },
+ {
+  "abandon": "assessment",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "değerlendirme [i.],değerleme [i.],tayin etme (para miktarını) [i.]"
+ },
+ {
+  "abandon": "asset",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "varlık [i.],kazanç [i.],değerli bir nitelik [i.]"
+ },
+ {
+  "abandon": "assign",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "devretmek [f.],atamak [f.],tahsis etmek [f.]"
+ },
+ {
+  "abandon": "assistance",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yardım [i.],imdat [i.],destek [i.]"
+ },
+ {
+  "abandon": "associate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ilişkilendirmek [f.],birleştirmek [f.],iş arkadaşı [i.]"
+ },
+ {
+  "abandon": "associated",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "birleşmiş [s.],bağlantılı [s.],ilişkili [s.]"
+ },
+ {
+  "abandon": "association",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "birlik [i.],dernek [i.],birleşme [i.]"
+ },
+ {
+  "abandon": "assume",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "üstlenmek [f.],saymak [f.],farz etmek [f.]"
+ },
+ {
+  "abandon": "assumption",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sanı [i.],farzetme [i.],varsayım [i.]"
+ },
+ {
+  "abandon": "assure",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "temin etmek (rahatlatıcı\/ikna\nedici sözlerle) [f.],garanti etmek [f.],sigorta etmek [f.]"
+ },
+ {
+  "abandon": "astonishing",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hayrette bırakan [s.],şaşılacak [s.],şaşırtıcı [s.]"
+ },
+ {
+  "abandon": "attachment",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "muhabbet [i.],ilgi [i.],bağlılık [i.]"
+ },
+ {
+  "abandon": "attempt",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "teşebbüs etmek [f.],girişimde bulunmak [f.],kalkışmak [f.]"
+ },
+ {
+  "abandon": "auction",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "mezat [i.],müzayede [i.],açık artırma [i.]"
+ },
+ {
+  "abandon": "audio",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ses [s.],ses işitme [i.],audio [i.]"
+ },
+ {
+  "abandon": "automatic",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "otomatik [s.],otomatik tabanca [i.],otomatik tabanca\/tüfek [i.]"
+ },
+ {
+  "abandon": "automatically",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "özdevimlice [zf.],istemsiz olarak [zf.],kendiliğinden [zf.]"
+ },
+ {
+  "abandon": "awareness",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "farkındalık [i.],bilinçlenme [i.],farkında olma [i.]"
+ },
+ {
+  "abandon": "awkward",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "beceriksiz [s.],hantal [s.],zorluk çıkaran [s.]"
+ },
+ {
+  "abandon": "back",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "art [i.],arkalık [i.],sırt [i.]"
+ },
+ {
+  "abandon": "bacteria",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bakteri [i.],bakteriler [i.],bakteri"
+ },
+ {
+  "abandon": "badge",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "rozet [i.],rozet takmak [f.],işaretlemek [f.]"
+ },
+ {
+  "abandon": "balanced",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dengeli [s.],dengelenmiş [s.],muvazeneli [s.]"
+ },
+ {
+  "abandon": "ballet",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bale [i.],bale grubu [i.],bale"
+ },
+ {
+  "abandon": "balloon",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "balon [i.],şişmek [f.],şişirmek [f.]"
+ },
+ {
+  "abandon": "bar",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çubuk [i.],demir çubuk [i.],baro [i.]"
+ },
+ {
+  "abandon": "barely",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ancak [zf.],zar zor [zf.],dar [zf.]"
+ },
+ {
+  "abandon": "bargain",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kelepir [i.],pazarlık [i.],değiş tokuş etmek [f.]"
+ },
+ {
+  "abandon": "barrier",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "set [i.],bariyer [i.],hail [i.]"
+ },
+ {
+  "abandon": "basement",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bodrum [i.],taban [i.],oturtmalık [i.]"
+ },
+ {
+  "abandon": "basically",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "temelde [zf.],kökünden [zf.],aslen [zf.]"
+ },
+ {
+  "abandon": "basket",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sepet [i.],sepetlemek [f.],küfe [i.]"
+ },
+ {
+  "abandon": "bat",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yarasa [i.],kırpmak (göz) [f.],sopa ile vurmak [f.]"
+ },
+ {
+  "abandon": "battle",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "savaş [i.],muharebe [i.],dövüşmek [f.]"
+ },
+ {
+  "abandon": "bear",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dayanmak [f.],katlanmak [f.],taşımak [f.]"
+ },
+ {
+  "abandon": "beat",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "vurmak [f.],dövmek [f.],yenmek [f.]"
+ },
+ {
+  "abandon": "beg",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dilenmek [f.],yalvarmak [f.],dilemek [f.]"
+ },
+ {
+  "abandon": "being",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yapı [i.],vücut [i.],tanrı [i.]"
+ },
+ {
+  "abandon": "beneficial",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yararlı [s.],faydalı [s.],kazançlı [s.]"
+ },
+ {
+  "abandon": "bent",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bükülmüş [s.],bükük [s.],azmetmek [f.]"
+ },
+ {
+  "abandon": "beside",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yanında [ed.],üstelik [zf.],diğer taraftan [zf.]"
+ },
+ {
+  "abandon": "besides",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ayrıca [zf.],hem [zf.],üstelik [zf.]"
+ },
+ {
+  "abandon": "bet",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "iddiaya girmek [f.],iddia [i.],bahis [i.]"
+ },
+ {
+  "abandon": "beyond",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "öte [i.],ötede [zf.],ötesi [ed.]"
+ },
+ {
+  "abandon": "bias",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "önyargı [i.],aklını çelmek [f.],bir tarafa etki etmek [f.]"
+ },
+ {
+  "abandon": "bid",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "teklif etmek [f.],bid\/bade - bidden [f.],bid - bid [f.]"
+ },
+ {
+  "abandon": "bill",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "senet [i.],fatura [i.],ilan etmek [f.]"
+ },
+ {
+  "abandon": "biological",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yaşambilimsel [s.],dirimbilimsel [s.],biyolojik [s.]"
+ },
+ {
+  "abandon": "bitter",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "acı [s.],acı (tat) [s.],bitter (çikolata) [i.]"
+ },
+ {
+  "abandon": "blame",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "suçlamak [f.],ayıplamak [f.],kabahat [i.]"
+ },
+ {
+  "abandon": "blanket",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "battaniye [i.],battaniye ile örtmek [f.],battaniye ile zıplatmak [f.]"
+ },
+ {
+  "abandon": "blind",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kör [s.],körletmek [f.],kör etmek [f.]"
+ },
+ {
+  "abandon": "blow",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "esmek [f.],üflemek [f.],darbe [i.]"
+ },
+ {
+  "abandon": "bold",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "gözüpek [s.],cüretkar [s.],cesur [s.]"
+ },
+ {
+  "abandon": "bombing",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bombalı eylem [i.],bombalama eylemi [i.],graffiti yapmak"
+ },
+ {
+  "abandon": "bond",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tutturmak [f.],birleştirmek [f.],bağ [i.]"
+ },
+ {
+  "abandon": "booking",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "rezervasyon [i.],rezervasyon yapma [i.],yazma (bir kimsenin hesabına) [i.]"
+ },
+ {
+  "abandon": "boost",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "alttan yukarıya ittirmek [f.],yardım için itmek [f.],kuvvetini artırmak [f.]"
+ },
+ {
+  "abandon": "border",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hudut [i.],kenarlık [i.],kenar [i.]"
+ },
+ {
+  "abandon": "bound",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "zıplaya zıplaya gitmek [f.],zıplamak [f.],sıçramak [f.]"
+ },
+ {
+  "abandon": "breast",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "meme [i.],göğüs [i.],göğüs germek [f.]"
+ },
+ {
+  "abandon": "brick",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tuğla [i.],tuğla ile örmek [f.],tuğla döşemek [f.]"
+ },
+ {
+  "abandon": "brief",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kısa [s.],kısa ve öz [s.],talimat veya bilgi vermek [f.]"
+ },
+ {
+  "abandon": "briefly",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kısaca [zf.],kısaca [zf.],muhtasar biçimde [zf.]"
+ },
+ {
+  "abandon": "broad",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "engin [s.],geniş [s.],liberal [s.]"
+ },
+ {
+  "abandon": "broadcast",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yayın [i.],broadcast\/broadcasted -\nbroadcast\/broadcasted [f.],saçmak (tohum) [f.]"
+ },
+ {
+  "abandon": "broadcaster",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "televizyoncu [i.],yayın yapan (radyo, televizyon)\n[i.],yayıncı"
+ },
+ {
+  "abandon": "broadly",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "açık olarak [zf.],belli [zf.],geniş [zf.]"
+ },
+ {
+  "abandon": "budget",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bütçe [i.],bütçelemek [f.],bütçeye uygun [s.]"
+ },
+ {
+  "abandon": "bug",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "böcek [i.],can sıkmak [f.],canını sıkmak [f.]"
+ },
+ {
+  "abandon": "bullet",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "mermi [i.],kurşun [i.],im [i.]"
+ },
+ {
+  "abandon": "bunch",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "salkım [i.],demet [i.],toplamak [f.]"
+ },
+ {
+  "abandon": "burn",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yakmak [f.],yanmak [f.],burned\/burnt - burned\/burnt [f.]"
+ },
+ {
+  "abandon": "bush",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çalı [i.],kaplamak [f.],çalıyla örtmek [f.]"
+ },
+ {
+  "abandon": "but",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ancak [bağ.],fakat [bağ.],itiraz [i.]"
+ },
+ {
+  "abandon": "cabin",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kabin [i.],tahdit etmek [f.],küçük bir yere kapamak [f.]"
+ },
+ {
+  "abandon": "cable",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kablo [i.],kablo ile bağlamak [f.],telgraf çekmek [f.]"
+ },
+ {
+  "abandon": "calculate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hesap etmek [f.],hesaplamak [f.],endazeye vurmak [f.]"
+ },
+ {
+  "abandon": "canal",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kanal [i.],içinden sıvı geçen yol [i.],suyolu [i.]"
+ },
+ {
+  "abandon": "cancel",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "feshetmek [f.],iptal etmek [f.],iptal [i.]"
+ },
+ {
+  "abandon": "cancer",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kanser [i.],yengeç burcu [i.],kötü şey [i.]"
+ },
+ {
+  "abandon": "candle",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "mum [i.],kandil [i.],muma benzeyen madde [i.]"
+ },
+ {
+  "abandon": "capable",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yetenekli [s.],becerikli [s.],kabiliyetli [s.]"
+ },
+ {
+  "abandon": "capacity",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kapasite [i.],iktidar [i.],yeterlik [i.]"
+ },
+ {
+  "abandon": "capture",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "esir almak [f.],ele geçirmek [f.],tutsak etmek [f.]"
+ },
+ {
+  "abandon": "carbon",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "karbon [i.],karbon kağıdı [i.],karbon kömür [i.]"
+ },
+ {
+  "abandon": "cast",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dökmek [f.],döküm [i.],cast - cast [f.]"
+ },
+ {
+  "abandon": "casual",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "gündelik [s.],gündelikçi [i.],gündelik giysi [i.]"
+ },
+ {
+  "abandon": "catch",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "enselemek [f.],yakalamak [f.],yetişmek [f.]"
+ },
+ {
+  "abandon": "cave",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "mağara [i.],in [i.],oymak [f.]"
+ },
+ {
+  "abandon": "cell",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hücre [i.],hücrelemek [f.],hücreye kapatmak [f.]"
+ },
+ {
+  "abandon": "certainty",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kesinlik [i.],muhakkak [i.],katiyet [i.]"
+ },
+ {
+  "abandon": "certificate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sertifika [i.],belgelemek [f.],belge vermek [f.]"
+ },
+ {
+  "abandon": "chain",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "zincir [i.],zincirle bağlamak [f.],kayıt altına almak [f.]"
+ },
+ {
+  "abandon": "chair",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "koltuk [i.],sandalye [i.],iskemle [i.]"
+ },
+ {
+  "abandon": "chairman",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "başkan (yönetim kurulu) [i.],başkan [i.],başkan olarak görev yapmak [f.]"
+ },
+ {
+  "abandon": "challenge",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "düelloya davet etmek [f.],karşı çıkmak [f.],meydan okumak [f.]"
+ },
+ {
+  "abandon": "challenging",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dürtücü [i.],zorlu [s.],meydan okuma [s.]"
+ },
+ {
+  "abandon": "championship",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "şampiyona [i.],üstünlük [i.],şampiyonluk [i.]"
+ },
+ {
+  "abandon": "characteristic",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "özellik [i.],nitelik [i.],alamet [i.]"
+ },
+ {
+  "abandon": "charming",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "cazibeli [s.],alımlı [s.],çekici [s.]"
+ },
+ {
+  "abandon": "chart",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çizelge [i.],göstermek [f.],haritaya almak [f.]"
+ },
+ {
+  "abandon": "chase",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "peşinde olmak [f.],kovalamak [f.],takip etmek [f.]"
+ },
+ {
+  "abandon": "cheek",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yanak [i.],küstahlık etmek [f.],arsızca konuşmak [f.]"
+ },
+ {
+  "abandon": "cheer",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "neşelendirmek [f.],neşe [i.],şenlendirmek [f.]"
+ },
+ {
+  "abandon": "chief",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "şef [i.],amir [i.],ana [s.]"
+ },
+ {
+  "abandon": "choir",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "koro [i.],koroda şarkı söylemek [f.],kilise korosu [i.]"
+ },
+ {
+  "abandon": "chop",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "doğramak [f.],kırmak (balta ile) [f.],balta ile kesmek [f.]"
+ },
+ {
+  "abandon": "circuit",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çevrim [i.],devretmek [f.],dolaşmak [f.]"
+ },
+ {
+  "abandon": "circumstance",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "durum [i.],hal [i.],vaziyet [i.]"
+ },
+ {
+  "abandon": "cite",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "aktarmak [f.],bahsetmek [f.],anmak [f.]"
+ },
+ {
+  "abandon": "citizen",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "vatandaş [i.],yurttaş [i.],bir devlet ya da ulusa mensup kişi\n[i.]"
+ },
+ {
+  "abandon": "civil",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sivil [s.],kamu [s.],nezaketli [s.]"
+ },
+ {
+  "abandon": "civilization",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "uygarlık [i.],medeniyet [i.],uygarlaşma [i.]"
+ },
+ {
+  "abandon": "clarify",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "berraklaşmak [f.],açıklamak [f.],aydınlığa kavuşturmak [f.]"
+ },
+ {
+  "abandon": "classic",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "klasik [i.],klas [i.],değerini kanıtlamış yapıt [i.]"
+ },
+ {
+  "abandon": "classify",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sınıflandırmak [f.],ayırmak [f.],kategorilere ayırmak [f.]"
+ },
+ {
+  "abandon": "cleaning",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "temizlik [i.],arıtma [i.],paklama [i.]"
+ },
+ {
+  "abandon": "clerk",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yazman [i.],tezgahtar [i.],katip [i.]"
+ },
+ {
+  "abandon": "cliff",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "uçurum [i.],falez [i.],kepez [i.]"
+ },
+ {
+  "abandon": "clinic",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "klinik [i.],muayenehane [i.],çözüm toplantısı [i.]"
+ },
+ {
+  "abandon": "clip",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kırkmak [f.],kırpmak [f.],makasla kesmek [f.]"
+ },
+ {
+  "abandon": "close",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kapamak [f.],kapatmak [f.],yakın [s.]"
+ },
+ {
+  "abandon": "closely",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yakından [zf.],sıkı sıkı [zf.],yakından [zf.]"
+ },
+ {
+  "abandon": "coincidence",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "rastlantı [i.],tesadüf [i.],tesadüf [i.]"
+ },
+ {
+  "abandon": "collapse",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yığılmak [f.],çökmek [f.],çöküş [i.]"
+ },
+ {
+  "abandon": "collector",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "toplaç [i.],koleksiyoncu [i.],yardım toplayan kimse [i.]"
+ },
+ {
+  "abandon": "colony",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sömürge [i.],müstemleke [i.],bir ülkede bulunan küçük yabancı\ntopluluğu [i.]"
+ },
+ {
+  "abandon": "colourful",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "rengarenk [s.],renkli [s.],canlı [s.]"
+ },
+ {
+  "abandon": "combination",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "birleştirme [i.],kombinasyon [i.],uyuşma [i.]"
+ },
+ {
+  "abandon": "comfort",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "rahatlık [i.],konfor [i.],rahat [i.]"
+ },
+ {
+  "abandon": "comic",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "komik [s.],komedi oyuncusu [i.],mizah dergisi [i.]"
+ },
+ {
+  "abandon": "command",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "emretmek [f.],buyurmak [f.],kumanda [i.]"
+ },
+ {
+  "abandon": "commander",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "komutan [i.],kumandan [i.],baş [i.]"
+ },
+ {
+  "abandon": "commission",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "komisyon [i.],yıkmak [f.],sipariş vermek [f.]"
+ },
+ {
+  "abandon": "commitment",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bağlılık [i.],taahhüt [i.],söz [i.]"
+ },
+ {
+  "abandon": "committee",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kurul [i.],komisyon [i.],komite [i.]"
+ },
+ {
+  "abandon": "commonly",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ortak olarak [zf.],sıradan biçimde [zf.],bayağıca [zf.]"
+ },
+ {
+  "abandon": "comparative",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "karşılaştırmalı [s.],orantılı [s.],karşılaştırma yoluyla yapılan [s.]"
+ },
+ {
+  "abandon": "completion",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bitirme [i.],bitme [i.],ikmal [i.]"
+ },
+ {
+  "abandon": "complex",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "karışık [s.],blok [i.],bileşik şey [i.]"
+ },
+ {
+  "abandon": "complicated",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çetrefil [s.],komplike [s.],çetrefilli [s.]"
+ },
+ {
+  "abandon": "component",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bileşen [i.],(tamamlayıcı) parça [s.],cüz [i.]"
+ },
+ {
+  "abandon": "compose",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bestelemek [f.],oluşturmak [f.],(aralarındaki anlaşmazlıkları)\ngidermek [f.]"
+ },
+ {
+  "abandon": "composer",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yazar [i.],bestekar [i.],yaratıcı [i.]"
+ },
+ {
+  "abandon": "compound",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "şiddetlendirmek [f.],birleştirmek [f.],yoğunlaştırmak [f.]"
+ },
+ {
+  "abandon": "comprehensive",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "etraflı [s.],kapsamlı [s.],tam veya her şey dahil [s.]"
+ },
+ {
+  "abandon": "comprise",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kapsamak [f.],içermek [f.],içine almak [f.]"
+ },
+ {
+  "abandon": "compulsory",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "zorunlu [s.],yükümlü [s.],zorlayıcı [s.]"
+ },
+ {
+  "abandon": "concentration",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yığma [i.],dikkati bir noktada toplama [i.],teksif [i.]"
+ },
+ {
+  "abandon": "concept",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "konsept [i.],kavram [i.],görüş [i.]"
+ },
+ {
+  "abandon": "concern",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ilgilendirmek [f.],kaygı [i.],endişe [i.]"
+ },
+ {
+  "abandon": "concerned",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ilgili [s.],endişeli [s.],endişeli [s.]"
+ },
+ {
+  "abandon": "concrete",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "beton [i.],somut [s.],katılaşmak [f.]"
+ },
+ {
+  "abandon": "conduct",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yönetmek [f.],yürütmek [f.],idare etmek [f.]"
+ },
+ {
+  "abandon": "confess",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "itiraf etmek [f.],günah çıkartmak [f.],kabullenmek [f.]"
+ },
+ {
+  "abandon": "confidence",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "güven [i.],mahremiyet [i.],itimat [i.]"
+ },
+ {
+  "abandon": "conflict",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çekişmek [f.],anlaşmazlığa düşmek [f.],çekişme [i.]"
+ },
+ {
+  "abandon": "confusing",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "şaşırtma [i.],çetrefil [i.],kafa karıştırıcı [s.]"
+ },
+ {
+  "abandon": "confusion",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "karmaşa [i.],kargaşa [i.],şaşkınlık [i.]"
+ },
+ {
+  "abandon": "conscious",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bilinçli [s.],uyanık [s.],farkında olan [s.]"
+ },
+ {
+  "abandon": "consequently",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sonuç olarak [zf.],haliyle [zf.],bu\/o yüzden [zf.]"
+ },
+ {
+  "abandon": "conservation",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "koruma [i.],muhafaza [i.],doğal kaynakları koruma [i.]"
+ },
+ {
+  "abandon": "conservative",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "muhafazakar [s.],tutucu [s.],tutucu kimse [i.]"
+ },
+ {
+  "abandon": "considerable",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hatırı sayılır derecede [s.],kaydadeğer [s.],hatırı sayılır [s.]"
+ },
+ {
+  "abandon": "considerably",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "oldukça [zf.],epeyce [zf.],çok [zf.]"
+ },
+ {
+  "abandon": "consideration",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "düşünce [i.],değerlendirme [i.],düşünme [i.]"
+ },
+ {
+  "abandon": "consistent",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "istikrarlı [s.],tutarlı [s.],bağıntılı [s.]"
+ },
+ {
+  "abandon": "consistently",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sürekli olarak [zf.],mütemadiyen [zf.],tutarlı olarak [zf.]"
+ },
+ {
+  "abandon": "conspiracy",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "komplo [i.],gizli anlaşma [i.],suikast [i.]"
+ },
+ {
+  "abandon": "constant",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sabit [s.],durağan [s.],değişmez [s.]"
+ },
+ {
+  "abandon": "constantly",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ikide bir [zf.],sürekli [zf.],sabit düzeyde [zf.]"
+ },
+ {
+  "abandon": "construct",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "inşa etmek [f.],dikmek [f.],resmetmek [f.]"
+ },
+ {
+  "abandon": "construction",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yapı [i.],inşaat [i.],inşa [i.]"
+ },
+ {
+  "abandon": "consult",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "başvurmak [f.],danışmak [f.],görüş alışverişinde bulunmak [f.]"
+ },
+ {
+  "abandon": "consultant",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "danışman [i.],konsültan [i.],iki yüzlü [i.]"
+ },
+ {
+  "abandon": "consumption",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tüketim [i.],yoğaltma [i.],sarf [i.]"
+ },
+ {
+  "abandon": "contemporary",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "modern [s.],çağdaş [s.],günümüze ait [s.]"
+ },
+ {
+  "abandon": "contest",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yarışma [i.],karşı koymak [f.],itiraz etmek [f.]"
+ },
+ {
+  "abandon": "contract",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "(hastalığa) yakalanmak [f.],sözleşme [i.],kontrat [i.]"
+ },
+ {
+  "abandon": "contribute",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "katkı yapmak [f.],katkıda bulunmak [f.],vermek (bağış olarak) [f.]"
+ },
+ {
+  "abandon": "contribution",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "katkı [i.],bağış [i.],aidat [i.]"
+ },
+ {
+  "abandon": "controversial",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çekişmeli [s.],anlaşmazlığa neden olan [s.],tartışmaya yol açan [s.]"
+ },
+ {
+  "abandon": "controversy",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ihtilaf [i.],münakaşa [i.],mücadele [i.]"
+ },
+ {
+  "abandon": "convenience",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kolaylık [i.],elverişlilik [i.],müsait oluş [i.]"
+ },
+ {
+  "abandon": "convention",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "düzen [i.],toplama [i.],gelenek [i.]"
+ },
+ {
+  "abandon": "conventional",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "geleneksel [s.],itibari [s.],basmakalıp [s.]"
+ },
+ {
+  "abandon": "convert",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dönüştürmek [f.],arıtmak [f.],evirmek [f.]"
+ },
+ {
+  "abandon": "convey",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "iletmek [f.],geçirmek [f.],ulaştırmak [f.]"
+ },
+ {
+  "abandon": "convinced",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "inandırılan [s.],inandırılmış [s.],kani [s.]"
+ },
+ {
+  "abandon": "convincing",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "inandırıcı [s.],ikna edici [s.],ikna [i.]"
+ },
+ {
+  "abandon": "cope",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "başa çıkmak [f.],çare bulmak [f.],başarmak [f.]"
+ },
+ {
+  "abandon": "core",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "göbek [i.],öz [i.],çekirdek [i.]"
+ },
+ {
+  "abandon": "corporate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "şirkete ait [s.],kurumsal [s.],tüzel [s.]"
+ },
+ {
+  "abandon": "corporation",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kurum [i.],dernek [i.],kurum [i.]"
+ },
+ {
+  "abandon": "corridor",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "koridor [i.],aralık [i.],bir yapıya girmeyi sağlayan veya\nodaları birleştiren genellikle dar geçit [i.]"
+ },
+ {
+  "abandon": "council",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "meclis [i.],kurul [i.],divan [i.]"
+ },
+ {
+  "abandon": "counter",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tezgah [i.],sayaç [i.],karşılık vermek [f.]"
+ },
+ {
+  "abandon": "county",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ilçe [i.],idari bölge [i.],yerel idarelerin en küçük birimleri\n[i.]"
+ },
+ {
+  "abandon": "courage",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "cesurluk [i.],yüreklilik [i.],cesaret [i.]"
+ },
+ {
+  "abandon": "coverage",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kapsam [i.],olay kaydı [i.],yayın alanı [i.]"
+ },
+ {
+  "abandon": "crack",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yarılmak [f.],çatlamak [f.],çatırtı [i.]"
+ },
+ {
+  "abandon": "craft",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "esnaf [i.],zanaat [i.],ustalıkla işlemek [f.]"
+ },
+ {
+  "abandon": "crash",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çarpışmak [f.],çarpmak [f.],kırılma [i.]"
+ },
+ {
+  "abandon": "creation",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kreasyon [i.],icat [i.],yaratma [i.]"
+ },
+ {
+  "abandon": "creativity",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yaratıcılık [i.],yaratıcılık,"
+ },
+ {
+  "abandon": "creature",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "varlık [i.],yaratık [i.],mahluk [i.]"
+ },
+ {
+  "abandon": "credit",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kredi [i.],bir krediyi hesabına geçirmek [f.],inanmak [f.]"
+ },
+ {
+  "abandon": "crew",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tayfa [i.],mürettebat [i.],kitle [i.]"
+ },
+ {
+  "abandon": "crisis",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bunalım [i.],buhran [i.],kriz [i.]"
+ },
+ {
+  "abandon": "criterion",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kriter [i.],mikyas [i.],ayırıcı özellik [i.]"
+ },
+ {
+  "abandon": "critic",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "eleştirmen [i.],kritik [i.],muhalif [i.]"
+ },
+ {
+  "abandon": "critical",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kritik [s.],ciddi [s.],hassas [s.]"
+ },
+ {
+  "abandon": "critically",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tehlikeli olarak [zf.],eleştirel olarak [zf.],ciddi olarak [zf.]"
+ },
+ {
+  "abandon": "criticism",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tenkit [i.],eleştiri [i.],eleştiri [i.]"
+ },
+ {
+  "abandon": "criticize",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "eleştirmek [f.],tenkit etmek [f.],kritiğini yapmak [f.]"
+ },
+ {
+  "abandon": "crop",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "mahsul [i.],ekin [i.],kesmek [f.]"
+ },
+ {
+  "abandon": "crucial",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çok önemli [s.],çok önemli [s.],kritik [s.]"
+ },
+ {
+  "abandon": "cruise",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dolaşmak [f.],sokaklarda dolaşarak müşteri\naramak (fahişe) [f.],dolaşmak (taksi şoförü taksi\nmüşteri arayarak) [f.]"
+ },
+ {
+  "abandon": "cry",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "haykırmak [f.],ağlamak [f.],ağlama [i.]"
+ },
+ {
+  "abandon": "cue",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "işaret [i.],sıraya girmek [f.],işaret vermek [f.]"
+ },
+ {
+  "abandon": "cure",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "iyileştirmek [f.],tedavi etmek [f.],çare [i.]"
+ },
+ {
+  "abandon": "curious",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "meraklı [s.],nadir [s.],meraklı [s.]"
+ },
+ {
+  "abandon": "current",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "akım [i.],akıntı [i.],cari [s.]"
+ },
+ {
+  "abandon": "curriculum",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "müfredat [i.],öğretim programı [i.],öğretim izlencesi [i.]"
+ },
+ {
+  "abandon": "curve",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bükülmek [f.],eğri [i.],kavis [i.]"
+ },
+ {
+  "abandon": "curved",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "eğimli [s.],kavisli [s.],eğilmiş [s.]"
+ },
+ {
+  "abandon": "cute",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sevimli [s.],şirin [s.],zeki [s.]"
+ },
+ {
+  "abandon": "dairy",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "mandıra [i.],sütçü(dükkanı) [i.],sütçü dükkanı [i.]"
+ },
+ {
+  "abandon": "dare",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "cüret etmek [f.],dared\/durst - dared\/durst [f.],meydan okumak [f.]"
+ },
+ {
+  "abandon": "darkness",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "karanlık [i.],loşluk [i.],bilinmezlik [i.]"
+ },
+ {
+  "abandon": "database",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "veritabanı,veri tabanı,veritabanı"
+ },
+ {
+  "abandon": "date",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "(biriyle) çıkmak [f.],randevuya çıkmak [f.],zaman [i.]"
+ },
+ {
+  "abandon": "deadline",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "son teslim tarihi [i.],son başvuru tarihi [i.],son teslim tarihi [i.]"
+ },
+ {
+  "abandon": "deadly",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ölümcül [s.],öldürücü [s.],müthiş [s.]"
+ },
+ {
+  "abandon": "dealer",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bayi [i.],satıcı [i.],krupiye [i.]"
+ },
+ {
+  "abandon": "debate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çekişmek [f.],çekişme [i.],tartışma [i.]"
+ },
+ {
+  "abandon": "debt",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "borç [i.],suç [i.],hesap [i.]"
+ },
+ {
+  "abandon": "decent",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "edepli [s.],iyi [s.],düzgün [s.]"
+ },
+ {
+  "abandon": "deck",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "deste [i.],güverte [i.],bezemek [f.]"
+ },
+ {
+  "abandon": "declare",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "beyan etmek [f.],deklare etmek [f.],ilan etmek [f.]"
+ },
+ {
+  "abandon": "decline",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "zayıflamak [f.],inişe geçmek [f.],geri çevirmek [f.]"
+ },
+ {
+  "abandon": "decoration",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "süsleme [i.],tezyinat [i.],iç mimari [i.]"
+ },
+ {
+  "abandon": "decrease",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "küçülmek [f.],azaltmak [f.],düşüş göstermek [f.]"
+ },
+ {
+  "abandon": "deeply",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "son derece [zf.],derinlemesine [zf.],içten [zf.]"
+ },
+ {
+  "abandon": "defeat",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yenmek [f.],bozguna uğratmak [f.],mağlup etmek [f.]"
+ },
+ {
+  "abandon": "defence",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "müdafaa [i.],savunma [i.],savunma silahları [i.]"
+ },
+ {
+  "abandon": "defend",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "savunmak [f.],korumak [f.],kanat açmak [f.]"
+ },
+ {
+  "abandon": "defender",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "muhafız [i.],müdafi [i.],savunucu [i.]"
+ },
+ {
+  "abandon": "delay",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "gecikmek [f.],ertelemek [f.],rötar [i.]"
+ },
+ {
+  "abandon": "delete",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "silmek [f.],bozmak [f.],kazımak [f.]"
+ },
+ {
+  "abandon": "deliberate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kasti [s.],ölçünmek [f.],üzerinde durmak (düşünmek vb)\n[f.]"
+ },
+ {
+  "abandon": "deliberately",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kasten [zf.],bilerek [zf.],kasti olarak [zf.]"
+ },
+ {
+  "abandon": "delight",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "haz [i.],sevindirmek [f.],zevk vermek [f.]"
+ },
+ {
+  "abandon": "delighted",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "memnun [s.],zevk almış [s.],hoşnut edilmiş [s.]"
+ },
+ {
+  "abandon": "delivery",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "doğum [i.],teslimat [i.],teslim [i.]"
+ },
+ {
+  "abandon": "demand",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "talep etmek [f.],talepte bulunmak [f.],talep [i.]"
+ },
+ {
+  "abandon": "democracy",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "demokratlık [i.],elerki [i.],halkın seçtiği temsilcilerce\nyönetilen ülke veya devlet [i.]"
+ },
+ {
+  "abandon": "democratic",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "demokratik partiye ait [s.],demokrat [s.],demokratik [s.]"
+ },
+ {
+  "abandon": "demonstrate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ispat etmek [f.],göstermek [f.],kanıtlamak [f.]"
+ },
+ {
+  "abandon": "demonstration",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ispat [i.],gösteri [i.],kanıtlama [i.]"
+ },
+ {
+  "abandon": "deny",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yalanlamak [f.],inkar etmek [f.],reddetmek [f.]"
+ },
+ {
+  "abandon": "depart",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yola çıkmak [f.],caymak [f.],vefat etmek [f.]"
+ },
+ {
+  "abandon": "dependent",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bağımlı [s.],bağımlı kimse [i.],başkasına muhtaç kimse [i.]"
+ },
+ {
+  "abandon": "deposit",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "emanet [i.],depozito [i.],çökeltmek [f.]"
+ },
+ {
+  "abandon": "depressed",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "canı sıkkın [s.],bunalımlı [s.],morali bozuk [s.]"
+ },
+ {
+  "abandon": "depressing",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bunaltıcı [s.],üzücü [s.],acıklı [s.]"
+ },
+ {
+  "abandon": "depression",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çöküntü [i.],depresyon [i.],bunalım [i.]"
+ },
+ {
+  "abandon": "depth",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "derinlik [i.],dip [i.],bilinçaltı [i.]"
+ },
+ {
+  "abandon": "derive",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "türemek [f.],-den elde etmek [f.],yola çıkmak [f.]"
+ },
+ {
+  "abandon": "desert",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "terk etmek [f.],çöl [i.],ıssız [s.]"
+ },
+ {
+  "abandon": "deserve",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hak etmek [f.],layık olmak [f.],hak kazanmak [f.]"
+ },
+ {
+  "abandon": "desire",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "istek duymak [f.],arzulamak [f.],arzu etmek [f.]"
+ },
+ {
+  "abandon": "desperate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çaresiz [s.],umutsuz [s.],her şeyi göze alabilen [s.]"
+ },
+ {
+  "abandon": "desperately",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "umutsuzca [zf.],aşırı [zf.],ümitsizce [zf.]"
+ },
+ {
+  "abandon": "destruction",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tahribat [i.],imha [i.],yıkım [i.]"
+ },
+ {
+  "abandon": "detail",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "detay [i.],ayrıntı [i.],ayrıntılı anlatmak [f.]"
+ },
+ {
+  "abandon": "detailed",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ayrıntılı [s.],detaylı [s.],detaylı [s.]"
+ },
+ {
+  "abandon": "detect",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "keşfetmek [f.],sezmek [f.],belirlemek [f.]"
+ },
+ {
+  "abandon": "determination",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "saptama [i.],kararlılık [i.],azim [i.]"
+ },
+ {
+  "abandon": "devote",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "adamak [f.],vakfetmek [f.],adamak [f.]"
+ },
+ {
+  "abandon": "differ",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ters düşmek [f.],değişik olmak [f.],anlaşamamak [f.]"
+ },
+ {
+  "abandon": "dig",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kazmak [f.],dug - dug [f.],kazı yapmak [f.]"
+ },
+ {
+  "abandon": "disability",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "malullük [i.],sakatlık [i.],yetkisizlik [i.]"
+ },
+ {
+  "abandon": "disabled",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sakat [s.],engelli [s.],özürlü [s.]"
+ },
+ {
+  "abandon": "disagreement",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "anlaşmazlık [i.],uyuşmazlık [i.],münazaa [i.]"
+ },
+ {
+  "abandon": "disappoint",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hayal kırıklığına uğratmak [f.],altüst etmek [f.],ümidini boşa çıkarmak [f.]"
+ },
+ {
+  "abandon": "disappointment",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hüsran [i.],hayal kırıklığı [i.],ümidi boşa çıkma [i.]"
+ },
+ {
+  "abandon": "disc",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "disk [i.],daire [i.],ağırşak [i.]"
+ },
+ {
+  "abandon": "discipline",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "disiplin [i.],disiplin sağlamak [f.],cezalandırmak [f.]"
+ },
+ {
+  "abandon": "discount",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tenzilat [i.],indirim [i.],iskonto [i.]"
+ },
+ {
+  "abandon": "discourage",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "cesaretini kırmak [f.],hayal kırıklığına uğratmak [f.],hevesini kırmak [f.]"
+ },
+ {
+  "abandon": "dishonest",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "namussuz [s.],şerefsiz [s.],mürtekip [s.]"
+ },
+ {
+  "abandon": "dismiss",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "azletmek [f.],kovmak [f.],işten atmak [f.]"
+ },
+ {
+  "abandon": "disorder",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kargaşa [i.],rahatsızlık [i.],düzensizlik [i.]"
+ },
+ {
+  "abandon": "display",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sergilemek [f.],gösterme [i.],teşhir [i.]"
+ },
+ {
+  "abandon": "distant",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "uzakta [s.],uzak [s.],mesafeli [s.]"
+ },
+ {
+  "abandon": "distinct",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "belirgin [s.],seçik [s.],şüphesiz [s.]"
+ },
+ {
+  "abandon": "distinguish",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ayırmak [f.],ayırt etmek [f.],farkı görmek [f.]"
+ },
+ {
+  "abandon": "distract",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dikkatini dağıtmak [f.],dikkati dağıtmak [f.],dikkat dağıtmak [f.]"
+ },
+ {
+  "abandon": "distribute",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dağıtmak [f.],saçmak [f.],bölmek [f.]"
+ },
+ {
+  "abandon": "distribution",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dağıtma [i.],dağılım [i.],dağıtım [i.]"
+ },
+ {
+  "abandon": "district",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "semt [i.],ilçe [i.],bölge [i.]"
+ },
+ {
+  "abandon": "disturb",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "rahatsız etmek [f.],huylandırmak [f.],düşündürmek [f.]"
+ },
+ {
+  "abandon": "dive",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dalmak [f.],dove\/dived - dived [f.],dived\/dove - dived [f.]"
+ },
+ {
+  "abandon": "diverse",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çeşit çeşit [s.],türlü [s.],değişik [s.]"
+ },
+ {
+  "abandon": "diversity",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çeşitlilik [i.],değişik tür [i.],çeşit [i.]"
+ },
+ {
+  "abandon": "divide",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bölmek [f.],dağıtmak [f.],bozuşmak [f.]"
+ },
+ {
+  "abandon": "division",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bölme [i.],sınır [i.],tefrika [i.]"
+ },
+ {
+  "abandon": "divorce",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "boşanmak [f.],boşamak [f.],boşama [i.]"
+ },
+ {
+  "abandon": "document",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "doküman [i.],belge [i.],kanıtlamak [f.]"
+ },
+ {
+  "abandon": "domestic",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "iç [s.],evcil [s.],hizmetçi [i.]"
+ },
+ {
+  "abandon": "dominant",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "baskın [s.],hakim [s.],egemen [s.]"
+ },
+ {
+  "abandon": "dominate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hükmetmek [f.],hakim olmak [f.],egemen olmak [f.]"
+ },
+ {
+  "abandon": "donation",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bağış [i.],hibe [i.],teberru [i.]"
+ },
+ {
+  "abandon": "dot",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "nokta [i.],dağıtmak [f.],nokta koymak [f.]"
+ },
+ {
+  "abandon": "downtown",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çarşı [i.],şehrin merkezi [i.],bir şehir veya kasabanın merkezi\n[i.]"
+ },
+ {
+  "abandon": "downwards",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "aşağıya doğru [zf.],aşağıya [zf.],zemin düzeyinden aşağı"
+ },
+ {
+  "abandon": "dozen",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çok sayı [i.],düzine [i.],on iki tane [s.]"
+ },
+ {
+  "abandon": "draft",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tasarı [i.],taslak [i.],planlamak [f.]"
+ },
+ {
+  "abandon": "drag",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sürüklemek [f.],çekmek [f.],bulaştırmak [f.]"
+ },
+ {
+  "abandon": "dramatic",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dramatik [s.],heyecanlı [s.],hareketli [s.]"
+ },
+ {
+  "abandon": "dramatically",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dramatik bir biçimde [zf.],dramatik olarak [zf.],önemli ölçüde [zf.]"
+ },
+ {
+  "abandon": "drought",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kuraklık [i.],darlık [i.],susuzluk [i.]"
+ },
+ {
+  "abandon": "dull",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "donuk [s.],sıkıcı [s.],mat [s.]"
+ },
+ {
+  "abandon": "dump",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çöplük [i.],indirmek [f.],yığmak [f.]"
+ },
+ {
+  "abandon": "duration",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "müddet [i.],süre [i.],devam süresi [i.]"
+ },
+ {
+  "abandon": "dynamic",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hareketli [s.],dinamik [s.],devimsel [s.]"
+ },
+ {
+  "abandon": "economics",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ülke ekonomisi [i.],ekonomi bilimi [i.],tutumbilim [i.]"
+ },
+ {
+  "abandon": "economist",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ekonomist [i.],iktisatçı [i.],ekonomist"
+ },
+ {
+  "abandon": "edit",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "düzenlemek [f.],(yazı) düzenleme [i.],düzeltmek [f.]"
+ },
+ {
+  "abandon": "edition",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yayım [i.],nüsha [i.],edisyon [i.]"
+ },
+ {
+  "abandon": "editorial",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "başmakale [i.],başyazı [i.],baş yazı [i.]"
+ },
+ {
+  "abandon": "efficient",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "etkili [s.],liyakatli [s.],verimli [s.]"
+ },
+ {
+  "abandon": "efficiently",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yeterli olarak [zf.],verimli biçimde [zf.],etkin [zf.]"
+ },
+ {
+  "abandon": "elbow",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dirsek [i.],dirsekle dürtmek [f.],dirsekle vurmak [f.]"
+ },
+ {
+  "abandon": "elderly",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yaşlı [s.],geçkin [s.],yaşını başını almış [s.]"
+ },
+ {
+  "abandon": "elect",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "seçmek [f.],görevlendirmek [f.],atamak [f.]"
+ },
+ {
+  "abandon": "electronics",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "elektronik bilimi [i.],elektronik [i.],elektronik"
+ },
+ {
+  "abandon": "elegant",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "şık [s.],zarif [s.],ince [s.]"
+ },
+ {
+  "abandon": "elementary",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "başlayanlar için [s.],basit [s.],öz [s.]"
+ },
+ {
+  "abandon": "eliminate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "elemek [f.],elimine etmek [f.],ekarte etmek [f.]"
+ },
+ {
+  "abandon": "elsewhere",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "başka yere [zf.],başka bir yer [zf.],başka yere başka yerde [zf.]"
+ },
+ {
+  "abandon": "embrace",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kucaklamak [f.],bağrına basmak [f.],sarmaş dolaş olmak [f.]"
+ },
+ {
+  "abandon": "emerge",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yücelmek [f.],çıkmak [f.],meydana çıkmak [f.]"
+ },
+ {
+  "abandon": "emission",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "emisyon [i.],çıkarma [i.],yayınlama [i.]"
+ },
+ {
+  "abandon": "emotional",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dokunaklı [s.],duygusal [s.],hissi [s.]"
+ },
+ {
+  "abandon": "emotionally",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "heyecanla [zf.],heyecanlı bir şekilde [zf.],duygu bakımından [zf.]"
+ },
+ {
+  "abandon": "emphasis",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "vurgu [i.],şiddet [i.],kuvvet [i.]"
+ },
+ {
+  "abandon": "emphasize",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "vurgulamak [f.],üstüne basmak [f.],vurgulamak [f.]"
+ },
+ {
+  "abandon": "empire",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "imparatorluk [i.],imparatorluk ile ilgili [s.],imparatorluk"
+ },
+ {
+  "abandon": "enable",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "olanak vermek [f.],olanak tanımak [f.],olanak sağlamak [f.]"
+ },
+ {
+  "abandon": "encounter",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "rastlamak [f.],karşılaşmak [f.],rastlama [i.]"
+ },
+ {
+  "abandon": "engage",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "angaje etmek [f.],bağlanmak [f.],işgal etmek [f.]"
+ },
+ {
+  "abandon": "enhance",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "arttırmak [f.],yükseltmek [f.],artırmak [f.]"
+ },
+ {
+  "abandon": "enjoyable",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "zevkli [s.],hoş [s.],güzel [s.]"
+ },
+ {
+  "abandon": "enquiry",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sorgu [i.],soru [i.],soruşturma [i.]"
+ },
+ {
+  "abandon": "ensure",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sağlama almak [f.],sağlamak [f.],garantiye almak [f.]"
+ },
+ {
+  "abandon": "entertaining",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "eğlendirici [s.],eğlenceli [s.],izaz [i.]"
+ },
+ {
+  "abandon": "enthusiasm",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "heves [i.],coşkunluk [i.],coşku [i.]"
+ },
+ {
+  "abandon": "enthusiastic",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "coşkulu [s.],hevesli [s.],meraklı [s.]"
+ },
+ {
+  "abandon": "entire",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bütün [s.],tüm [s.],tamam [s.]"
+ },
+ {
+  "abandon": "entirely",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tümüyle [zf.],külliyen [zf.],büsbütün [zf.]"
+ },
+ {
+  "abandon": "entrepreneur",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "müteşebbis [i.],girişimci [i.],müteşebbis [i.]"
+ },
+ {
+  "abandon": "envelope",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "zarf [i.],sarmak [f.],mektup zarfı [i.]"
+ },
+ {
+  "abandon": "equal",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "denk [s.],eşit [s.],muadili olmak [f.]"
+ },
+ {
+  "abandon": "equip",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "donatmak [f.],teçhiz etmek [f.],giydirmek [f.]"
+ },
+ {
+  "abandon": "equivalent",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "eşdeğer [i.],muadil [s.],bedel [i.]"
+ },
+ {
+  "abandon": "era",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dönem [i.],devir [i.],tarih başlangıcı [i.]"
+ },
+ {
+  "abandon": "erupt",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "patlak vermek [f.],püskürmek [f.],patlamak [f.]"
+ },
+ {
+  "abandon": "essentially",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "özünde [zf.],temelde [zf.],gerçekte [zf.]"
+ },
+ {
+  "abandon": "establish",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kanıtlamak [f.],kurmak [f.],tesis etmek [f.]"
+ },
+ {
+  "abandon": "estate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "emlak [i.],konak [i.],arsa [i.]"
+ },
+ {
+  "abandon": "estimate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kestirmek [f.],tahmin etmek [f.],tahmin [i.]"
+ },
+ {
+  "abandon": "ethic",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ahlak sistemi [i.],ahlak [s.],ahlaklı [s.]"
+ },
+ {
+  "abandon": "ethical",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ahlaka uygun [s.],ahlaki [s.],ahlaksal [s.]"
+ },
+ {
+  "abandon": "ethnic",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "etnik [s.],etnik grup üyesi [i.],ırksal [s.]"
+ },
+ {
+  "abandon": "evaluate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "değerlendirmek [f.],değerlendirmek (test etme vb) [f.],ölçmek [f.]"
+ },
+ {
+  "abandon": "evaluation",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "değerlendirme [i.],ölçüm [i.],değer tahmini [i.]"
+ },
+ {
+  "abandon": "even",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "düzgün [s.],düz [s.],pürüzsüz [s.]"
+ },
+ {
+  "abandon": "evident",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "belli [s.],vazıh [s.],açık [s.]"
+ },
+ {
+  "abandon": "evil",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "fenalık [i.],kötülük [i.],kötü [s.]"
+ },
+ {
+  "abandon": "evolution",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "evrim [i.],gelişim [i.],arka arkaya gelme [i.]"
+ },
+ {
+  "abandon": "evolve",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "evrim geçirmek [f.],yavaş yavaş gelişmek [f.],gelişmek [f.]"
+ },
+ {
+  "abandon": "examination",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "inceleme [i.],muayene [i.],sınav [i.]"
+ },
+ {
+  "abandon": "exceed",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sınırı aşmak [f.],aşmak [f.],sınırı aşmak [f.]"
+ },
+ {
+  "abandon": "exception",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "istisna [i.],kuraldışılık [i.],sıradışı durum [i.]"
+ },
+ {
+  "abandon": "excessive",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "haddinden fazla [s.],aşırı [s.],aşkın [s.]"
+ },
+ {
+  "abandon": "exclude",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dışlamak [f.],hariç tutmak [f.],dahil etmemek [f.]"
+ },
+ {
+  "abandon": "excuse",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "mazur görmek [f.],mazeret [i.],özür [i.]"
+ },
+ {
+  "abandon": "executive",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yönetici [i.],yönetsel [s.],idari [s.]"
+ },
+ {
+  "abandon": "exhibit",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sergilemek [f.],sergi [i.],ortaya koymak [f.]"
+ },
+ {
+  "abandon": "existence",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "mevcudiyet [i.],varlık [i.],varoluş [i.]"
+ },
+ {
+  "abandon": "exit",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çıkmak [f.],çıkış [i.],ölmek [f.]"
+ },
+ {
+  "abandon": "exotic",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "egzotik [s.],tuhaf [s.],ecnebi [s.]"
+ },
+ {
+  "abandon": "expansion",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "genleşme [i.],ilerleme [i.],gelişme [i.]"
+ },
+ {
+  "abandon": "expectation",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "beklenti [i.],ümit [i.],olasılık [i.]"
+ },
+ {
+  "abandon": "expense",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "masraf [i.],harcama [i.],gider [i.]"
+ },
+ {
+  "abandon": "expertise",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "uzman görüşü sunmak [f.],uzluk [i.],ustalık [i.]"
+ },
+ {
+  "abandon": "exploit",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kendi çıkarı için kullanmak [f.],faydalanmak [f.],sömürmek [f.]"
+ },
+ {
+  "abandon": "exploration",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "keşif [i.],keşif [i.],araştırma (bir konuyu) [i.]"
+ },
+ {
+  "abandon": "expose",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "maruz bırakmak [f.],bırakmak [f.],etkisine açık bırakmak [f.]"
+ },
+ {
+  "abandon": "exposure",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "teşhir [i.],maruz bırakma [i.],poz [i.]"
+ },
+ {
+  "abandon": "extend",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sunmak (taziye\/kutlama) [f.],genişletmek [f.],uzatmak [f.]"
+ },
+ {
+  "abandon": "extension",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "uzatma [i.],genişletme [i.],verme (yardım\/kredi vb) [i.]"
+ },
+ {
+  "abandon": "extensive",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yaygın [s.],geniş [s.],kapsamlı [s.]"
+ },
+ {
+  "abandon": "extensively",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "uzatılmış olarak [zf.],geniş olarak [zf.],geniş ölçüde [zf.]"
+ },
+ {
+  "abandon": "extent",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "boyut [i.],kapsam [i.],derece [i.]"
+ },
+ {
+  "abandon": "external",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dış [s.],harici [s.],dıştan gelen [s.]"
+ },
+ {
+  "abandon": "extract",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "özünü çıkarmak [f.],almak [f.],diş çekmek [f.]"
+ },
+ {
+  "abandon": "extraordinary",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "fevkalade [s.],olağandışı [s.],olağanüstü [s.]"
+ },
+ {
+  "abandon": "extreme",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "aşırı [s.],aşırı derece [i.],aşırılık [i.]"
+ },
+ {
+  "abandon": "fabric",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kumaş [i.],doku [i.],bez [i.]"
+ },
+ {
+  "abandon": "fabulous",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "efsanevi [s.],olağanüstü [s.],süper [s.]"
+ },
+ {
+  "abandon": "facility",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tesis [i.],suhulet [i.],vasıta [i.]"
+ },
+ {
+  "abandon": "failed",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "arızalı,başarısız,başarısız oldu"
+ },
+ {
+  "abandon": "failure",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yapmama [i.],sekte [i.],yapmayış [i.]"
+ },
+ {
+  "abandon": "faith",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "güven [i.],inanç [i.],iman [i.]"
+ },
+ {
+  "abandon": "fake",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sahte [i.],taklit [s.],ayak yapmak [f.]"
+ },
+ {
+  "abandon": "fame",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "nam [i.],ün [i.],şöhret [i.]"
+ },
+ {
+  "abandon": "fantasy",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "fantezi [i.],vehim [i.],hayal gücü [i.]"
+ },
+ {
+  "abandon": "fare",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "başından geçmek [f.],geçinmek [f.],yola çıkmak [f.]"
+ },
+ {
+  "abandon": "fault",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "fay [i.],hata [i.],arıza [i.]"
+ },
+ {
+  "abandon": "favour",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "iyilik etmek [f.],kayırmak [f.],iyilik [i.]"
+ },
+ {
+  "abandon": "feather",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kuş tüyü [i.],tüy [i.],zengin etmek [f.]"
+ },
+ {
+  "abandon": "federal",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "federal [s.],birleşik [s.],birleşik devletlere ait [s.]"
+ },
+ {
+  "abandon": "fee",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "harç [i.],ücret [i.],ücretini vermek [f.]"
+ },
+ {
+  "abandon": "feed",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "beslemek [f.],fed - fed [f.],gıda almak [f.]"
+ },
+ {
+  "abandon": "feedback",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "geri bildirim [i.],geri beslemek [f.],destek [i.]"
+ },
+ {
+  "abandon": "feel",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hissetmek [f.],felt - felt [f.],sezmek [f.]"
+ },
+ {
+  "abandon": "fellow",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "herif [i.],hemcins [i.],bir bilim kurumunun üyesi [i.]"
+ },
+ {
+  "abandon": "fever",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ateş [i.],ateşlenmek [f.],telaş [i.]"
+ },
+ {
+  "abandon": "figure",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "rakam [i.],şekil [i.],yer almak [f.]"
+ },
+ {
+  "abandon": "file",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "eğe [i.],dosya [i.],kayda geçirmek [f.]"
+ },
+ {
+  "abandon": "finance",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "finanse etmek [f.],maliye [i.],finans [i.]"
+ },
+ {
+  "abandon": "finding",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bulma [i.],bulgu [i.],keşfedilmiş şey [i.]"
+ },
+ {
+  "abandon": "firefighter",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "itfaiyeci [i.],,"
+ },
+ {
+  "abandon": "firework",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "havai fişek [i.],hava fişeği [i.],"
+ },
+ {
+  "abandon": "firm",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "firma [i.],sıkı [s.],sert [s.]"
+ },
+ {
+  "abandon": "firmly",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dümdüz [zf.],kesin olarak [zf.],sımsıkı [zf.]"
+ },
+ {
+  "abandon": "fix",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "düzeltmek [f.],onarmak [f.],tamir etmek [f.]"
+ },
+ {
+  "abandon": "flame",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "alev [i.],alevlendirmek [f.],öfkelenmek [f.]"
+ },
+ {
+  "abandon": "flash",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ışık tutmak [f.],parlama [i.],ışıltı [i.]"
+ },
+ {
+  "abandon": "flavour",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tat [i.],lezzet [i.],tat duyusu [i.]"
+ },
+ {
+  "abandon": "flexible",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bükülgen [s.],esnek [s.],elastiki [s.]"
+ },
+ {
+  "abandon": "float",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "batmadan yüzmek [f.],dalgalanmaya bırakmak (döviz\nkurunu) [f.],kurmak (şirket) [f.]"
+ },
+ {
+  "abandon": "fold",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bükülmek [f.],katlamak [f.],kat [i.]"
+ },
+ {
+  "abandon": "folding",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kıvrım [i.],paftalama [i.],kırma [i.]"
+ },
+ {
+  "abandon": "following",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "taraftarlar [i.],takip etme [i.],izleyen [s.]"
+ },
+ {
+  "abandon": "fond",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "düşkün [s.],iptila [i.],merak [i.]"
+ },
+ {
+  "abandon": "fool",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kandırmak [f.],salak [i.],ahmak [i.]"
+ },
+ {
+  "abandon": "forbid",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yasaklamak [f.],forbade - forbidden [f.],olanak vermemek [f.]"
+ },
+ {
+  "abandon": "forecast",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tahmin etmek [f.],tahmin [i.],forecast - forecast [f.]"
+ },
+ {
+  "abandon": "forgive",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "affetmek [f.],bağışlamak [f.],forgave - forgiven [f.]"
+ },
+ {
+  "abandon": "format",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "format atmak [f.],kitap düzenlemesi [i.],sayfa düzeni [i.]"
+ },
+ {
+  "abandon": "formation",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "oluşum [i.],biçimlendirme [i.],yapım [i.]"
+ },
+ {
+  "abandon": "former",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "önceki [i.],evvelki [s.],biçimlendirici [i.]"
+ },
+ {
+  "abandon": "formerly",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "vaktiyle [zf.],evvel zaman [zf.],eskiden [zf.]"
+ },
+ {
+  "abandon": "fortunate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "akgünlü [s.],şanslı [s.],kısmetli [s.]"
+ },
+ {
+  "abandon": "fortune",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "talih [i.],şans [i.],kısmet [i.]"
+ },
+ {
+  "abandon": "forum",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "toplantı [i.],oturum [i.],forum [i.]"
+ },
+ {
+  "abandon": "forward",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ileri [s.],ileriye doğru [zf.],yollamak [f.]"
+ },
+ {
+  "abandon": "fossil",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "taşlaşmak [f.],köhneleşmek [f.],fosilleşmek [f.]"
+ },
+ {
+  "abandon": "found",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kurmak [f.],tesis etmek [f.],kalıba dökmek [f.]"
+ },
+ {
+  "abandon": "foundation",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dayanak [i.],vakıf [i.],kuruluş [i.]"
+ },
+ {
+  "abandon": "founder",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kurucu [i.],bataklığa saplanmak [f.],saplanıp kalmak [f.]"
+ },
+ {
+  "abandon": "fraction",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "fraksiyon [i.],kesir [i.],bayağı kesir [i.]"
+ },
+ {
+  "abandon": "fragment",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "fragman [i.],parçalanmak [f.],kırık parça [i.]"
+ },
+ {
+  "abandon": "framework",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kadro [i.],karkas [i.],çerçeve [i.]"
+ },
+ {
+  "abandon": "fraud",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sahtekarlık [i.],dolandırıcılık [i.],aldatma [i.]"
+ },
+ {
+  "abandon": "free",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bağımsız [s.],beleş [s.],muaf [s.]"
+ },
+ {
+  "abandon": "freedom",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bağımsızlık [i.],özgürlük [i.],irade [i.]"
+ },
+ {
+  "abandon": "freely",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "serbestçe [zf.],özgürce [zf.],isteyerek [zf.]"
+ },
+ {
+  "abandon": "frequency",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sıklık [i.],sık sık tekrarlanma [i.],sık sık olma [i.]"
+ },
+ {
+  "abandon": "frequent",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sık [s.],sık sık gitmek [f.],ayağı alışmak [f.]"
+ },
+ {
+  "abandon": "fuel",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yakıt [i.],yakıt sağlamak [f.],yakmak [f.]"
+ },
+ {
+  "abandon": "fulfil",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yerine getirmek [f.],tamamlamak [f.],uygulamak [f.]"
+ },
+ {
+  "abandon": "full-time",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tamgün [i.],tam gün [i.],fultaym [i.]"
+ },
+ {
+  "abandon": "fully",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tamamıyla [zf.],iyice [zf.],iyiden iyiye [zf.]"
+ },
+ {
+  "abandon": "function",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "işlev [i.],fonksiyon [i.],fonksiyonunu yerine getirmek [f.]"
+ },
+ {
+  "abandon": "fund",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kaynak [i.],sermaye [i.],fon [i.]"
+ },
+ {
+  "abandon": "fundamental",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "esas [s.],asli [s.],esas [i.]"
+ },
+ {
+  "abandon": "fundamentally",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "esasen [zf.],aşırı tutucu olarak [zf.],esasen [zf.]"
+ },
+ {
+  "abandon": "funding",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "fonlama [i.],kısa vadeli borçların uzun vadeli\nborca dönüştürülmesi,kaynak yaratma"
+ },
+ {
+  "abandon": "furious",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çok öfkeli [s.],kuduruk [s.],azgın [s.]"
+ },
+ {
+  "abandon": "furthermore",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "üstelik [zf.],ayriyetten [zf.],buna ek olarak [zf.]"
+ },
+ {
+  "abandon": "gain",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kazanmak [f.],elde etmek [f.],edinmek [f.]"
+ },
+ {
+  "abandon": "gaming",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kumar [i.],kumarbazlık [i.],kumar oynama [i.]"
+ },
+ {
+  "abandon": "gang",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çete [i.],işbirliği yapmak [f.],harekete geçmek [f.]"
+ },
+ {
+  "abandon": "gender",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "cins [i.],isim cinsi [i.],cinsiyet [i.]"
+ },
+ {
+  "abandon": "gene",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "gen [i.],gen,gen"
+ },
+ {
+  "abandon": "generate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "meydana getirmek [f.],oluşturmak [f.],üretmek [f.]"
+ },
+ {
+  "abandon": "genetic",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "genetik yapı [i.],soyaçekim [i.],kalıtsal [s.]"
+ },
+ {
+  "abandon": "genius",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dahi [i.],koruyucu melek [i.],öke [i.]"
+ },
+ {
+  "abandon": "genre",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tür [i.],üslup [i.],çeşit [i.]"
+ },
+ {
+  "abandon": "genuine",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "özgün [s.],gerçek [s.],hakiki [s.]"
+ },
+ {
+  "abandon": "genuinely",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "gerçekten [zf.],gerçek olarak [zf.],canıgönülden [zf.]"
+ },
+ {
+  "abandon": "gesture",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "el\/kol\/baş hareketi yapmak [f.],jest yapmak [f.],işaret etmek [f.]"
+ },
+ {
+  "abandon": "gig",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "zıpkın ile balık yakalamak [f.],sahneye çıkma [i.],çalgı [i.]"
+ },
+ {
+  "abandon": "globalization",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "globalleşme [i.],küreselleşme [i.],küreselleştirme"
+ },
+ {
+  "abandon": "globe",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "küre [i.],küre biçimine getirmek [f.],yeryuvarlağı [i.]"
+ },
+ {
+  "abandon": "golden",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "altın [i.],altından [s.],itidal [i.]"
+ },
+ {
+  "abandon": "goodness",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "iyilik [i.],ihsan [i.],bir şeyin yararlı olan kısmı [i.]"
+ },
+ {
+  "abandon": "gorgeous",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "muhteşem [s.],debdebeli [s.],görkemli [s.]"
+ },
+ {
+  "abandon": "govern",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kontrol etmek [f.],kullanmak [f.],frenlemek [f.]"
+ },
+ {
+  "abandon": "governor",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "vali [i.],banka müdürü [i.],amir [i.]"
+ },
+ {
+  "abandon": "grab",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kapmak [f.],yakalamak [f.],kapma [i.]"
+ },
+ {
+  "abandon": "grade",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "puanlamak [f.],sınıf [i.],rütbe [i.]"
+ },
+ {
+  "abandon": "gradually",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yavaş yavaş [zf.],gitgide [zf.],derece derece [zf.]"
+ },
+ {
+  "abandon": "grand",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "büyük [s.],azim [i.],büyüklük [i.]"
+ },
+ {
+  "abandon": "grant",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bağışlamak [f.],hibe etmek [f.],hibe [i.]"
+ },
+ {
+  "abandon": "graphic",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "grafik [s.],grafik [i.],çizge [i.]"
+ },
+ {
+  "abandon": "graphics",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "grafik sanatlar [i.],grafik sanatı [i.],grafostatik"
+ },
+ {
+  "abandon": "greatly",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çok [zf.],adamakıllı [zf.],fazlasıyla [zf.]"
+ },
+ {
+  "abandon": "greenhouse",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sera [i.],camekan [i.],kış bahçesi [i.]"
+ },
+ {
+  "abandon": "grocery",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bakkaliye [i.],market [i.],bakkal dükkanı [i.]"
+ },
+ {
+  "abandon": "guarantee",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "güvence [i.],garanti [i.],söz vermek [f.]"
+ },
+ {
+  "abandon": "guideline",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hakim [i.],ana hatlar [i.],prensip [i.]"
+ },
+ {
+  "abandon": "habitat",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bitkilerin doğal yetiştiği yer [i.],ortam [i.],hayvan [i.]"
+ },
+ {
+  "abandon": "handle",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "idare etmek [f.],işlemek [f.],(meseleyi) ele almak [f.]"
+ },
+ {
+  "abandon": "harbour",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "barındırmak [f.],liman [i.],sığınmak [f.]"
+ },
+ {
+  "abandon": "harm",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "zarar [i.],zeval vermek [f.],kötülük yapmak [f.]"
+ },
+ {
+  "abandon": "harmful",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "zararlı [s.],ziyankar [s.],dokuncalı [s.]"
+ },
+ {
+  "abandon": "headquarters",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "merkez [i.],genel merkez [i.],kumanda merkezi [i.]"
+ },
+ {
+  "abandon": "heal",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "şifa bulmak [f.],iyileştirmek [f.],defetmek [f.]"
+ },
+ {
+  "abandon": "healthcare",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sağlık hizmeti,,"
+ },
+ {
+  "abandon": "hearing",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "duruşma [i.],duyma [i.],celse [i.]"
+ },
+ {
+  "abandon": "heaven",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "cennet [i.],gökyüzü [i.],tanrı [i.]"
+ },
+ {
+  "abandon": "heel",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "topuk [i.],topuk pası vermek [f.],topuğunu yere vurarak\ndansetmek [f.]"
+ },
+ {
+  "abandon": "hell",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "cehennem [i.],tamu [i.],şaka [i.]"
+ },
+ {
+  "abandon": "helmet",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "miğfer [i.],tolga [i.],çelik başlık [i.]"
+ },
+ {
+  "abandon": "hence",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "buradan [zf.],bunun sonucu olarak [zf.],bundan [zf.]"
+ },
+ {
+  "abandon": "herb",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ot [i.],nebat [i.],yemeklere tat vermek için\nkullanılan bitki [i.]"
+ },
+ {
+  "abandon": "hesitate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "duraksamak [f.],tereddüt etmek [f.],ikirciklenmek [f.]"
+ },
+ {
+  "abandon": "hidden",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "gizli [s.],saklı [s.],kapalı [s.]"
+ },
+ {
+  "abandon": "high",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yüksek [s.],direnmek [f.],öfkelenmek [f.]"
+ },
+ {
+  "abandon": "highway",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "otoban [i.],otoyol [i.],ekspres yol [i.]"
+ },
+ {
+  "abandon": "hilarious",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "gürültülü ve neşeli [s.],şamatalı [s.],eğlendirici [s.]"
+ },
+ {
+  "abandon": "hip",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kalça [i.],içini sıkmak [f.],kaba et [i.]"
+ },
+ {
+  "abandon": "hire",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kiralamak [f.],(ücret vererek) tutmak [f.],kira [i.]"
+ },
+ {
+  "abandon": "historian",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tarihçi [i.],tarih bilimci [i.],müverrih [i.]"
+ },
+ {
+  "abandon": "hold",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sahip olmak [f.],zaptetmek [f.],düzenlemek [f.]"
+ },
+ {
+  "abandon": "hollow",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "oyuk [i.],çukur [i.],içi boş [s.]"
+ },
+ {
+  "abandon": "holy",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kutsal [s.],kutsal yer [i.],mukaddes [s.]"
+ },
+ {
+  "abandon": "homeless",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "evsiz [s.],evi barkı olmayan [s.],yurtsuz [s.]"
+ },
+ {
+  "abandon": "honesty",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dürüstlük [i.],namusluluk [i.],doğruluk [i.]"
+ },
+ {
+  "abandon": "honour",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "şereflendirmek [f.],onurlandırmak [f.],şeref [i.]"
+ },
+ {
+  "abandon": "hook",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kanca [i.],çengel [i.],tutmak [f.]"
+ },
+ {
+  "abandon": "hopefully",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ümitle [zf.],umutla [zf.],umarım [zf.]"
+ },
+ {
+  "abandon": "host",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ağırlamak [f.],ev sahibi [i.],ağırlamak [f.]"
+ },
+ {
+  "abandon": "house",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ev [i.],konut [i.],kendi evine almak [f.]"
+ },
+ {
+  "abandon": "household",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ev veya aileye ait [s.],her gün kullanılan [i.],mesken [i.]"
+ },
+ {
+  "abandon": "housing",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "konut [i.],barınak [i.],belleme [i.]"
+ },
+ {
+  "abandon": "humorous",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "güldürücü [s.],gülünç [s.],nükteli [s.]"
+ },
+ {
+  "abandon": "humour",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "mizah [i.],ayak uydurmak [f.],eğlendirmek [f.]"
+ },
+ {
+  "abandon": "hunger",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "açlık [i.],hasret çekmek [f.],özlemek [f.]"
+ },
+ {
+  "abandon": "hunt",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "avlanmak [f.],avlamak [f.],av [i.]"
+ },
+ {
+  "abandon": "hunting",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "avlama [i.],avcılık [i.],av [i.]"
+ },
+ {
+  "abandon": "hurt",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "acımak [f.],incitmek [f.],yaralamak [f.]"
+ },
+ {
+  "abandon": "hypothesis",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hipotez [i.],varsayım [i.],kaziye [i.]"
+ },
+ {
+  "abandon": "icon",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ikona [i.],dini resim [i.],put [i.]"
+ },
+ {
+  "abandon": "ideal",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ülkü [i.],ideal [s.],mefkure [i.]"
+ },
+ {
+  "abandon": "identical",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "özdeş [s.],aynı [s.],tıpkı [s.]"
+ },
+ {
+  "abandon": "illusion",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kuruntu [i.],yalan [i.],hayal [i.]"
+ },
+ {
+  "abandon": "illustrate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "örneklerle açıklamak [f.],örneklemek [f.],resimlendirmek [f.]"
+ },
+ {
+  "abandon": "illustration",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "örnekleme [i.],açıklama [i.],illüstrasyon [i.]"
+ },
+ {
+  "abandon": "imagination",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hayal gücü [i.],hayal [i.],hayal [i.]"
+ },
+ {
+  "abandon": "immigration",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "göç [i.],göç etme [i.],göçmenlik [i.]"
+ },
+ {
+  "abandon": "immune",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bağışık [s.],bağışık kimse [i.],ayrıcalıklı [s.]"
+ },
+ {
+  "abandon": "impatient",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sabırsız [s.],titiz [s.],hoşgörüsüz [s.]"
+ },
+ {
+  "abandon": "implement",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yerine getirmek (plan vb'ni) [f.],uygulamak [f.],alet-edevat [i.]"
+ },
+ {
+  "abandon": "implication",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "(bir kimseyi olumsuz bir şeye)\nkarıştırma\/bulaştırma [i.],saklı olan anlam [i.],ima [i.]"
+ },
+ {
+  "abandon": "imply",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ima etmek [f.],kastetmek [f.],göstermek (dolaylı olarak) [f.]"
+ },
+ {
+  "abandon": "impose",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "(yasa vb) uygulamaya koymak [f.],yük olmak [f.],dayatmak [f.]"
+ },
+ {
+  "abandon": "impress",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "iz bırakmak [f.],hayran bırakmak [f.],etkilemek [f.]"
+ },
+ {
+  "abandon": "impressed",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "etkilenmiş [s.],uygulanmış,etkilendirilmiş"
+ },
+ {
+  "abandon": "incentive",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "teşvik [i.],neden [i.],isteklendirme [i.]"
+ },
+ {
+  "abandon": "inch",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yavaş yavaş hareket etmek [f.],yavaş yavaş hareket ettirmek [f.],az miktar [i.]"
+ },
+ {
+  "abandon": "incident",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hadise [i.],olay [i.],yük [i.]"
+ },
+ {
+  "abandon": "income",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "gelir [i.],kazanç [i.],varidat [i.]"
+ },
+ {
+  "abandon": "incorporate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "firma kurmak [f.],içermek [f.],anonim şirket haline getirmek [f.]"
+ },
+ {
+  "abandon": "incorrect",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yanlış [s.],doğru olmayan [s.],uygunsuz [s.]"
+ },
+ {
+  "abandon": "increasingly",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "gitgide artarak [zf.],gitgide [zf.],gittikçe artarak [zf.]"
+ },
+ {
+  "abandon": "independence",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "özgürlük [i.],bağımsızlık [i.],serbestlik [i.]"
+ },
+ {
+  "abandon": "index",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "indekslemek [f.],indeks [i.],dizin [i.]"
+ },
+ {
+  "abandon": "indication",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "belirti [i.],anlatma [i.],ölçüm [i.]"
+ },
+ {
+  "abandon": "industrial",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "endüstri [s.],endüstriyel [s.],sanayici [s.]"
+ },
+ {
+  "abandon": "inevitable",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kaçınılmaz [s.],malum [s.],çaresiz [s.]"
+ },
+ {
+  "abandon": "infection",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "enfeksiyon [i.],sirayet [i.],iltihap [i.]"
+ },
+ {
+  "abandon": "infer",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "anlam çıkarmak [f.],anlamak [f.],anlamına gelmek [f.]"
+ },
+ {
+  "abandon": "inflation",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "enflasyon [i.],abartı [i.],şişkinlik [i.]"
+ },
+ {
+  "abandon": "info",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "haber [i.],bilgi,bilgi"
+ },
+ {
+  "abandon": "inform",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bilgilendirmek [f.],haber vermek [f.],bilgi vermek [f.]"
+ },
+ {
+  "abandon": "infrastructure",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "altyapı [i.],sosyal sabit sermaye [i.],altyapı tesisleri [i.]"
+ },
+ {
+  "abandon": "inhabitant",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ikamet eden [i.],oturan kimse [i.],oturan [i.]"
+ },
+ {
+  "abandon": "inherit",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "miras olarak almak [f.],miras almak [f.],kalıtımla kazanmak [f.]"
+ },
+ {
+  "abandon": "initial",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ilk harf [i.],baş harf [i.],baştaki [s.]"
+ },
+ {
+  "abandon": "initially",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "başlangıçta [zf.],ilkin [zf.],baştan [zf.]"
+ },
+ {
+  "abandon": "initiative",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "girişkenlik [i.],girişim [i.],önayak olma [i.]"
+ },
+ {
+  "abandon": "ink",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "mürekkeplemek [f.],(bir sözleşmeyi vb) imzalamak [f.],mürekkebini doldurmak [f.]"
+ },
+ {
+  "abandon": "inner",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "iç [s.],içerideki [s.],nişan tahtasında ortanın bir üstü\n[i.]"
+ },
+ {
+  "abandon": "innovation",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yenilik [i.],yeni metod [i.],bidat [i.]"
+ },
+ {
+  "abandon": "innovative",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yaratıcı [s.],yenilikçi [s.],yeniliklere açık [s.]"
+ },
+ {
+  "abandon": "input",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "giriş [i.],girdi [i.],input\/inputted - input\/inputted\n[f.]"
+ },
+ {
+  "abandon": "insert",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "arasına sokmak [f.],sokmak [f.],atmak [f.]"
+ },
+ {
+  "abandon": "insight",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "içyüzünü anlama [i.],anlayış [i.],içgörü [i.]"
+ },
+ {
+  "abandon": "insist",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ısrar etmek [f.],iddia etmek [f.],asılmak [f.]"
+ },
+ {
+  "abandon": "inspector",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "müfettiş [i.],denetmen [i.],denetleyici [i.]"
+ },
+ {
+  "abandon": "inspire",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ilham vermek [f.],yaymak [f.],canlandırmak [f.]"
+ },
+ {
+  "abandon": "install",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kurmak [f.],düzenlemek [f.],takmak (bir aygıtı) [f.]"
+ },
+ {
+  "abandon": "installation",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "montaj [i.],kurma [i.],takma (bir aygıtı) [i.]"
+ },
+ {
+  "abandon": "instance",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "misal [i.],örnek [i.],dava [i.]"
+ },
+ {
+  "abandon": "instant",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "anlık [s.],esna [i.],dakika [i.]"
+ },
+ {
+  "abandon": "instantly",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hemen [zf.],aniden [zf.],anında [zf.]"
+ },
+ {
+  "abandon": "institute",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "enstitü [i.],kurmak [f.],tayin etmek [f.]"
+ },
+ {
+  "abandon": "institution",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "enstitü [i.],kuruluş [i.],kurum [i.]"
+ },
+ {
+  "abandon": "insurance",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sigorta [i.],sigorta [i.],sigorta primi [i.]"
+ },
+ {
+  "abandon": "integrate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "entegre etmek [f.],integralini almak [f.],kaynaştırmak [f.]"
+ },
+ {
+  "abandon": "intellectual",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "düşünsel [s.],entelektüel [s.],fikir adamı [i.]"
+ },
+ {
+  "abandon": "intended",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "planlanan [s.],istenilen [s.],yönelik [s.]"
+ },
+ {
+  "abandon": "intense",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yoğun [s.],gergin [s.],istekli [s.]"
+ },
+ {
+  "abandon": "interact",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "etkileşmek [f.],birbirini etkilemek [f.],reaksiyon göstermek [f.]"
+ },
+ {
+  "abandon": "interaction",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "etkileşim [i.],birbirini etkileme [i.],karşılıklı etkilenme [i.]"
+ },
+ {
+  "abandon": "internal",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dahili [s.],iç [s.],yaradılış [i.]"
+ },
+ {
+  "abandon": "interpret",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yorumlamak [f.],tercümanlık yapmak [f.],yormak [f.]"
+ },
+ {
+  "abandon": "interpretation",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yorum [i.],açıklama [i.],tercüme [i.]"
+ },
+ {
+  "abandon": "interrupt",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sekte vurmak [f.],söze karışmak [f.],kesmek [f.]"
+ },
+ {
+  "abandon": "interval",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ara [i.],zaman [i.],müddet [i.]"
+ },
+ {
+  "abandon": "invade",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "istila etmek [f.],ele geçirmek [f.],içini kaplamak [f.]"
+ },
+ {
+  "abandon": "invasion",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "istila [i.],ihlal [i.],"
+ },
+ {
+  "abandon": "investigation",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "soruşturma [i.],araştırma [i.],teftiş [i.]"
+ },
+ {
+  "abandon": "investment",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yatırım [i.],kuşatma [i.],muhasara [i.]"
+ },
+ {
+  "abandon": "investor",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sermayeci [i.],sermayedar [i.],yatırımcı [i.]"
+ },
+ {
+  "abandon": "isolate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "soyutlamak [f.],tecrit etmek [f.],arıtmak [f.]"
+ },
+ {
+  "abandon": "isolated",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "izole [s.],ayırılan [s.],yalıtılmış [s.]"
+ },
+ {
+  "abandon": "issue",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "(dergi\/gazete) nüsha [i.],konu [i.],mesele [i.]"
+ },
+ {
+  "abandon": "jail",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hapishane [i.],hapis [i.],cezaevi [i.]"
+ },
+ {
+  "abandon": "jet",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "jet uçağı ile uçmak [f.],jetle yolculuk yapmak [f.],fışkırtmak [f.]"
+ },
+ {
+  "abandon": "joint",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "eklem [i.],ek yeri [i.],birleşme yeri [i.]"
+ },
+ {
+  "abandon": "journalism",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "gazetecilik [i.],basın [i.],habercilik [i.]"
+ },
+ {
+  "abandon": "joy",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "keyif [i.],neşe [i.],sevinç [i.]"
+ },
+ {
+  "abandon": "judgement",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yargı [i.],muhakeme [i.],kanı [i.]"
+ },
+ {
+  "abandon": "junior",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "iki kişiden küçük olanı [i.],mevki veya kıdemce küçük olan\nkimse [i.],yaşça küçük kimse [i.]"
+ },
+ {
+  "abandon": "jury",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "jüri [i.],seçiciler kurulu [i.],yargıcılar kurulu [i.]"
+ },
+ {
+  "abandon": "justice",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "adalet [i.],türe [i.],dürüstlük [i.]"
+ },
+ {
+  "abandon": "justify",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "savunmak [f.],suçsuzluğunu kanıtlamak [f.],hak vermek [f.]"
+ },
+ {
+  "abandon": "kit",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "pılı pırtı [i.],donanım [i.],alet çantası [i.]"
+ },
+ {
+  "abandon": "labour",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "uğraşmak [f.],çalışmak [f.],işgücü [i.]"
+ },
+ {
+  "abandon": "ladder",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "merdiven [i.],kaçmak [f.],kaçırmak [f.]"
+ },
+ {
+  "abandon": "landing",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "inme [i.],karaya çıkarma [i.],karaya çıkma [i.]"
+ },
+ {
+  "abandon": "landscape",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "manzara [i.],peyzaj [i.],bahçe düzenlemek [f.]"
+ },
+ {
+  "abandon": "lane",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "(yol) şerit [i.],patika [i.],keçi yolu [i.]"
+ },
+ {
+  "abandon": "largely",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "büyük bir ölçüde [zf.],büyük ölçüde [zf.],avuç avuç [zf.]"
+ },
+ {
+  "abandon": "lately",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "son zamanlarda [zf.],geçenlerde [zf.],son günlerde [zf.]"
+ },
+ {
+  "abandon": "latest",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "son [s.],en son [s.],yeni [s.]"
+ },
+ {
+  "abandon": "launch",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "başlatmak (yeni işi) [f.],piyasaya sürmek [f.],fırlatmak [f.]"
+ },
+ {
+  "abandon": "leadership",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "önderlik [i.],liderlik [i.],başkanlık [i.]"
+ },
+ {
+  "abandon": "leaflet",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "broşür [i.],ufak yaprak [i.],bildiri [i.]"
+ },
+ {
+  "abandon": "league",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "lig [i.],birleştirmek [f.],küme [i.]"
+ },
+ {
+  "abandon": "lean",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dayanmak [f.],eğilmek [f.],yaslanmak [f.]"
+ },
+ {
+  "abandon": "leave",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bırakmak [f.],ayrılmak [f.],terk etmek [f.]"
+ },
+ {
+  "abandon": "legend",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "efsane [i.],masal [i.],yazıt [i.]"
+ },
+ {
+  "abandon": "lens",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "mercek [i.],objektif [i.],gözlük camı [i.]"
+ },
+ {
+  "abandon": "level",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "seviye [i.],düzey [i.],kademe [i.]"
+ },
+ {
+  "abandon": "licence",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "lisans [i.],izin vermek [f.],lisans vermek [f.]"
+ },
+ {
+  "abandon": "lifetime",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ömür [i.],ömür boyu [i.],yaşam [i.]"
+ },
+ {
+  "abandon": "lighting",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yakma [i.],tenvirat [i.],ışıklandırma [i.]"
+ },
+ {
+  "abandon": "likewise",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "aynı biçimde [zf.],aynı şekilde [zf.],keza [bağ.]"
+ },
+ {
+  "abandon": "limitation",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kısıtlama [i.],sınırlama [i.],limit [i.]"
+ },
+ {
+  "abandon": "limited",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kısıtlı [s.],sınırlı [s.],belirlenmiş [s.]"
+ },
+ {
+  "abandon": "line",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "astarlamak [f.],satır [i.],hat [i.]"
+ },
+ {
+  "abandon": "literally",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kelime kelime [i.],gerçekten [zf.],motamot [zf.]"
+ },
+ {
+  "abandon": "literary",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "edebi [s.],yazınsal [s.],"
+ },
+ {
+  "abandon": "litre",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "litre [i.],litre,"
+ },
+ {
+  "abandon": "litter",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hayvanları yatırmak için serilen\nsaman veya kuru ot [f.],karıştırmak [f.],ahırda hayvanın altına yataklık ot\nsermek [f.]"
+ },
+ {
+  "abandon": "lively",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "canlı [s.],heyecanlandırıcı [s.],civelek [s.]"
+ },
+ {
+  "abandon": "load",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yüklemek [f.],yük [i.],yük olmak [f.]"
+ },
+ {
+  "abandon": "loan",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ödünç para [i.],kredi [i.],borç [i.]"
+ },
+ {
+  "abandon": "logical",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "mantıklı (kimse) [s.],makul [s.],mantığa uygun [s.]"
+ },
+ {
+  "abandon": "logo",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "logo [i.],işaret [i.],sudan ve kongo'da yaşayan etnik\nbir grup"
+ },
+ {
+  "abandon": "long-term",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "uzun vadeli [s.],uzun dönem,uzun vadeli"
+ },
+ {
+  "abandon": "loose",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "oynak [s.],gevşek [s.],bol [s.]"
+ },
+ {
+  "abandon": "lord",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "lord payesi vermek [f.],lord ünvanı vermek [f.],sahip [i.]"
+ },
+ {
+  "abandon": "lottery",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "piyango [i.],tesadüf [i.],kur'a [i.]"
+ },
+ {
+  "abandon": "low",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "alçak [i.],alçak [s.],az [s.]"
+ },
+ {
+  "abandon": "lower",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "düşürmek [f.],alçaltmak [f.],indirmek [f.]"
+ },
+ {
+  "abandon": "loyal",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "vefalı [s.],sadık [s.],vefakar [s.]"
+ },
+ {
+  "abandon": "lung",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "akciğer [i.],ciğer [i.],akciğer"
+ },
+ {
+  "abandon": "lyric",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "gazel [i.],lirik şiir [i.],lirik [s.]"
+ },
+ {
+  "abandon": "magnificent",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "fevkalade [s.],muhteşem [s.],görkemli [s.]"
+ },
+ {
+  "abandon": "maintain",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sürdürmek [f.],bakım yapmak [f.],bakmak [f.]"
+ },
+ {
+  "abandon": "majority",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çoğunluk [i.],erginlik [i.],rüşt [i.]"
+ },
+ {
+  "abandon": "make",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yapmak [f.],made - made [f.],katetmek [f.]"
+ },
+ {
+  "abandon": "make-up",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yapım [i.],kişilik [i.],süs [i.]"
+ },
+ {
+  "abandon": "making",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yapma [i.],etme [i.],yapım [i.]"
+ },
+ {
+  "abandon": "manufacture",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "imal etmek [f.],üretim [i.],uydurmak [f.]"
+ },
+ {
+  "abandon": "manufacturing",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "imalat [i.],üretme [i.],üretim [i.]"
+ },
+ {
+  "abandon": "map",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "harita [i.],planlamak [f.],saptamak [f.]"
+ },
+ {
+  "abandon": "marathon",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "maraton [i.],wisconsin eyaletinde yerleşim\nyeri,florida eyaletinde şehir"
+ },
+ {
+  "abandon": "margin",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "marj [i.],kenar boşluğu [i.],kenara yazmak [f.]"
+ },
+ {
+  "abandon": "marker",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "işaret [i.],markacı [i.],keçeli kalem [i.]"
+ },
+ {
+  "abandon": "martial",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "savaşa özgü [s.],savaşa ait [s.],harbe ait [s.]"
+ },
+ {
+  "abandon": "mass",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yığmak [f.],kümelemek [f.],kitle [i.]"
+ },
+ {
+  "abandon": "massive",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "cüsseli [s.],iri [s.],çok büyük [s.]"
+ },
+ {
+  "abandon": "master",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "efendi [i.],usta [i.],üstesinden gelmek [f.]"
+ },
+ {
+  "abandon": "matching",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "karşılaştırma [i.],eşleme [i.],eşleştirme [i.]"
+ },
+ {
+  "abandon": "mate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "mat [i.],ahbap [i.],eş olmak [f.]"
+ },
+ {
+  "abandon": "material",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "materyal [i.],madde [i.],malzeme [i.]"
+ },
+ {
+  "abandon": "maximum",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "maksimum [s.],azami [s.],maksimum [i.]"
+ },
+ {
+  "abandon": "mayor",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "belediye başkanı [i.],belediye reisi [i.],belediye başkanı"
+ },
+ {
+  "abandon": "means",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "araç [i.],vasıta [i.],vesile [i.]"
+ },
+ {
+  "abandon": "measurement",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ölçüm [i.],ölçü [i.],mesaha [i.]"
+ },
+ {
+  "abandon": "mechanic",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tamirci [i.],motor tamircisi [i.],makinist [i.]"
+ },
+ {
+  "abandon": "mechanical",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "makineye ait [s.],makineli [s.],mekanik [s.]"
+ },
+ {
+  "abandon": "mechanism",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yöntem [i.],teknik [i.],düzenek [i.]"
+ },
+ {
+  "abandon": "medal",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "nişan [i.],madalya [i.],"
+ },
+ {
+  "abandon": "medication",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ilaç [i.],ilaç tedavisi [i.],ilaçla tedavi"
+ },
+ {
+  "abandon": "medium",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "orta [i.],çevre [i.],çare [i.]"
+ },
+ {
+  "abandon": "melt",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "eritmek [f.],erimek [f.],ergitmek [f.]"
+ },
+ {
+  "abandon": "membership",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "üyelik [i.],üyeler [i.],azalık [i.]"
+ },
+ {
+  "abandon": "memorable",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hatırlanmaya değer [s.],hatırlanmaya\/anmaya değer [s.],unutulmaz [s.]"
+ },
+ {
+  "abandon": "metaphor",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "metafor [i.],mecaz [i.],iğretileme [i.]"
+ },
+ {
+  "abandon": "military",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "askeri [s.],ordu [i.],militer [s.]"
+ },
+ {
+  "abandon": "miner",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "madenci [i.],lağımcı [i.],mayıncı [i.]"
+ },
+ {
+  "abandon": "mineral",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "maden [i.],madensel [s.],maden filizi [i.]"
+ },
+ {
+  "abandon": "minimum",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "asgari [s.],minimum değer [i.],en düşük derece [i.]"
+ },
+ {
+  "abandon": "minister",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bakan [i.],bakmak [f.],vaizlik yapmak [f.]"
+ },
+ {
+  "abandon": "minor",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "rüştünü ispat etmemiş kimse [i.],reşit olmayan kimse [i.],ergin olmayan kimse [i.]"
+ },
+ {
+  "abandon": "minority",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "azınlık [i.],azlık [i.],reşit olmama [i.]"
+ },
+ {
+  "abandon": "miserable",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "acınası [s.],bedbaht [s.],sefil [s.]"
+ },
+ {
+  "abandon": "mission",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "vazife [i.],misyon [i.],görev [i.]"
+ },
+ {
+  "abandon": "mistake",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yanılgı [i.],hata [i.],yanlış [i.]"
+ },
+ {
+  "abandon": "mixed",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "karma [s.],karışık [s.],katkılı [s.]"
+ },
+ {
+  "abandon": "mode",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kip [i.],usul [i.],tavır [i.]"
+ },
+ {
+  "abandon": "model",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "model [i.],manken [i.],modellik etmek [f.]"
+ },
+ {
+  "abandon": "modest",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "mütevazı [s.],alçakgönüllü [s.],gösterişsiz [s.]"
+ },
+ {
+  "abandon": "modify",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tamlamak [f.],değişmek [f.],değişiklik yapmak [f.]"
+ },
+ {
+  "abandon": "monitor",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "izlemek [f.],gözlemek [f.],takip etmek [f.]"
+ },
+ {
+  "abandon": "monster",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "gaddar adam [i.],canavar [i.],ucube [i.]"
+ },
+ {
+  "abandon": "monthly",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "aylık [s.],aylık dergi [i.],ayda bir olan [s.]"
+ },
+ {
+  "abandon": "monument",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "abide [i.],anıt [i.],anıt [i.]"
+ },
+ {
+  "abandon": "moral",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ahlaki [s.],manevi [s.],prensip sahibi [i.]"
+ },
+ {
+  "abandon": "moreover",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dahası [zf.],hem de [zf.],dahası [zf.]"
+ },
+ {
+  "abandon": "mortgage",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ipotek [i.],rehine koymak [f.],ipotek etmek [f.]"
+ },
+ {
+  "abandon": "mosque",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "mescit [i.],cami [i.],"
+ },
+ {
+  "abandon": "motion",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "devinim [i.],önerge [i.],hareket [i.]"
+ },
+ {
+  "abandon": "motivate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "motive etmek [f.],hareket ettirmek [f.],isteklendirmek [f.]"
+ },
+ {
+  "abandon": "motivation",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "motivasyon [i.],güdülenme [i.],güdülenim [i.]"
+ },
+ {
+  "abandon": "motor",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "motor [i.],otomobille gitmek [f.],otomobille götürmek [f.]"
+ },
+ {
+  "abandon": "mount",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "binmek [f.],binmek (at\/bisiklet vb) [f.],çıkmak [f.]"
+ },
+ {
+  "abandon": "moving",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hareketli [s.],duygulandırma [i.],hareket etme [i.]"
+ },
+ {
+  "abandon": "multiple",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "multipl [s.],birçok [s.],katmerli [s.]"
+ },
+ {
+  "abandon": "multiply",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yayılmak [f.],artmak [f.],türemek [f.]"
+ },
+ {
+  "abandon": "mysterious",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "esrarengiz [s.],gizemli [s.],anlaşılmaz [s.]"
+ },
+ {
+  "abandon": "myth",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "efsane [i.],masal [i.],söylen [i.]"
+ },
+ {
+  "abandon": "naked",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çıplak [s.],açık [s.],çaresiz [s.]"
+ },
+ {
+  "abandon": "narrow",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dar [s.],ensizleşmek [f.],kısmak [f.]"
+ },
+ {
+  "abandon": "nasty",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "pis [s.],edepsiz [s.],fena kokulu [s.]"
+ },
+ {
+  "abandon": "national",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ulusal [s.],milli [s.],yurttaş [s.]"
+ },
+ {
+  "abandon": "navigation",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "navigasyon [i.],seyrüsefer [i.],gemi yolculuğu [i.]"
+ },
+ {
+  "abandon": "nearby",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yakında [zf.],yakındaki [s.],yakın [s.]"
+ },
+ {
+  "abandon": "neat",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "düzenli [s.],tertipli [s.],sek [s.]"
+ },
+ {
+  "abandon": "necessity",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "gereklilik [i.],gereksinim [i.],zorunluluk [i.]"
+ },
+ {
+  "abandon": "negative",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "negatif [s.],olumsuz [s.],etkisiz hale getirmek [f.]"
+ },
+ {
+  "abandon": "negotiate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "görüşmek [f.],müzakerede bulunmak [f.],başarmak [f.]"
+ },
+ {
+  "abandon": "negotiation",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "müzakere [i.],paraya çevirme [i.],uzlaşma [i.]"
+ },
+ {
+  "abandon": "nerve",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sinir [i.],cesaret vermek [f.],cesaretlendirmek [f.]"
+ },
+ {
+  "abandon": "neutral",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tarafsız [s.],yansız [s.],nötr [s.]"
+ },
+ {
+  "abandon": "nevertheless",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yine de [zf.],gene [zf.],bununla beraber [zf.]"
+ },
+ {
+  "abandon": "newly",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yeni [zf.],yeni olarak [zf.],yakın zamanlarda [zf.]"
+ },
+ {
+  "abandon": "nightmare",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kabus [i.],karabasan [i.],korkulu rüya [i.]"
+ },
+ {
+  "abandon": "norm",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kaide [i.],standart [i.],düstur [i.]"
+ },
+ {
+  "abandon": "notebook",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "defter [i.],not defteri [i.],not defteri [i.]"
+ },
+ {
+  "abandon": "notion",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "düşünce [i.],kavram [i.],heves [i.]"
+ },
+ {
+  "abandon": "novelist",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "romancı [i.],roman yazarı [i.],yazar [i.]"
+ },
+ {
+  "abandon": "nowadays",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bu günlerde [zf.],şimdiki zaman [i.],bu sıralar [i.]"
+ },
+ {
+  "abandon": "numerous",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sayısız [s.],birçok [s.],pek çok [s.]"
+ },
+ {
+  "abandon": "nursing",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bakma [i.],doğum [i.],emzirme [i.]"
+ },
+ {
+  "abandon": "nutrition",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "beslenme [i.],besleme [i.],besin [i.]"
+ },
+ {
+  "abandon": "obesity",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "şişmanlık [i.],aşırı şişmanlık [i.],obezite"
+ },
+ {
+  "abandon": "obey",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "itaat etmek [f.],tanımak [f.],sadakat göstermek [f.]"
+ },
+ {
+  "abandon": "object",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "itiraz etmek [f.],razı olmamak [f.],karşı çıkmak [f.]"
+ },
+ {
+  "abandon": "objective",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hedef [i.],amaç [i.],nesnel [s.]"
+ },
+ {
+  "abandon": "obligation",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yükümlülük [i.],mecburiyet [i.],zorunluluk [i.]"
+ },
+ {
+  "abandon": "observation",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "gözetleme [i.],gözlem [i.],rasat [i.]"
+ },
+ {
+  "abandon": "observe",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "gözlemlemek [f.],gözlem yapmak [f.],gözetlemek [f.]"
+ },
+ {
+  "abandon": "observer",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "gözlemci [i.],gözcü [i.],izlemci [i.]"
+ },
+ {
+  "abandon": "obstacle",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "mani [i.],engel [i.],tebelleş [i.]"
+ },
+ {
+  "abandon": "obtain",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "edinmek [f.],elde etmek [f.],almak [f.]"
+ },
+ {
+  "abandon": "occasionally",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ara sıra [zf.],arada sırada [zf.],sık görülmeyen [zf.]"
+ },
+ {
+  "abandon": "occupation",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "uğraş [i.],işgal [i.],meslek [i.]"
+ },
+ {
+  "abandon": "occupy",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "işgal etmek [f.],meşgul etmek [f.],yatmak (yatakta) [f.]"
+ },
+ {
+  "abandon": "offence",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "darılmak [f.],incitme [i.],saldırı [i.]"
+ },
+ {
+  "abandon": "offend",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "rencide etmek [f.],suç işlemek [f.],küstürmek [f.]"
+ },
+ {
+  "abandon": "offender",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "fail [i.],kabahatli [i.],suçlu [i.]"
+ },
+ {
+  "abandon": "offensive",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "saldıran [s.],saldırgan [s.],saldırı [s.]"
+ },
+ {
+  "abandon": "official",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "memur [i.],resmi [s.],yetkili [i.]"
+ },
+ {
+  "abandon": "ongoing",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "süregiden [s.],sürmekte olan [s.],süregitmekte olan [s.]"
+ },
+ {
+  "abandon": "opening",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "açma [i.],açılış [i.],ağız [i.]"
+ },
+ {
+  "abandon": "openly",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "açıkça [zf.],resmen [zf.],açık [zf.]"
+ },
+ {
+  "abandon": "opera",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "opera [i.],opera,opera"
+ },
+ {
+  "abandon": "operate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ameliyat etmek [f.],çalıştırmak [f.],işletmek [f.]"
+ },
+ {
+  "abandon": "operator",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çalıştıran kişi [i.],operatör [i.],spekülatör [i.]"
+ },
+ {
+  "abandon": "opponent",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "rakip [i.],muhalif [i.],karşıt [s.]"
+ },
+ {
+  "abandon": "oppose",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "karşı koymak [f.],karşılaştırmak [f.],karşısına koymak [f.]"
+ },
+ {
+  "abandon": "opposed",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "karşıt [s.],aleyhtar [s.],zıt [s.]"
+ },
+ {
+  "abandon": "opposition",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "aykırılık [i.],muhalefet [i.],karşı koyma [i.]"
+ },
+ {
+  "abandon": "optimistic",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "iyimser [s.],optimist [s.],optimistik [s.]"
+ },
+ {
+  "abandon": "orchestra",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "orkestra [i.],saz takımı [i.],çalgı takımı [i.]"
+ },
+ {
+  "abandon": "organ",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "organ [i.],erganun [i.],yayın organı [i.]"
+ },
+ {
+  "abandon": "organic",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bedensel [s.],canlı [s.],doğuştan [s.]"
+ },
+ {
+  "abandon": "origin",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "menşe [i.],köken [i.],bir şeyin dayandığı temel [i.]"
+ },
+ {
+  "abandon": "otherwise",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "aksi halde [zf.],aksi takdirde [zf.],aksi durum [i.]"
+ },
+ {
+  "abandon": "outcome",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "netice [i.],sonuç [i.],sonuç ürün [i.]"
+ },
+ {
+  "abandon": "outer",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dış [s.],harici [s.],dış [s.]"
+ },
+ {
+  "abandon": "outfit",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "donatmak [f.],teçhiz etmek [f.],donatı [i.]"
+ },
+ {
+  "abandon": "outline",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "taslağını çizmek [f.],anahatlarıyla çizmek [f.],özetlemek [f.]"
+ },
+ {
+  "abandon": "output",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "output\/outputted -\noutput\/outputted [f.],faaliyet [i.],ürün [i.]"
+ },
+ {
+  "abandon": "outstanding",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "üstün [s.],göze çarpan [s.],seçkin [s.]"
+ },
+ {
+  "abandon": "overall",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bir uçtan bir uca [s.],etraflı [s.],tüm [s.]"
+ },
+ {
+  "abandon": "overcome",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "üstesinden gelmek [f.],aşmak [f.],alt etmek [f.]"
+ },
+ {
+  "abandon": "overnight",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "gecelemek [f.],bir gece için olan [s.],bir gecelik [s.]"
+ },
+ {
+  "abandon": "overseas",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "denizlerin ötesinde bulunan ülke\nvb [i.],ülke dışı [i.],yurtdışı [s.]"
+ },
+ {
+  "abandon": "owe",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "borçlu olmak [f.],minnettar olmak [f.],borç bilmek [f.]"
+ },
+ {
+  "abandon": "ownership",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "mülkiyet [i.],sahiplik [i.],(arazi\/bina için) mülkiyet [i.]"
+ },
+ {
+  "abandon": "oxygen",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "oksitlenme [i.],oksijen [i.],oksijen"
+ },
+ {
+  "abandon": "pace",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "adımlamak [f.],tempo [i.],yürüyüş [i.]"
+ },
+ {
+  "abandon": "package",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "paketlemek [f.],paket [i.],koli [i.]"
+ },
+ {
+  "abandon": "packet",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "paket [i.],paketlemek [f.],sorun [i.]"
+ },
+ {
+  "abandon": "palm",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "palmiye [i.],avuç içi [i.],avuç [i.]"
+ },
+ {
+  "abandon": "panel",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "pano [i.],panellerle süslemek [f.],lambri ile kaplamak [f.]"
+ },
+ {
+  "abandon": "panic",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "panik yapmak [f.],panik [i.],paniğe kapılmak [f.]"
+ },
+ {
+  "abandon": "parade",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "geçit töreni [i.],ilan etmek [f.],gösteri yapmak [f.]"
+ },
+ {
+  "abandon": "parallel",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "aynı doğrultuda olan [s.],paralel [s.],benzetmek [f.]"
+ },
+ {
+  "abandon": "parliament",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "meclis [i.],parlamento [i.],parlamento"
+ },
+ {
+  "abandon": "participant",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "katılımcı [i.],paylaşan [i.],iştirakçı [i.]"
+ },
+ {
+  "abandon": "participation",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "katılım [i.],iştirak [i.],katılımcılık [i.]"
+ },
+ {
+  "abandon": "partly",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kısmen [zf.],bir ölçüde [zf.],tam olmayan [zf.]"
+ },
+ {
+  "abandon": "partnership",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ortaklık [i.],mukarada [i.],mudaraba [i.]"
+ },
+ {
+  "abandon": "part-time",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yarımgün [s.],parttaym [s.],yarı zamanlı [s.]"
+ },
+ {
+  "abandon": "passage",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "pasaj [i.],geçit [i.],geçiş [i.]"
+ },
+ {
+  "abandon": "passionate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tutkulu [s.],hırslı [s.],şiddetli [s.]"
+ },
+ {
+  "abandon": "password",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "şifre [i.],parola [i.],şiar [i.]"
+ },
+ {
+  "abandon": "patience",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sabır [i.],sabır [i.],hasta [i.]"
+ },
+ {
+  "abandon": "patient",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hasta [i.],sabırlı [s.],mütehammil [i.]"
+ },
+ {
+  "abandon": "pause",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "duraklamak [f.],ara vermek [f.],durma [i.]"
+ },
+ {
+  "abandon": "peer",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "eş [i.],akran [i.],çıkmak [f.]"
+ },
+ {
+  "abandon": "penalty",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ceza [i.],cereme [i.],para cezası [i.]"
+ },
+ {
+  "abandon": "pension",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "emekli maaşı [i.],emeklilik [i.],emekli aylığı vermek [f.]"
+ },
+ {
+  "abandon": "perceive",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "algılamak [f.],idrak etmek [f.],farkına varmak [f.]"
+ },
+ {
+  "abandon": "perception",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "algı [i.],algılanma [i.],feraset [i.]"
+ },
+ {
+  "abandon": "permanent",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "daimi [s.],kalıcı [s.],perma [i.]"
+ },
+ {
+  "abandon": "permanently",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kalıcı bir şekilde [zf.],temelli olarak [zf.],devamlı olarak [zf.]"
+ },
+ {
+  "abandon": "permit",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "izin vermek [f.],ruhsat [i.],izin [i.]"
+ },
+ {
+  "abandon": "perspective",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bakış açısı [i.],perspektif [i.],derinlemesine inceleme yeteneği\n[i.]"
+ },
+ {
+  "abandon": "phase",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "aşama [i.],safha [i.],evre [i.]"
+ },
+ {
+  "abandon": "phenomenon",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "algılanabilen şey [i.],olağanüstülük [i.],olgu [i.]"
+ },
+ {
+  "abandon": "philosophy",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "felsefe [i.],dünya görüşü [i.],sakinlik [i.]"
+ },
+ {
+  "abandon": "pick",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "seçmek [f.],pena [i.],gitar penası [i.]"
+ },
+ {
+  "abandon": "picture",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "resim [i.],yansıtmak [f.],resmetmek [f.]"
+ },
+ {
+  "abandon": "pile",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yığın [i.],tepeleme doldurmak [f.],istif etmek [f.]"
+ },
+ {
+  "abandon": "pill",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sıkıcı tip [i.],hap [i.],hap\/ilaç vermek [f.]"
+ },
+ {
+  "abandon": "pitch",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yalpalamak [f.],taş döşemek (yol) [f.],kur yapmak [f.]"
+ },
+ {
+  "abandon": "pity",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "acımak [f.],merhamet etmek [f.],şefkat [i.]"
+ },
+ {
+  "abandon": "placement",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "atama [i.],para yatırma [i.],sipariş verme [i.]"
+ },
+ {
+  "abandon": "plain",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ova [i.],süssüz [s.],yalın [s.]"
+ },
+ {
+  "abandon": "plot",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "komplo kurmak [f.],hikayenin konusu [i.],komplo [i.]"
+ },
+ {
+  "abandon": "plus",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "artı [s.],fazlalık [i.],fazla [i.]"
+ },
+ {
+  "abandon": "pointed",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sivri [s.],sivri uçlu [s.],keskin [s.]"
+ },
+ {
+  "abandon": "popularity",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "rağbet [i.],popülerlik [i.],popüler olma [i.]"
+ },
+ {
+  "abandon": "portion",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ayırmak [f.],bölüştürmek [f.],bir tabak yemek [f.]"
+ },
+ {
+  "abandon": "pose",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "(tehlike\/tehdit) teşkil etmek [f.],poz [i.],frikik vermek [f.]"
+ },
+ {
+  "abandon": "position",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "mevki [i.],pozisyon [i.],konum [i.]"
+ },
+ {
+  "abandon": "positive",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "pozitif [s.],artı [s.],olumlu [s.]"
+ },
+ {
+  "abandon": "possess",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sahip olmak [f.],elinde bulundurmak [f.],tutmak [f.]"
+ },
+ {
+  "abandon": "potential",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "potansiyel [s.],olası [s.],güç [i.]"
+ },
+ {
+  "abandon": "potentially",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "imkan dahilinde [zf.],potansiyel olarak [zf.],olanak dahilinde"
+ },
+ {
+  "abandon": "power",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yetki [i.],güç [i.],kuvvet [i.]"
+ },
+ {
+  "abandon": "praise",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "methetmek [f.],övmek [f.],övgü [i.]"
+ },
+ {
+  "abandon": "precede",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "önce olmak [f.],üstün olmak [f.],önünde gitmek [f.]"
+ },
+ {
+  "abandon": "precious",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "değerli [s.],kıymetli [s.],pahalı [s.]"
+ },
+ {
+  "abandon": "precise",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kesin [s.],kesinlik [i.],titizlikle yapılmış (iş) [s.]"
+ },
+ {
+  "abandon": "precisely",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "açık olarak [zf.],tam [zf.],belli [zf.]"
+ },
+ {
+  "abandon": "predictable",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "önceden kestirilebilir [s.],tahmin edilebilir [s.],öngörülebilir [s.]"
+ },
+ {
+  "abandon": "preference",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tercih [i.],rüçhan hakkı [i.],tercih edilen şey [i.]"
+ },
+ {
+  "abandon": "pregnant",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "gebe [s.],hamile [s.],bebek beklemek [f.]"
+ },
+ {
+  "abandon": "preparation",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hazırlık [i.],hazırlanan ilaç [i.],hazırlanış [i.]"
+ },
+ {
+  "abandon": "presence",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "mevcudiyet [i.],buradalık [i.],oluş [i.]"
+ },
+ {
+  "abandon": "preserve",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "muhafaza etmek [f.],korumak [f.],zarardan korumak [f.]"
+ },
+ {
+  "abandon": "price",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bedel [i.],fiyat [i.],ücret [i.]"
+ },
+ {
+  "abandon": "pride",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "gurur [i.],gurur duymak [f.],tüylerini kabartmak (kuş) [f.]"
+ },
+ {
+  "abandon": "primarily",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "öncelikle [zf.],ilk olarak [zf.],başlıca [zf.]"
+ },
+ {
+  "abandon": "prime",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "astar vurmak [f.],kurmak [f.],nasıl cevap vermesi gerektiğini\nönceden söylemek (birine) [f.]"
+ },
+ {
+  "abandon": "principal",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "okul müdürü [i.],başlıca [s.],asıl [s.]"
+ },
+ {
+  "abandon": "principle",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "prensip [i.],ilke [i.],ahlak [i.]"
+ },
+ {
+  "abandon": "print",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yazdırmak [f.],basmak [f.],baskı [i.]"
+ },
+ {
+  "abandon": "prior",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "önceden [s.],daha önce olan [s.],daha erken olan [s.]"
+ },
+ {
+  "abandon": "priority",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "öncelik [i.],rüçhan [i.],kıdemlilik [i.]"
+ },
+ {
+  "abandon": "privacy",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "mahremiyet [i.],gizlilik [i.],yalnızlık [i.]"
+ },
+ {
+  "abandon": "probability",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "olasılık [i.],ihtimal [i.],olasılık [i.]"
+ },
+ {
+  "abandon": "probable",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "olası [s.],muhtemel [s.],olasılı [s.]"
+ },
+ {
+  "abandon": "procedure",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "prosedür [i.],yöntem [i.],ameliye [i.]"
+ },
+ {
+  "abandon": "proceed",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ilerlemek [f.],devam etmek [f.],çıkmak [f.]"
+ },
+ {
+  "abandon": "process",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "işlemek [f.],işlem [i.],süreç [i.]"
+ },
+ {
+  "abandon": "produce",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "üretmek [f.],imal etmek [f.],çıkarmak [f.]"
+ },
+ {
+  "abandon": "professional",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "profesyonel [s.],mesleki [s.],fikir işçisi [i.]"
+ },
+ {
+  "abandon": "programming",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "programlama [i.],programlama,izlenceleme"
+ },
+ {
+  "abandon": "progress",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "gelişmek [f.],gelişim göstermek [f.],ilerlemek [f.]"
+ },
+ {
+  "abandon": "progressive",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ileri düşünceli kimse [i.],ilerici [s.],müterakki [s.]"
+ },
+ {
+  "abandon": "prohibit",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "önlemek [f.],önüne geçmek [f.],önlemek [f.]"
+ },
+ {
+  "abandon": "project",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "proje [i.],iz düşürmek [f.],planını çizmek [f.]"
+ },
+ {
+  "abandon": "promising",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "geleceği parlak [i.],söz verme [i.],gelecek vaat eden [s.]"
+ },
+ {
+  "abandon": "promotion",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "promosyon [i.],tanıtım [i.],terfi [i.]"
+ },
+ {
+  "abandon": "prompt",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çabuk [s.],hızlı (cevap) [s.],unuttuğu sözleri sufle etmek [f.]"
+ },
+ {
+  "abandon": "proof",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kanıt [i.],ispat [i.],dayanıklı hale getirmek [f.]"
+ },
+ {
+  "abandon": "proportion",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "orantı [i.],oran [i.],ayarlamak [f.]"
+ },
+ {
+  "abandon": "proposal",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "öneri [i.],teklif [i.],takrir [i.]"
+ },
+ {
+  "abandon": "propose",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "önermek [f.],teklif etmek [f.],ileri sürmek [f.]"
+ },
+ {
+  "abandon": "prospect",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "olasılık [i.],maden aramak [f.],altın aramak [f.]"
+ },
+ {
+  "abandon": "protection",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "himaye [i.],koruma [i.],korunma [i.]"
+ },
+ {
+  "abandon": "protein",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "protein [i.],protein,albümin özü"
+ },
+ {
+  "abandon": "protester",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "protestocu [i.],itirazcı [i.],itirazcı kişi [i.]"
+ },
+ {
+  "abandon": "psychological",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ruhbilimsel [s.],ruhi [s.],tinbilimsel [s.]"
+ },
+ {
+  "abandon": "psychologist",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tinbilimci [i.],ruhbilimci [i.],psikolog [i.]"
+ },
+ {
+  "abandon": "psychology",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ruh bilimi [i.],psikoloji [i.],tinbilim [i.]"
+ },
+ {
+  "abandon": "publication",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yayınlama [i.],yayım [i.],yayımlama [i.]"
+ },
+ {
+  "abandon": "publicity",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tanıtım [i.],ilan [i.],ilan etme [i.]"
+ },
+ {
+  "abandon": "publishing",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yayıncılık [i.],neşir [i.],yayınlama (kitap vb) [i.]"
+ },
+ {
+  "abandon": "punk",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "aşağılamak [f.],toy [i.],gangster [i.]"
+ },
+ {
+  "abandon": "pupil",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "öğrenci [i.],öğrenci öğretmen [i.],stajyer [i.]"
+ },
+ {
+  "abandon": "purchase",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "satın almak [f.],satın alma [i.],alım [i.]"
+ },
+ {
+  "abandon": "pure",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "saf [s.],kötülükten uzak [s.],kusursuz [s.]"
+ },
+ {
+  "abandon": "purely",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sırf [zf.],tamamen [zf.],sadece [zf.]"
+ },
+ {
+  "abandon": "pursue",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "izlemek [f.],takip etmek [f.],sürdürmek [f.]"
+ },
+ {
+  "abandon": "pursuit",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kovalama [i.],takip [i.],gerçekleştirmeye çalışma [i.]"
+ },
+ {
+  "abandon": "puzzle",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bulmaca [i.],bilmece [i.],şaşırmak [f.]"
+ },
+ {
+  "abandon": "questionnaire",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "anket [i.],sormaca [i.],form [i.]"
+ },
+ {
+  "abandon": "racial",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ırksal [s.],ırkla ilgili [s.],ırk [s.]"
+ },
+ {
+  "abandon": "racism",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "anasoyculuk [i.],kafatasçılık [i.],ırkçılık [i.]"
+ },
+ {
+  "abandon": "racist",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ırkçı [i.],anasoycu [i.],kafatasçı [i.]"
+ },
+ {
+  "abandon": "radiation",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ışınım [i.],ışıma [i.],radyasyon [i.]"
+ },
+ {
+  "abandon": "rail",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ray döşemek [f.],parmaklıkla çevirmek [f.],parmaklık [i.]"
+ },
+ {
+  "abandon": "random",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "gelişigüzel [s.],rastgele [s.],rastlantısal [s.]"
+ },
+ {
+  "abandon": "range",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "silsile [i.],sıra (dağ\/tepe) [i.],çeşitlilik [i.]"
+ },
+ {
+  "abandon": "rank",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "rütbe [i.],aşama [i.],kademe [i.]"
+ },
+ {
+  "abandon": "rapid",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ani [s.],hızlı [s.],kuduruk [s.]"
+ },
+ {
+  "abandon": "rapidly",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hızla [zf.],süratle [zf.],çarçabuk [zf.]"
+ },
+ {
+  "abandon": "rat",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sıçan [i.],fare tutmak [f.],ihanet etmek [f.]"
+ },
+ {
+  "abandon": "rate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kur [i.],oran [i.],addetmek [f.]"
+ },
+ {
+  "abandon": "rating",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "derece [i.],derecelendirme [i.],tahmin [i.]"
+ },
+ {
+  "abandon": "raw",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çiğ [s.],ham [s.],hamlık [i.]"
+ },
+ {
+  "abandon": "reach",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ulaşmak [f.],ermek [f.],erişmek [f.]"
+ },
+ {
+  "abandon": "realistic",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ideal ya da ahlaki boyutundan\nziyade faydacı ve pratik yönü ağır\nbasan [i.],gerçek hayata benzeyen [i.],gerçekçi [s.]"
+ },
+ {
+  "abandon": "reasonable",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "makul [s.],mantıksal [s.],uygun [s.]"
+ },
+ {
+  "abandon": "reasonably",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "orta derecede [zf.],makul bir şekilde [zf.],kararınca [zf.]"
+ },
+ {
+  "abandon": "rebuild",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yeniden inşa etmek [f.],rebuilt - rebuilt [f.],yeniden yapmak [f.]"
+ },
+ {
+  "abandon": "recall",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hatırlamak [f.],anımsamak [f.],geri istemek [f.]"
+ },
+ {
+  "abandon": "receiver",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "alıcı [i.],reseptör [i.],ahize (telefon) [i.]"
+ },
+ {
+  "abandon": "recession",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "girinti [i.],durgunluk (piyasa) [i.],geri çekilme [i.]"
+ },
+ {
+  "abandon": "reckon",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tahmin etmek [f.],tutmak [f.],hesaplamak [f.]"
+ },
+ {
+  "abandon": "recognition",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tanıma [i.],tanınırlık [i.],teşhis [i.]"
+ },
+ {
+  "abandon": "recover",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kurtarmak [f.],iyileşmek [f.],sağalmak [f.]"
+ },
+ {
+  "abandon": "recovery",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kurtulma [i.],atlatma [i.],toparlanma [i.]"
+ },
+ {
+  "abandon": "recruit",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "iyileştirmek [f.],sağlığı iyileşmek [f.],asker toplamak [f.]"
+ },
+ {
+  "abandon": "recruitment",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "işe alım [i.],askere alma [i.],iyileştirme [i.]"
+ },
+ {
+  "abandon": "reduction",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "indirme [i.],eksiltme [i.],düşürme [i.]"
+ },
+ {
+  "abandon": "referee",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hakem [i.],hakemlik yapmak [f.],hakem olmak [f.]"
+ },
+ {
+  "abandon": "refugee",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "mülteci [i.],mübadil [i.],sığınmacı [i.]"
+ },
+ {
+  "abandon": "regard",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "saymak [f.],hesaba katmak [f.],dikkatle bakmak [f.]"
+ },
+ {
+  "abandon": "regional",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bölgesel [s.],bölgesel kurum [i.],mevzii [s.]"
+ },
+ {
+  "abandon": "register",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kaydetmek [f.],sicil [i.],kayıt [i.]"
+ },
+ {
+  "abandon": "registration",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tescil [i.],(kütüğe) kaydetme [i.],kayıt [i.]"
+ },
+ {
+  "abandon": "regret",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "pişman olmak [f.],pişmanlık [i.],esefle karşılamak [f.]"
+ },
+ {
+  "abandon": "regulate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "düzenlemek [f.],düzene sokmak [f.],ayarlamak [f.]"
+ },
+ {
+  "abandon": "regulation",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "düzenleme [i.],nizam [i.],regülasyon [i.]"
+ },
+ {
+  "abandon": "reinforce",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "pekiştirmek [f.],sağlamlaştırmak [f.],takviye etmek [f.]"
+ },
+ {
+  "abandon": "relatively",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "nispeten [zf.],oranla [zf.],görece [zf.]"
+ },
+ {
+  "abandon": "relevant",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "konuyla ilgili [s.],konu ile ilgili [s.],ilgili [s.]"
+ },
+ {
+  "abandon": "relief",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "rahatlama [i.],avuntu [i.],rölöve [i.]"
+ },
+ {
+  "abandon": "relieve",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "rahatlatmak [f.],avutmak [f.],nöbeti devralmak [f.]"
+ },
+ {
+  "abandon": "relieved",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "rahatlamış [s.],müsterih [s.],rahat [s.]"
+ },
+ {
+  "abandon": "rely",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "güvenmek [f.],dayanmak [f.],inanmak [f.]"
+ },
+ {
+  "abandon": "remark",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "belirtmek [f.],yorum [i.],görüş [i.]"
+ },
+ {
+  "abandon": "remarkable",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dikkat çekici [s.],göze çarpan [s.],dikkate değer [s.]"
+ },
+ {
+  "abandon": "remarkably",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dikkat çekecek derecede [zf.],önemli biçimde [zf.],"
+ },
+ {
+  "abandon": "reporting",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "raporlama [i.],habercilik [i.],rapor [i.]"
+ },
+ {
+  "abandon": "representative",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "temsil eden [s.],temsili [s.],temsilci [s.]"
+ },
+ {
+  "abandon": "reputation",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ün [i.],şöhret [i.],itibar [i.]"
+ },
+ {
+  "abandon": "requirement",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ihtiyaç [i.],gereksinim [i.],talep [i.]"
+ },
+ {
+  "abandon": "rescue",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kurtarmak [f.],hacizden kurtarmak [f.],imdadına yetişmek [f.]"
+ },
+ {
+  "abandon": "reserve",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "rezerve ettirmek [f.],ayırmak [f.],ayırtmak [f.]"
+ },
+ {
+  "abandon": "resident",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sakin [i.],bir yerde oturan\/sakin [i.],yerleşmiş olan kimse [i.]"
+ },
+ {
+  "abandon": "resign",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "istifa etmek [f.],çekilmek [f.],teslim olmak [f.]"
+ },
+ {
+  "abandon": "resist",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "direnmek [f.],dayanmak [f.],karşı koymak [f.]"
+ },
+ {
+  "abandon": "resolution",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kararlılık [i.],azim [i.],çözünme [i.]"
+ },
+ {
+  "abandon": "resolve",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kesin karar vermek [f.],azmetmek [f.],ahdetmek [f.]"
+ },
+ {
+  "abandon": "resort",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tatil yeri [i.],gitmek [f.],başvurmak [f.]"
+ },
+ {
+  "abandon": "restore",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yenileştirmek [f.],eski konumuna getirmek [f.],restorasyon yapmak [f.]"
+ },
+ {
+  "abandon": "restrict",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sınırlamak [f.],kısıtlamak [f.],hasretmek [f.]"
+ },
+ {
+  "abandon": "restriction",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sınırlama [i.],kısıtlama [i.],tahdit [i.]"
+ },
+ {
+  "abandon": "retail",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "perakende satış [i.],perakende [s.],ayrıntılarıyla anlatmak [f.]"
+ },
+ {
+  "abandon": "retain",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sürdürmek [f.],alıkoymak [f.],elinden kaçırmamak [f.]"
+ },
+ {
+  "abandon": "retirement",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "emeklilik [i.],geri çekilme [i.],bir köşeye çekilme [i.]"
+ },
+ {
+  "abandon": "reveal",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "meydana çıkarmak [f.],ortaya çıkarmak [f.],açığa vurmak [f.]"
+ },
+ {
+  "abandon": "revenue",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hasılat [i.],gelir [i.],irat [i.]"
+ },
+ {
+  "abandon": "revision",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "gözden geçirme [i.],revizyon [i.],gözden geçirip düzeltme [i.]"
+ },
+ {
+  "abandon": "revolution",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ihtilal [i.],devrim [i.],inkılap [i.]"
+ },
+ {
+  "abandon": "reward",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ödüllendirmek [f.],mükafat [i.],ödül [i.]"
+ },
+ {
+  "abandon": "rhythm",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ritim [i.],düzenlilik [i.],nabız atışı [i.]"
+ },
+ {
+  "abandon": "rid",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "rid - rid [f.],temizlemek [f.],başından atmak [f.]"
+ },
+ {
+  "abandon": "ridiculous",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "gülünç [s.],saçma [s.],komik [s.]"
+ },
+ {
+  "abandon": "risky",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "riskli [s.],sakat [s.],terbiyesiz [s.]"
+ },
+ {
+  "abandon": "rival",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "rakip [i.],... kadar ... olmak [f.],çekişmek [f.]"
+ },
+ {
+  "abandon": "rob",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "soymak [f.],yağma etmek [f.],talan etmek [f.]"
+ },
+ {
+  "abandon": "robbery",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hırsızlık [i.],soygun [i.],karmanyola [i.]"
+ },
+ {
+  "abandon": "rocket",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "roket [i.],füze fırlatmak [f.],fırlamak [f.]"
+ },
+ {
+  "abandon": "romance",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "romantizm [i.],romans [i.],uydurmak [f.]"
+ },
+ {
+  "abandon": "root",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "köken [i.],kök [i.],deşmek [f.]"
+ },
+ {
+  "abandon": "rose",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "gül [s.],güzel kız [i.],roze [i.]"
+ },
+ {
+  "abandon": "roughly",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yaklaşık olarak [zf.],yaklaşık olarak [zf.],tahminen [zf.]"
+ },
+ {
+  "abandon": "round",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yuvarlak [s.],bitirmek [f.],dönmek (köşeyi\/virajı) [f.]"
+ },
+ {
+  "abandon": "routine",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "rutin [s.],adet [i.],hergünkü işler [i.]"
+ },
+ {
+  "abandon": "rub",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sürtmek [f.],ovmak [f.],sürtünmek [f.]"
+ },
+ {
+  "abandon": "rubber",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kauçuk [i.],lastik [i.],lastik kaplamak [f.]"
+ },
+ {
+  "abandon": "ruin",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "mahvetmek [f.],bozmak [f.],harabe [i.]"
+ },
+ {
+  "abandon": "rural",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kırsal [s.],taşra [s.],köye ait [s.]"
+ },
+ {
+  "abandon": "rush",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "acele etmek [f.],acele ettirmek [f.],telaş etmek [f.]"
+ },
+ {
+  "abandon": "sample",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "örnek [i.],numune [i.],tatmak [f.]"
+ },
+ {
+  "abandon": "satellite",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "uydu [i.],uşak [i.],peyk [i.]"
+ },
+ {
+  "abandon": "satisfaction",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "memnuniyet [i.],tatmin [i.],kefaretin ödenmesi [i.]"
+ },
+ {
+  "abandon": "satisfied",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "memnun [s.],razı [s.],kanık [s.]"
+ },
+ {
+  "abandon": "satisfy",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tatmin etmek [f.],doyurmak [f.],yerine getirmek [f.]"
+ },
+ {
+  "abandon": "saving",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tasarruf [i.],kurtarma [i.],birikim [i.]"
+ },
+ {
+  "abandon": "scale",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ölçeklendirmek [f.],tartar [i.],ölçek [i.]"
+ },
+ {
+  "abandon": "scandal",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "skandal [i.],rezalet [i.],karalama [i.]"
+ },
+ {
+  "abandon": "scare",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ürkütmek [f.],korkutmak [f.],ödünü koparmak [f.]"
+ },
+ {
+  "abandon": "scenario",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "senaryo [i.],tasarı [i.],plan [i.]"
+ },
+ {
+  "abandon": "schedule",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "plan [i.],program [i.],tarifeye geçirmek [f.]"
+ },
+ {
+  "abandon": "scheme",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "fesat karıştırmak [f.],düzenlemek [f.],dolap çevirmek [f.]"
+ },
+ {
+  "abandon": "scholar",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bilgin [i.],bilim insanı [i.],bursiyer [i.]"
+ },
+ {
+  "abandon": "scholarship",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "burs [i.],alimlik [i.],irfan [i.]"
+ },
+ {
+  "abandon": "scratch",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kazımak [f.],karalamak [f.],çizmek [f.]"
+ },
+ {
+  "abandon": "scream",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bağırmak [f.],çığlık atmak [f.],çığlık [i.]"
+ },
+ {
+  "abandon": "screen",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ekran [i.],göstermek [f.],siper etmek [f.]"
+ },
+ {
+  "abandon": "screening",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "görüntüleme [i.],ayırma [i.],sahneleme [i.]"
+ },
+ {
+  "abandon": "seat",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "oturtmak [f.],koltuk [i.],oturacak yer [i.]"
+ },
+ {
+  "abandon": "sector",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sektör [i.],daire dilimi [i.],işkolu [i.]"
+ },
+ {
+  "abandon": "secure",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sağlamlaştırmak [f.],güvenceye almak [f.],elde etmek [f.]"
+ },
+ {
+  "abandon": "seek",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "aramak [f.],sought - sought [f.],peşinde koşmak [f.]"
+ },
+ {
+  "abandon": "seeker",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sonda [i.],arayıcı [i.],arayan kimse [i.]"
+ },
+ {
+  "abandon": "select",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "seçmek [f.],ayıklamak [f.],elemek [f.]"
+ },
+ {
+  "abandon": "selection",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "seçme [i.],ayırma [i.],seçme şey [i.]"
+ },
+ {
+  "abandon": "self",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "öz [i.],kendi [zm.],özellik [i.]"
+ },
+ {
+  "abandon": "seminar",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "seminer [i.],seminer,"
+ },
+ {
+  "abandon": "senior",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kıdemli [i.],kıdemli kimse [i.],son sınıf öğrencisi [i.]"
+ },
+ {
+  "abandon": "sense",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "algılamak [f.],hissetmek [f.],algı [i.]"
+ },
+ {
+  "abandon": "sensitive",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "içli [s.],hassas [s.],duyarlı [s.]"
+ },
+ {
+  "abandon": "sentence",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "cümle [i.],mahkum etmek [f.],hüküm giydirmek [f.]"
+ },
+ {
+  "abandon": "sequence",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "silsile [i.],birbiri ardından gelme [i.],sıra [i.]"
+ },
+ {
+  "abandon": "session",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "celse [i.],oturum [i.],seans [i.]"
+ },
+ {
+  "abandon": "settle",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yerleşmek [f.],oturtmak (bir şeyi bir yere) [f.],konmak [f.]"
+ },
+ {
+  "abandon": "settler",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "göçmen [i.],son darbe [i.],son söz [i.]"
+ },
+ {
+  "abandon": "severe",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "haşin [s.],sert [s.],şiddetli [s.]"
+ },
+ {
+  "abandon": "severely",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ağır [zf.],ciddi olarak [zf.],şiddetle [zf.]"
+ },
+ {
+  "abandon": "shade",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "gölge [i.],gölgelik [i.],saklamak [f.]"
+ },
+ {
+  "abandon": "shadow",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "gölge [i.],bozmak [f.],gizlice takip etmek [f.]"
+ },
+ {
+  "abandon": "shallow",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sığ [s.],sığlaşmak [f.],düzlemek [f.]"
+ },
+ {
+  "abandon": "shame",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "utandırmak [f.],utanma [i.],ayıp [i.]"
+ },
+ {
+  "abandon": "shape",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "şekillendirmek [f.],biçim vermek [f.],şekil vermek [f.]"
+ },
+ {
+  "abandon": "shaped",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "şekillendirilmiş [s.],biçimli [s.],şekilli [s.]"
+ },
+ {
+  "abandon": "shelter",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "barınak [i.],sığınak [i.],sığınmak [f.]"
+ },
+ {
+  "abandon": "shift",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "değiştirmek [f.],vardiya [i.],kaçamak cevap vermek [f.]"
+ },
+ {
+  "abandon": "ship",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "gemi [i.],kürekleri içeri almak [f.],mal yüklemek (gemiye) [f.]"
+ },
+ {
+  "abandon": "shock",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "şok etmek [f.],şok [i.],kalbini kırmak [f.]"
+ },
+ {
+  "abandon": "shocked",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çarpılmış [s.],şoke [s.],şoklanmış [s.]"
+ },
+ {
+  "abandon": "shocking",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "şok edici [s.],sarsma [i.],şoklama [i.]"
+ },
+ {
+  "abandon": "shooting",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ateş etme [i.],filizlenme [i.],sızlama [i.]"
+ },
+ {
+  "abandon": "shore",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sahil [i.],kıyı [i.],payanda vurmak [f.]"
+ },
+ {
+  "abandon": "shortage",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sıkıntı [i.],eksiklik [i.],kıtlık [i.]"
+ },
+ {
+  "abandon": "shortly",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kısaca [zf.],sözün kısası [zf.],az bir mesafeden sonra [zf.]"
+ },
+ {
+  "abandon": "short-term",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kısa süreli [s.],kısa dönemli [s.],kısa vade [s.]"
+ },
+ {
+  "abandon": "shot",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "atış [i.],postu deldirmek [f.],vurmak [f.]"
+ },
+ {
+  "abandon": "sibling",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kardeş [i.],,"
+ },
+ {
+  "abandon": "signature",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "imza [i.],imzalama [i.],damga [i.]"
+ },
+ {
+  "abandon": "significance",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "önem [i.],değer [i.],anlam [i.]"
+ },
+ {
+  "abandon": "significant",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dikkate değer [s.],kayda değer [s.],belirli [s.]"
+ },
+ {
+  "abandon": "significantly",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "önemli ölçüde [s.],anlamlı [s.],önemli ölçüde [zf.]"
+ },
+ {
+  "abandon": "silence",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "susturmak [f.],suskunluk [i.],sessizlik [i.]"
+ },
+ {
+  "abandon": "silk",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ipek [i.],örümcek ağı ipi [i.],kraliyet avukatı [i.]"
+ },
+ {
+  "abandon": "sincere",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "içten [s.],samimi [s.],samimi [s.]"
+ },
+ {
+  "abandon": "skilled",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yetenekli [s.],marifetli [s.],eli yatkın [s.]"
+ },
+ {
+  "abandon": "skull",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kafatası [i.],kurukafa [i.],kafa [i.]"
+ },
+ {
+  "abandon": "slave",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "köle gibi çalışmak [f.],köle [i.],köle gibi çalışmak [f.]"
+ },
+ {
+  "abandon": "slide",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sürgü [i.],slayt [i.],kaydırak [i.]"
+ },
+ {
+  "abandon": "slight",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hafif [s.],az [s.],önemsememek [f.]"
+ },
+ {
+  "abandon": "slip",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kaymak [f.],sürçmek [f.],gizlice vermek [f.]"
+ },
+ {
+  "abandon": "slogan",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "slogan [i.],savsöz [i.],şiar [i.]"
+ },
+ {
+  "abandon": "slope",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "meyil [i.],bayır [i.],eğim [i.]"
+ },
+ {
+  "abandon": "so-called",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sözde [s.],sözümona [s.],adlı [s.]"
+ },
+ {
+  "abandon": "solar",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "güneş [s.],güneşsel [s.],güneşle ilgili [s.]"
+ },
+ {
+  "abandon": "somehow",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "iyi kötü [zf.],bir türlü [zf.],nasıl olursa [zf.]"
+ },
+ {
+  "abandon": "sometime",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sabık [s.],eski [s.],önceki [s.]"
+ },
+ {
+  "abandon": "somewhat",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "birazcık [zf.],bir dereceye kadar [zf.],aşağı yukarı [zf.]"
+ },
+ {
+  "abandon": "sophisticated",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sofistike [s.],komplike [s.],içerikli [s.]"
+ },
+ {
+  "abandon": "soul",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ruh [i.],kimse [i.],kök [i.]"
+ },
+ {
+  "abandon": "spare",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kıymamak [f.],ayırmak [f.],boş (zaman) [s.]"
+ },
+ {
+  "abandon": "specialist",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "uzman [i.],uzman [i.],kompetan [i.]"
+ },
+ {
+  "abandon": "specialize",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "uzmanlaşmak [f.],özel olarak yapmak [f.],özelleştirmek [f.]"
+ },
+ {
+  "abandon": "species",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tür [i.],ortak özellikleri olan grup [i.],hayal [i.]"
+ },
+ {
+  "abandon": "specify",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "belirlemek [f.],belirtmek [f.],açıkça belirtmek [f.]"
+ },
+ {
+  "abandon": "spectacular",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "muhteşem [s.],olağanüstü manzara [i.],görülmeye değer [s.]"
+ },
+ {
+  "abandon": "spectator",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "seyirci [i.],izleyici [i.],izleyici"
+ },
+ {
+  "abandon": "speculate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tahminde bulunmak [f.],düşünmek [f.],spekülasyon yapmak [f.]"
+ },
+ {
+  "abandon": "speculation",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tahmin [i.],kurgu [i.],dayanaksız görüş [i.]"
+ },
+ {
+  "abandon": "speed",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sürat [i.],hız [i.],sped\/speeded - sped\/speeded [f.]"
+ },
+ {
+  "abandon": "spill",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dökmek [f.],spilled\/spilt - spilled\/spilt [f.],düşmek [f.]"
+ },
+ {
+  "abandon": "spiritual",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ruhsal [s.],manevi [s.],amerikalı siyahilerin yarattığı bir\nilahi türü [i.]"
+ },
+ {
+  "abandon": "spite",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "rahatsız etmek [f.],nispet vermek [f.],zarar vermek [f.]"
+ },
+ {
+  "abandon": "split",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yarmak [f.],bölmek [f.],split - split [f.]"
+ },
+ {
+  "abandon": "spoil",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "şımartmak [f.],berbat etmek [f.],bozulmak [f.]"
+ },
+ {
+  "abandon": "spokesman",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sözcü [i.],baş sözcü [i.],konuşmacı [i.]"
+ },
+ {
+  "abandon": "spokesperson",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "konuşmacı [i.],sözcü [i.],marka yüzü"
+ },
+ {
+  "abandon": "spokeswoman",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "konuşmacı bayan [i.],sözcü [i.],"
+ },
+ {
+  "abandon": "sponsor",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kefil olmak [f.],vaftiz babalığı yapmak (çocuğa)\n[f.],finanse etmek [f.]"
+ },
+ {
+  "abandon": "sponsorship",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "destek [i.],sponsorluk [i.],kefillik [i.]"
+ },
+ {
+  "abandon": "sporting",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "spor [i.],av [i.],avcılık [i.]"
+ },
+ {
+  "abandon": "spot",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "leke [i.],benek [i.],nokta [i.]"
+ },
+ {
+  "abandon": "spread",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yaymak [f.],yayılmak [f.],spread - spread [f.]"
+ },
+ {
+  "abandon": "stable",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ahır [i.],istikrarlı [s.],durağan [s.]"
+ },
+ {
+  "abandon": "stage",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sahneye koymak [f.],sahnelemek [f.],evre [i.]"
+ },
+ {
+  "abandon": "stall",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "stop ettirmek [f.],savsaklamaya çalışmak [f.],saplanmak [f.]"
+ },
+ {
+  "abandon": "stance",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "duruş [i.],bazı oyunlarda vücudun duruşu\n[i.],bakış açısı [i.]"
+ },
+ {
+  "abandon": "stand",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "(teklif) geçerli olmak [f.],katlanmak [f.],ayakta durmak [f.]"
+ },
+ {
+  "abandon": "stare",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dik dik bakmak [f.],gözü dalmak [f.],belermek [f.]"
+ },
+ {
+  "abandon": "starve",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "açlıktan ölmek [f.],acından ölmek [f.],açlıktan ölmek [f.]"
+ },
+ {
+  "abandon": "status",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hal [i.],statü [i.],durum [i.]"
+ },
+ {
+  "abandon": "steadily",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "durmadan [zf.],sabit şekilde [zf.],boyuna [zf.]"
+ },
+ {
+  "abandon": "steady",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sabit durum [i.],istikrarlı [s.],oynamaz [s.]"
+ },
+ {
+  "abandon": "steam",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "istim [i.],buğu [i.],buhar [i.]"
+ },
+ {
+  "abandon": "steel",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çelik [i.],sertleştirmek [f.],çakmak [f.]"
+ },
+ {
+  "abandon": "steep",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dik [s.],sarp [s.],demlenmek [f.]"
+ },
+ {
+  "abandon": "step",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "üvey [i.],adım [i.],basamak [i.]"
+ },
+ {
+  "abandon": "sticky",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yapış yapış [s.],yapışkan [s.],vıcık [s.]"
+ },
+ {
+  "abandon": "stiff",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çetin [s.],katı [s.],sert [s.]"
+ },
+ {
+  "abandon": "stimulate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "uyarmak [f.],dürtmek [f.],kamçılamak [f.]"
+ },
+ {
+  "abandon": "stock",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "stoklamak [f.],stok [i.],üremesi için (bir yere) koymak [f.]"
+ },
+ {
+  "abandon": "stream",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dere [i.],akarsu [i.],akıp gitmek [f.]"
+ },
+ {
+  "abandon": "strengthen",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sağlamlaştırmak [f.],kuvvetlenmek [f.],güçlendirmek [f.]"
+ },
+ {
+  "abandon": "stretch",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "uzatmak [f.],gerinmek [f.],germek [f.]"
+ },
+ {
+  "abandon": "strict",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sıkı [s.],katı [s.],mutlak [s.]"
+ },
+ {
+  "abandon": "strictly",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "açıkçası [zf.],katı bir biçimde [zf.],sert bir biçimde [zf.]"
+ },
+ {
+  "abandon": "strike",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çarpmak [f.],vurmak [f.],çarpma [i.]"
+ },
+ {
+  "abandon": "stroke",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "felç [i.],vuruş [i.],inme [i.]"
+ },
+ {
+  "abandon": "structure",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yapılandırmak [f.],yapı [i.],bünye [i.]"
+ },
+ {
+  "abandon": "struggle",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çabalamak [f.],mücadele etmek [f.],çabalama [i.]"
+ },
+ {
+  "abandon": "stuff",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "şey [i.],tıkınmak [f.],tıkmak [f.]"
+ },
+ {
+  "abandon": "stunning",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sersemletme [i.],çekici [s.],müstesna [s.]"
+ },
+ {
+  "abandon": "subject",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ders [i.],özne [i.],konu [i.]"
+ },
+ {
+  "abandon": "submit",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sunmak [f.],ibraz etmek [f.],boyun eğmek [f.]"
+ },
+ {
+  "abandon": "subsequent",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sonradan gelen [s.],daha sonraki [s.],(belirli bir olayı) takip eden [s.]"
+ },
+ {
+  "abandon": "subsequently",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sonra [zf.],sonradan [zf.],akabinde [zf.]"
+ },
+ {
+  "abandon": "suburb",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "varoş [i.],banliyö [i.],yörekent [i.]"
+ },
+ {
+  "abandon": "suffering",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "mihnet [i.],cefa [i.],ıstırap [i.]"
+ },
+ {
+  "abandon": "sufficient",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kafi [s.],yeterli [s.],elverişli [s.]"
+ },
+ {
+  "abandon": "sufficiently",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yeteri kadar [zf.],yeterli miktarda [zf.],yeterince [zf.]"
+ },
+ {
+  "abandon": "sum",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "toplam [i.],tutar [i.],toplamak [f.]"
+ },
+ {
+  "abandon": "super",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "süper [s.],kıyak [i.],birinci sınıf mal [i.]"
+ },
+ {
+  "abandon": "surgeon",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "cerrah [i.],operatör [i.],askeri doktor [i.]"
+ },
+ {
+  "abandon": "surgery",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ameliyat [i.],ameliyathane [i.],cerrahlık [i.]"
+ },
+ {
+  "abandon": "surround",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kuşatmak [f.],etrafını sarmak [f.],çevrelemek [f.]"
+ },
+ {
+  "abandon": "surrounding",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çevre [i.],sarma [i.],kuşatma [i.]"
+ },
+ {
+  "abandon": "survey",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "araştırma [i.],anket [i.],göz gezdirmek [f.]"
+ },
+ {
+  "abandon": "survival",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hayatta kalma [i.],kalıntı [i.],daha uzun yaşama [i.]"
+ },
+ {
+  "abandon": "survivor",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hayatta kalan [i.],sağ kalan [i.],sağ kalan [i.]"
+ },
+ {
+  "abandon": "suspect",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "şüphelenmek [f.],kuşkulanmak [f.],şüpheli [s.]"
+ },
+ {
+  "abandon": "suspend",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "askıya almak [f.],uzaklaştırma vermek [f.],sallantıda bırakmak [f.]"
+ },
+ {
+  "abandon": "sustainable",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "güçlendirilebilir [s.],sürdürülebilir [s.],dayanılır [s.]"
+ },
+ {
+  "abandon": "swallow",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yutmak [f.],kırlangıç [i.],aldanmak [f.]"
+ },
+ {
+  "abandon": "swear",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sövmek [f.],küfür etmek [f.],küfretmek [f.]"
+ },
+ {
+  "abandon": "sweep",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "süpürmek [f.],swept - swept [f.],önüne katmak [f.]"
+ },
+ {
+  "abandon": "switch",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "değiştirmek [f.],değişme [i.],anahtar [i.]"
+ },
+ {
+  "abandon": "sympathetic",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "birinin duygularını anlayıp\npaylaşan [s.],sempatik [s.],anlayışlı [s.]"
+ },
+ {
+  "abandon": "sympathy",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sempati [i.],halden anlama [i.],acısını paylaşma [i.]"
+ },
+ {
+  "abandon": "tackle",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ele almak (bir problemi) [f.],mücadele etmek [f.],avadanlık [i.]"
+ },
+ {
+  "abandon": "tag",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "etiketlemek [f.],etiket [i.],yafta koymak [f.]"
+ },
+ {
+  "abandon": "tale",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "masal [i.],öykü [i.],hikaye [i.]"
+ },
+ {
+  "abandon": "tank",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tank [i.],depoya koymak [f.],tank gibi (ağır fakat hızlı) hareket\netmek [f.]"
+ },
+ {
+  "abandon": "tap",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hafifçe vurmak [f.],tıkaç [i.],musluk [i.]"
+ },
+ {
+  "abandon": "target",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hedef [i.],amaç [i.],gaye [i.]"
+ },
+ {
+  "abandon": "tear",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yırtılmak [f.],yırtmak [f.],yırtık [i.]"
+ },
+ {
+  "abandon": "technological",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "teknolojik [s.],teknolojiyle ilgili [s.],uygulayımsal [s.]"
+ },
+ {
+  "abandon": "teens",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yeniyetmelik [i.],yaşı 13-19 arasında olanlar [i.],10'dan 19'a ya da 13'den 19'a\nkadar olan sayılar [i.]"
+ },
+ {
+  "abandon": "temple",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tapınak [i.],sinagog [i.],ibadethane [i.]"
+ },
+ {
+  "abandon": "temporarily",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "geçici olarak [zf.],muvakkaten [zf.],idareten [zf.]"
+ },
+ {
+  "abandon": "temporary",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "geçici [s.],iğreti [s.],eğreti [s.]"
+ },
+ {
+  "abandon": "tendency",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "eğilim [i.],meyletme [i.],çalma (maviye vb) [i.]"
+ },
+ {
+  "abandon": "tension",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tansiyon [i.],gerginlik [i.],gerilim [i.]"
+ },
+ {
+  "abandon": "term",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "isimlendirmek [f.],terim [i.],dönem [i.]"
+ },
+ {
+  "abandon": "terminal",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "terminal [i.],sonek [i.],son durak [i.]"
+ },
+ {
+  "abandon": "terms",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ara [i.],ücret [i.],fiyat [i.]"
+ },
+ {
+  "abandon": "terribly",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "son derece [zf.],aşırı [zf.],korkunç [zf.]"
+ },
+ {
+  "abandon": "terrify",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çok korkutmak [f.],çok korkutmak [f.],ürkütmek [f.]"
+ },
+ {
+  "abandon": "territory",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yöre [i.],arazi [i.],tarla [i.]"
+ },
+ {
+  "abandon": "terror",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "terör [i.],dehşet [i.],tedhiş [i.]"
+ },
+ {
+  "abandon": "terrorism",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "terörism [i.],terörizm [i.],tedhişçilik [i.]"
+ },
+ {
+  "abandon": "terrorist",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "terörist [i.],tedhişçi [i.],tedhişçi"
+ },
+ {
+  "abandon": "testing",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "deneme [i.],sondaj [i.],deneyden geçirme [i.]"
+ },
+ {
+  "abandon": "textbook",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ders kitabı [i.],okuma kitabı [i.],ders kitabı"
+ },
+ {
+  "abandon": "theft",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hırsızlık [i.],aşırma [i.],arakçılık [i.]"
+ },
+ {
+  "abandon": "therapist",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "terapist [i.],sağaltımcı [i.],doktor [i.]"
+ },
+ {
+  "abandon": "therapy",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "iyileştirme [i.],tedavi [i.],sağaltım [i.]"
+ },
+ {
+  "abandon": "thesis",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tez [i.],sav [i.],inceleme [i.]"
+ },
+ {
+  "abandon": "thorough",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "derin [s.],esaslı iş yapan (kimse) [s.],kusursuz [s.]"
+ },
+ {
+  "abandon": "thoroughly",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "adamakıllı [zf.],etraflıca [zf.],iyicene [zf.]"
+ },
+ {
+  "abandon": "threat",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tehdit [i.],tehdit etmek [f.],gözdağı [i.]"
+ },
+ {
+  "abandon": "threaten",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tehdit etmek [f.],gözdağı vermek [f.],habercisi olmak [f.]"
+ },
+ {
+  "abandon": "thumb",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "parmağıyla çevirmek (sayfa) [f.],otostop çekmek [f.],başparmak (eldivende) [i.]"
+ },
+ {
+  "abandon": "thus",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "böylelikle [zf.],böylece [zf.],demek ki [zf.]"
+ },
+ {
+  "abandon": "time",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kez [i.],kere [i.],müddet [i.]"
+ },
+ {
+  "abandon": "timing",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "saat tutma [i.],zamanlama yapma [i.],hızını ölçme [i.]"
+ },
+ {
+  "abandon": "tissue",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "doku [i.],tuvalet kağıdı [i.],ince kağıt [i.]"
+ },
+ {
+  "abandon": "title",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "unvan [i.],başlık [i.],isimlendirmek [f.]"
+ },
+ {
+  "abandon": "ton",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "moda [i.],ton [i.],ton, 1000 kg [i.]"
+ },
+ {
+  "abandon": "tone",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ton [i.],yumuşatmak [f.],uyuşmak [f.]"
+ },
+ {
+  "abandon": "tonne",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ton [i.],,"
+ },
+ {
+  "abandon": "tough",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "zorlu [s.],çetin [s.],zor [s.]"
+ },
+ {
+  "abandon": "tournament",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "turnuva [i.],yarışma [i.],turnuva"
+ },
+ {
+  "abandon": "trace",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "iz sürmek [f.],izini sürmek [f.],izlemek [f.]"
+ },
+ {
+  "abandon": "track",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "izlemek (iz vb) [f.],izlemek [f.],iz [i.]"
+ },
+ {
+  "abandon": "trading",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ticaret [i.],işlem [i.],iş hacmi [i.]"
+ },
+ {
+  "abandon": "tragedy",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "fecaat [i.],facia [i.],felaket [i.]"
+ },
+ {
+  "abandon": "tragic",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "acıklı [s.],feci [s.],tiy [s.]"
+ },
+ {
+  "abandon": "trait",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "haslet [i.],hususiyet [i.],kişisel özellik [i.]"
+ },
+ {
+  "abandon": "transfer",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "nakletmek [f.],aktarmak [f.],devretmek [f.]"
+ },
+ {
+  "abandon": "transform",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dönüşmek [f.],dönüştürmek [f.],çevirmek [f.]"
+ },
+ {
+  "abandon": "transition",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "geçiş [i.],intikal [i.],değişme [i.]"
+ },
+ {
+  "abandon": "transmit",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "iletmek [f.],ulaştırmak [f.],yayınlamak [f.]"
+ },
+ {
+  "abandon": "transportation",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "taşıma [i.],nakliye [i.],ulaştırma [i.]"
+ },
+ {
+  "abandon": "trap",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kapan [i.],tuzak [i.],ata süslü çul örtmek [f.]"
+ },
+ {
+  "abandon": "treasure",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hazine [i.],üzerine titremek [f.],çok değerli saymak [f.]"
+ },
+ {
+  "abandon": "trial",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yargılama [i.],duruşma [i.],deneme [i.]"
+ },
+ {
+  "abandon": "tribe",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "oymak [i.],kavim [i.],budun [i.]"
+ },
+ {
+  "abandon": "trigger",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tetiklemek [f.],tetik [i.],tetiği çekip ateşlemek [f.]"
+ },
+ {
+  "abandon": "trillion",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "trilyon [i.],,"
+ },
+ {
+  "abandon": "trip",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "seyahat [i.],yolculuk [i.],gezi [i.]"
+ },
+ {
+  "abandon": "troop",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "topluca ilerlemek [f.],toplanmak [f.],ilerlemek [f.]"
+ },
+ {
+  "abandon": "tropical",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tropikal [s.],tropikal,dönencel"
+ },
+ {
+  "abandon": "trouble",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sorun [i.],dert [i.],zahmet [i.]"
+ },
+ {
+  "abandon": "truly",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tamamen [zf.],kanunen [zf.],sahiden [zf.]"
+ },
+ {
+  "abandon": "trust",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "güvenmek [f.],güven [i.],inancı olmak [f.]"
+ },
+ {
+  "abandon": "try",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "denemek [f.],deneme [i.],yoklamak [f.]"
+ },
+ {
+  "abandon": "tsunami",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "denizaltı depremlerinin ortaya\nçıkardığı büyük dalga [i.],deprem dalgası [i.],denizdeki deprem dalgası [i.]"
+ },
+ {
+  "abandon": "tune",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "akort etmek [f.],melodi [i.],nağme [i.]"
+ },
+ {
+  "abandon": "tunnel",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "tünel [i.],tünel açmak [f.],içgeçit [i.]"
+ },
+ {
+  "abandon": "ultimate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "nihai [s.],son [s.],aşırı [s.]"
+ },
+ {
+  "abandon": "ultimately",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sonunda [zf.],eninde sonunda [zf.],en sonunda [zf.]"
+ },
+ {
+  "abandon": "unacceptable",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kabul edilemez [s.],çekilmez [s.],kabul olunamaz [s.]"
+ },
+ {
+  "abandon": "uncertainty",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "belirsizlik [i.],kuşku [i.],tereddüt [i.]"
+ },
+ {
+  "abandon": "unconscious",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kendinden geçmiş [s.],baygın [s.],şuursuz [s.]"
+ },
+ {
+  "abandon": "undergo",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "geçirmek (hastalık) [f.],underwent - undergone [f.],görmek [f.]"
+ },
+ {
+  "abandon": "undertake",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yüklenmek [f.],girişmek [f.],üstlenmek [f.]"
+ },
+ {
+  "abandon": "unexpected",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "beklenmedik [s.],beklenmeyen [s.],ummadık [s.]"
+ },
+ {
+  "abandon": "unfold",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "(katlanmış bir seyi) açmak [f.],gelişmek [f.],açmak [f.]"
+ },
+ {
+  "abandon": "unfortunate",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "şanssız [s.],makus [s.],talihsiz [s.]"
+ },
+ {
+  "abandon": "unique",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "emsalsiz [s.],benzersiz [s.],kendine mahsus [s.]"
+ },
+ {
+  "abandon": "unite",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "birleşmek [f.],birleştirmek [f.],raptetmek [f.]"
+ },
+ {
+  "abandon": "unity",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "birlik [i.],ittifak [i.],dayanışma [i.]"
+ },
+ {
+  "abandon": "universal",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "üniversal [s.],evrensel [s.],genel olgu [i.]"
+ },
+ {
+  "abandon": "universe",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "alem [i.],kainat [i.],evren [i.]"
+ },
+ {
+  "abandon": "unknown",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bilinmez [s.],bilinmeyen [s.],ünsüz [s.]"
+ },
+ {
+  "abandon": "upper",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "üst [s.],yukarı [i.],saya [i.]"
+ },
+ {
+  "abandon": "upwards",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yukarıya [zf.],itibaren [zf.],daha fazla [zf.]"
+ },
+ {
+  "abandon": "urban",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "şehirsel [s.],kentsel [s.],şehir [i.]"
+ },
+ {
+  "abandon": "urge",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dürtü [i.],dürtmek [f.],ısrar etmek [f.]"
+ },
+ {
+  "abandon": "urgent",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "ivedi [s.],acil [s.],kaçınılmaz [s.]"
+ },
+ {
+  "abandon": "usage",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kullanım [i.],kullanım şekli [i.],alışkı [i.]"
+ },
+ {
+  "abandon": "useless",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "işe yaramaz [s.],faydasız [s.],yararsız [s.]"
+ },
+ {
+  "abandon": "valid",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "geçerli [s.],sağlam [s.],yerinde [s.]"
+ },
+ {
+  "abandon": "value",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "değer vermek [f.],paha biçmek [f.],değer biçmek [f.]"
+ },
+ {
+  "abandon": "variation",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "varyasyon [i.],farklılık [i.],fark [i.]"
+ },
+ {
+  "abandon": "vary",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "keşikleşmek [f.],çeşitlendirmek [f.],farklı olmak [f.]"
+ },
+ {
+  "abandon": "vast",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "büyüklük [i.],büyük boşluk [i.],engin [s.]"
+ },
+ {
+  "abandon": "venue",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "olayın gerçekleştiği yer [i.],mahkeme yeri [i.],cinayet mahalli [i.]"
+ },
+ {
+  "abandon": "vertical",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dik [s.],düşey [s.],dikey [s.]"
+ },
+ {
+  "abandon": "very",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çok [zf.],hatta [s.],bile [s.]"
+ },
+ {
+  "abandon": "via",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "vasıtasıyla [ed.],aracılığıyla [ed.],kanalıyla [ed.]"
+ },
+ {
+  "abandon": "victory",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "utku [i.],utku [i.],başarı [i.]"
+ },
+ {
+  "abandon": "viewpoint",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bakış açısı [i.],bakım [i.],telakki [i.]"
+ },
+ {
+  "abandon": "violence",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "şiddet [i.],zorlama [i.],"
+ },
+ {
+  "abandon": "virtual",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sanal [s.],asıl [s.],gerçek kuvveti olan [s.]"
+ },
+ {
+  "abandon": "visa",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "vize [i.],vize vermek [f.],onaylamak [f.]"
+ },
+ {
+  "abandon": "visible",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "görünür [s.],görünen [s.],gözle görülür [s.]"
+ },
+ {
+  "abandon": "vision",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "görme [i.],hayal gibi görmek [f.],görme kuvveti [i.]"
+ },
+ {
+  "abandon": "visual",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "görsel [s.],kroki [i.],taslak [i.]"
+ },
+ {
+  "abandon": "vital",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yaşamsal [s.],çok önemli [s.],hayati [s.]"
+ },
+ {
+  "abandon": "vitamin",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "vitamin [i.],vitamin,vitamin"
+ },
+ {
+  "abandon": "volume",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hacim [i.],cilt (kitap) [i.],sayı [i.]"
+ },
+ {
+  "abandon": "voluntary",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "gönüllü [s.],isteyerek yapılan [s.],istemli hareket [i.]"
+ },
+ {
+  "abandon": "voting",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "oylama [i.],oy kullanma [i.],oy verme [i.]"
+ },
+ {
+  "abandon": "wage",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "maaş [i.],ücret [i.],sürdürmek [f.]"
+ },
+ {
+  "abandon": "wander",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "başıboş dolaşmak [f.],dolaşmak [f.],amaçsızca dolaşmak [f.]"
+ },
+ {
+  "abandon": "warming",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "dayak atma [i.],ısınma [i.],ısıtma [i.]"
+ },
+ {
+  "abandon": "way",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yol [i.],taraf [i.],tarz [i.]"
+ },
+ {
+  "abandon": "weakness",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kuvvetsizlik [i.],halsizlik [i.],cansızlık [i.]"
+ },
+ {
+  "abandon": "wealth",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "varlık [i.],zenginlik [i.],servet [i.]"
+ },
+ {
+  "abandon": "wealthy",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "varlıklı [s.],zengin [s.],servet sahibi [s.]"
+ },
+ {
+  "abandon": "weekly",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "haftalık [s.],haftalık yayın [i.],haftalık dergi [i.]"
+ },
+ {
+  "abandon": "weird",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "acayip [s.],tuhaf [s.],büyü [i.]"
+ },
+ {
+  "abandon": "welfare",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "gönenç [i.],refah [i.],yardım [i.]"
+ },
+ {
+  "abandon": "wheat",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "buğday [i.],buğday,buğday"
+ },
+ {
+  "abandon": "whereas",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "oysaki [bağ.],oysa [bağ.],-diğine göre [bağ.]"
+ },
+ {
+  "abandon": "wherever",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "nerede [zf.],nereye [zf.],her nerede [bağ.]"
+ },
+ {
+  "abandon": "whilst",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "iken,,"
+ },
+ {
+  "abandon": "whisper",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "fısıldamak [f.],fısıltı [i.],hışırdamak [f.]"
+ },
+ {
+  "abandon": "whoever",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "her kim [zm.],herhangi [zm.],kim\/her kim ... ise [zm.]"
+ },
+ {
+  "abandon": "whom",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kime [zm.],kim [zm.],kimi [zm.]"
+ },
+ {
+  "abandon": "widely",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "genişce [zf.],adamakıllı [zf.],iyice [zf.]"
+ },
+ {
+  "abandon": "widespread",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yaygın [s.],yaygın [s.],alabildiğine açılmış [s.]"
+ },
+ {
+  "abandon": "wildlife",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yaban hayatı [i.],vahşi hayvanlar [i.],yabani hayvanlar [i.]"
+ },
+ {
+  "abandon": "willing",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "hevesli [s.],gönüllü [s.],istekli [s.]"
+ },
+ {
+  "abandon": "wind",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sarmak [f.],dolamak [f.],yel [i.]"
+ },
+ {
+  "abandon": "wire",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "telle bağlamak [f.],tel takmak [f.],telle çevirmek [f.]"
+ },
+ {
+  "abandon": "wisdom",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "akıl [i.],bilgelik [i.],hikmet [i.]"
+ },
+ {
+  "abandon": "wise",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "bilge [s.],bilgili [s.],akıllı [s.]"
+ },
+ {
+  "abandon": "withdraw",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "geri çekilmek [f.],geri çekmek [f.],çekilmek [f.]"
+ },
+ {
+  "abandon": "witness",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "şahit olmak [f.],şahitlik etmek [f.],tanık olmak [f.]"
+ },
+ {
+  "abandon": "workforce",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "iş gücü [i.],,"
+ },
+ {
+  "abandon": "workplace",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "işyeri [i.],iş yeri [i.],dükkan [i.]"
+ },
+ {
+  "abandon": "workshop",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "çalıştay [i.],seminer (üniversite dışında\nyapılan) [i.],zanaatçıya ait atölye [i.]"
+ },
+ {
+  "abandon": "worm",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "solucan gibi kıvrılarak ilerlemek\n[f.],kurtçuk [i.],kurt [i.]"
+ },
+ {
+  "abandon": "worse",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "daha kötüsü [i.],daha da kötüsü [i.],beter [s.]"
+ },
+ {
+  "abandon": "worst",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yenmek [f.],en kötü [s.],en fena [s.]"
+ },
+ {
+  "abandon": "worth",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "değer [i.],eder [f.],çap [i.]"
+ },
+ {
+  "abandon": "wound",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yaralamak [f.],yara [i.],vurmak [f.]"
+ },
+ {
+  "abandon": "wrap",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "sarmak [f.],sargı [i.],örtmek [f.]"
+ },
+ {
+  "abandon": "wrist",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "krank pimi [i.],el bileği [i.],bilek [i.]"
+ },
+ {
+  "abandon": "wrong",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "yanlış [s.],gadretmek [f.],haksızlık etmek [f.]"
+ },
+ {
+  "abandon": "yet",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "henüz [zf.],gerçi [zf.],yine de [zf.]"
+ },
+ {
+  "abandon": "zone",
+  "terk etmek [f.],bırakmak [f.],vazgeçmek [f.]": "kuşak [i.],bölge [i.],bir yerde ancak belirli bir faaliyete\nizin vermek [f.]"
+ }
+]

@@ -1,0 +1,3586 @@
+[
+ {
+  "about": "above",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "üzerine [zf.],yukarısında [zf.],yukarıda [zf.]"
+ },
+ {
+  "about": "across",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "karşıya [zf.],(deniz\/okyanus) aşırı [zf.],karşı karşıya [zf.]"
+ },
+ {
+  "about": "action",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "çalışma [i.],davranış [i.],aksiyon [i.]"
+ },
+ {
+  "about": "activity",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "etkinlik [i.],faaliyet [i.],meşguliyet [i.]"
+ },
+ {
+  "about": "actor",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "oyuncu [i.],erkek oyuncu [i.],artist [i.]"
+ },
+ {
+  "about": "actress",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "oyuncu [i.],artist [i.],aktris [i.]"
+ },
+ {
+  "about": "add",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "toplamak [f.],eklemek [f.],ilave etmek [f.]"
+ },
+ {
+  "about": "address",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hitap etmek [f.],söylev [i.],adres [i.]"
+ },
+ {
+  "about": "adult",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yetişkin [i.],er kişi [i.],yetişkin kişi [i.]"
+ },
+ {
+  "about": "advice",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "nasihat [i.],tavsiye [i.],öğüt [i.]"
+ },
+ {
+  "about": "afraid",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "korkmuş [s.],korkan [s.],ürkmüş [s.]"
+ },
+ {
+  "about": "after",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sonra [zf.],öğleden sonra [i.],sonra gelen [s.]"
+ },
+ {
+  "about": "afternoon",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "öğleden sonra [i.],bir şeyin orta ve son bölümü [i.],son kısım [i.]"
+ },
+ {
+  "about": "again",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bir daha [zf.],daha [zf.],tekrar [zf.]"
+ },
+ {
+  "about": "age",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yaş [i.],çağ [i.],devir [i.]"
+ },
+ {
+  "about": "ago",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "evvel [zf.],önce [zf.],önce [zf.]"
+ },
+ {
+  "about": "agree",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "aynı fikirde olmak [f.],anlaşmak [f.],razı olmak [f.]"
+ },
+ {
+  "about": "air",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "havalandırmak [f.],yayına girmek [f.],hava [s.]"
+ },
+ {
+  "about": "airport",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "havalimanı [i.],havaalanı [i.],hava limanı [i.]"
+ },
+ {
+  "about": "all",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "tüm [i.],bütün [i.],hepsi [zm.]"
+ },
+ {
+  "about": "also",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ayrıca [zf.],yine [zf.],da [zf.]"
+ },
+ {
+  "about": "always",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hep [zf.],her zaman [zf.],daima [zf.]"
+ },
+ {
+  "about": "amazing",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "şaşırtıcı [s.],şaşırtma [i.],hayrete düşürücü [s.]"
+ },
+ {
+  "about": "and",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ile [bağ.],ve [bağ.],sonra [zf.]"
+ },
+ {
+  "about": "angry",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kızmış [s.],sinirli [s.],hiddetli [s.]"
+ },
+ {
+  "about": "animal",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hayvan [s.],hayvan [i.],hayvani [s.]"
+ },
+ {
+  "about": "another",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "öbür [s.],başka [zm.],ikinci bir [s.]"
+ },
+ {
+  "about": "answer",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yanıt vermek [f.],cevaplamak [f.],cevap vermek [f.]"
+ },
+ {
+  "about": "any",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "lalettayin [s.],bazı [s.],her [s.]"
+ },
+ {
+  "about": "anyone",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hiç kimse [zm.],kimse [zm.],herhangi bir kimse [zm.]"
+ },
+ {
+  "about": "anything",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hiçbir şey [zm.],her şey [zm.],bir şey [zm.]"
+ },
+ {
+  "about": "apartment",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "daire [i.],apartman katı [i.],apartman dairesi [i.]"
+ },
+ {
+  "about": "apple",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "elma [i.],elma,"
+ },
+ {
+  "about": "April",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "nisan [i.],yılın dördüncü ayı [i.],nisan ayı [i.]"
+ },
+ {
+  "about": "area",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "alan [i.],saha [i.],bölge [i.]"
+ },
+ {
+  "about": "arm",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kol [i.],sarılmak [f.],destek olmak [f.]"
+ },
+ {
+  "about": "around",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sularında [zf.],çevrede [zf.],etrafında [zf.]"
+ },
+ {
+  "about": "arrive",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "varmak [f.],ulaşmak [f.],gelip çatmak [f.]"
+ },
+ {
+  "about": "art",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sanat [i.],beceri [i.],maharet [i.]"
+ },
+ {
+  "about": "article",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bent [i.],madde [i.],(sözleşmede) madde [i.]"
+ },
+ {
+  "about": "artist",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "artist [i.],sanatkar [i.],sanatçı [i.]"
+ },
+ {
+  "about": "as",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "olarak [zf.],gibi [ed.],dahi [zf.]"
+ },
+ {
+  "about": "ask",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "soru sormak [f.],istemek [f.],çağırmak [f.]"
+ },
+ {
+  "about": "at",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "üzere [zf.],nezdinde [zf.],haliyle [ed.]"
+ },
+ {
+  "about": "August",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ağustos [i.],yılın sekizinci ayı [i.],ağustos ayı [i.]"
+ },
+ {
+  "about": "aunt",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hala [i.],teyze [i.],yenge [i.]"
+ },
+ {
+  "about": "autumn",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "güz [i.],sonbahar [i.],hazan [i.]"
+ },
+ {
+  "about": "away",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "uzak [s.],uzağa [zf.],uzakta [zf.]"
+ },
+ {
+  "about": "baby",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yavru [i.],bebek [i.],şımartmak [f.]"
+ },
+ {
+  "about": "back",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "art [i.],arkalık [i.],sırt [i.]"
+ },
+ {
+  "about": "bad",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kötü [s.],fena [s.],bozuk [s.]"
+ },
+ {
+  "about": "bag",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "poşet [i.],torba [i.],çanta [i.]"
+ },
+ {
+  "about": "ball",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "balo [i.],yumak [i.],bilye [i.]"
+ },
+ {
+  "about": "banana",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "muz [i.],,"
+ },
+ {
+  "about": "band",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bant [i.],bando [i.],şerit [i.]"
+ },
+ {
+  "about": "bank",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "banka [i.],önlemek [f.],kümelenmek [f.]"
+ },
+ {
+  "about": "bath",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yıkanmak [f.],banyo [i.],banyo yapmak [f.]"
+ },
+ {
+  "about": "bathroom",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "tuvalet [i.],banyo [i.],banyo odası [i.]"
+ },
+ {
+  "about": "be",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bulunmak [f.],olmak [f.],var olmak [f.]"
+ },
+ {
+  "about": "beach",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sahil [i.],kumsal [i.],plaj [i.]"
+ },
+ {
+  "about": "beautiful",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "güzel [s.],tatlı [s.],ahım şahım [s.]"
+ },
+ {
+  "about": "because",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "çünkü [bağ.],-dığı için [bağ.],zira [bağ.]"
+ },
+ {
+  "about": "become",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "haline gelmek [f.],olmak [f.],dönüşmek [f.]"
+ },
+ {
+  "about": "bed",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yatak [i.],gömmek [f.],oturtmak [f.]"
+ },
+ {
+  "about": "bedroom",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yatak odası [i.],yatak odası,şebistan"
+ },
+ {
+  "about": "beer",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bira [i.],arpasuyu,ingiltere'de yerleşim yeri"
+ },
+ {
+  "about": "before",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "evvel [ed.],önce [ed.],daha önce [zf.]"
+ },
+ {
+  "about": "begin",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "başlatmak [f.],başlamak [f.],began - begun [f.]"
+ },
+ {
+  "about": "beginning",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "başlangıç [i.],baş [s.],ilk adım [i.]"
+ },
+ {
+  "about": "behind",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ardındaki [s.],arkaya [zf.],geriye [zf.]"
+ },
+ {
+  "about": "believe",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "inanmak [f.],inanmak [f.],kanmak [f.]"
+ },
+ {
+  "about": "below",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "alttaki [s.],aşağıdaki [s.],altta [zf.]"
+ },
+ {
+  "about": "best",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "en iyi [s.],geçmek [f.],baskın çıkmak [f.]"
+ },
+ {
+  "about": "better",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "daha iyi [s.],iyileştirmek [f.],ıslah etmek [f.]"
+ },
+ {
+  "about": "between",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "arasında [zf.],arasına [zf.],ortada [zf.]"
+ },
+ {
+  "about": "bicycle",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bisiklet [i.],bisiklet kullanarak gitmek [f.],bisikletle gezmek [f.]"
+ },
+ {
+  "about": "big",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "iri [s.],büyük [s.],kapı gibi [s.]"
+ },
+ {
+  "about": "bike",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bisiklete binmek [f.],bisiklet [i.],bisiklet sürmek [f.]"
+ },
+ {
+  "about": "bill",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "senet [i.],fatura [i.],ilan etmek [f.]"
+ },
+ {
+  "about": "bird",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kuş [i.],manita [i.],kus [i.]"
+ },
+ {
+  "about": "birthday",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yaş günü [i.],doğum günü [i.],"
+ },
+ {
+  "about": "black",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "siyahi [s.],kara [s.],siyah [s.]"
+ },
+ {
+  "about": "blog",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "web günlüğü,internet günlüğü,internet kullanıcılarının kendi istedikleri şeyleri yazdıkları ve bunları diğer kullanıcılarla\npaylaştıkları günlük benzeri\nplatform"
+ },
+ {
+  "about": "blonde",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sarışın [s.],sarışın kız [i.],sarı [i.]"
+ },
+ {
+  "about": "blue",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "mavi [s.],çarçur etmek [f.],har vurup harman savurmak [f.]"
+ },
+ {
+  "about": "boat",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "tekne [i.],bot [i.],kayık [i.]"
+ },
+ {
+  "about": "body",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ceset [i.],gövde [i.],vücut [i.]"
+ },
+ {
+  "about": "book",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ayırtmak [f.],kitap [i.],deftere işlemek [f.]"
+ },
+ {
+  "about": "boot",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bot [i.],çizme [i.],kovmak [f.]"
+ },
+ {
+  "about": "bored",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sıkılmış [s.],delinmiş [s.],bıkkın [s.]"
+ },
+ {
+  "about": "boring",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bıktırıcı [s.],bıktıran [s.],sıkıcı [s.]"
+ },
+ {
+  "about": "born",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "doğan [s.],doğuştan [s.],doğmuş [s.]"
+ },
+ {
+  "about": "both",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "her ikisi de [s.],her iki [s.],her ikisi (de) [s.]"
+ },
+ {
+  "about": "bottle",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "şişe [i.],susturmak [f.],şişelemek [f.]"
+ },
+ {
+  "about": "box",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kutu [i.],boks etmek [f.],yumruk atmak [f.]"
+ },
+ {
+  "about": "boy",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "delikanlı [i.],erkek çocuk [i.],oğlan [i.]"
+ },
+ {
+  "about": "boyfriend",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "flört [i.],sevgili [i.],erkek arkadaş [i.]"
+ },
+ {
+  "about": "bread",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ekmek [i.],pane etmek [f.],geçim [i.]"
+ },
+ {
+  "about": "break",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kopmak [f.],kırmak [f.],bozmak [f.]"
+ },
+ {
+  "about": "breakfast",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kahvaltı [i.],kahvaltı etmek [f.],kahvaltı"
+ },
+ {
+  "about": "bring",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "getirmek [f.],brought - brought [f.],neden olmak [f.]"
+ },
+ {
+  "about": "brother",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kardeş [i.],erkek kardeş [i.],erkek kardeş [i.]"
+ },
+ {
+  "about": "brown",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kahverengi [s.],kızarmak [f.],karartmak [f.]"
+ },
+ {
+  "about": "build",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "inşa etmek [f.],built - built [f.],bina etmek [f.]"
+ },
+ {
+  "about": "building",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "inşaat [i.],bina [i.],yapma [i.]"
+ },
+ {
+  "about": "bus",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "otobüs [i.],otobüsle taşımak [f.],otobüsle gitmek [f.]"
+ },
+ {
+  "about": "business",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "işletme [i.],iş [i.],iş kuruluşu [i.]"
+ },
+ {
+  "about": "busy",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "işlek [s.],meşgul [s.],faal [s.]"
+ },
+ {
+  "about": "but",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ancak [bağ.],fakat [bağ.],itiraz [i.]"
+ },
+ {
+  "about": "butter",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "tereyağı [i.],tereyağı sürmek [f.],yağ sürmek [f.]"
+ },
+ {
+  "about": "buy",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ısmarlamak [f.],satın almak [f.],almak [f.]"
+ },
+ {
+  "about": "by",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "geçecek biçimde [zf.],yakın [zf.],evde [zf.]"
+ },
+ {
+  "about": "bye",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ast [i.],çiftli yarışan çiftlerden biri [i.],hoşçakal [ünl.]"
+ },
+ {
+  "about": "cafe",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kafe [i.],bar [i.],kahve [i.]"
+ },
+ {
+  "about": "cake",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kek [i.],pasta [i.],kabuklaşmak [f.]"
+ },
+ {
+  "about": "call",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "çağırmak [f.],telefon açmak [f.],telefon etmek [f.]"
+ },
+ {
+  "about": "camera",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "fotoğraf makinesi [i.],kamera [i.],fotograf makinesi [i.]"
+ },
+ {
+  "about": "can",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "olabilmek [f.],kovmak [f.],konservelemek [f.]"
+ },
+ {
+  "about": "cannot",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "edememek [f.],yapamamak [f.],yetersizlik ya da izin vermemeyi\nanlatan olumsuz yardımcı fiil [f.]"
+ },
+ {
+  "about": "capital",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sermaye [i.],başkent [i.],kapital [i.]"
+ },
+ {
+  "about": "car",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "otomobil [i.],araba [i.],kabin [i.]"
+ },
+ {
+  "about": "card",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kart [i.],iskambil kağıdı [i.],fişlemek [f.]"
+ },
+ {
+  "about": "career",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kariyer [i.],hız yapmak [f.],son hızda gitmek [f.]"
+ },
+ {
+  "about": "carrot",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kızıl saç [i.],havuç [i.],ödül\/teşvik [i.]"
+ },
+ {
+  "about": "carry",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "taşımak [f.],sürüklemek [f.],elde etmek [f.]"
+ },
+ {
+  "about": "cat",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kedi [i.],istifra etmek [f.],kusmak [f.]"
+ },
+ {
+  "about": "CD",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "dış çap,cd,compact disk"
+ },
+ {
+  "about": "cent",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sent [i.],metelik [i.],sent amerikan dolarının yüzde biri\n[i.]"
+ },
+ {
+  "about": "centre",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "merkez [i.],merkezde toplanmak [f.],konsantre olmak [f.]"
+ },
+ {
+  "about": "century",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "asır [i.],yüzyıl [i.],asır [i.]"
+ },
+ {
+  "about": "chair",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "koltuk [i.],sandalye [i.],iskemle [i.]"
+ },
+ {
+  "about": "change",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "değişmek [f.],değiştirmek [f.],değişiklik [i.]"
+ },
+ {
+  "about": "chart",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "çizelge [i.],göstermek [f.],haritaya almak [f.]"
+ },
+ {
+  "about": "cheap",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ucuz [s.],ucuzlatmak [f.],değersiz [s.]"
+ },
+ {
+  "about": "check",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "denetlemek [f.],kontrol etmek [f.],kontrol [i.]"
+ },
+ {
+  "about": "cheese",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "peynir [i.],peynir kalıbı [i.],meyve konservesi [i.]"
+ },
+ {
+  "about": "chicken",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "tavuk [i.],piliç [i.],korkak davranmak [f.]"
+ },
+ {
+  "about": "child",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "evlat [i.],çocuk [i.],ürün [i.]"
+ },
+ {
+  "about": "chocolate",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "çikolata [i.],çikolatalı şekerleme [i.],çikolatadan yapılmış [s.]"
+ },
+ {
+  "about": "choose",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "seçmek [f.],chose - chosen [f.],ayırmak [f.]"
+ },
+ {
+  "about": "cinema",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sinema [i.],sinema salonu [i.],sinema salonu"
+ },
+ {
+  "about": "city",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kent [i.],şehir [i.],metropol [i.]"
+ },
+ {
+  "about": "class",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ders [i.],sınıf [i.],saymak [f.]"
+ },
+ {
+  "about": "classroom",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sınıf [i.],dershane [i.],derslik [i.]"
+ },
+ {
+  "about": "clean",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "temizlemek [f.],temiz [s.],temizlenmek [f.]"
+ },
+ {
+  "about": "climb",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "tırmanmak [f.],tırmanış [i.],çıkmak [f.]"
+ },
+ {
+  "about": "clock",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "saat [i.],saat tutmak [f.],ölçmek [f.]"
+ },
+ {
+  "about": "close",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kapamak [f.],kapatmak [f.],yakın [s.]"
+ },
+ {
+  "about": "clothes",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "giysi [i.],elbise [i.],esvap [i.]"
+ },
+ {
+  "about": "club",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kulüp [i.],ortakça yatırmak [f.],sopa ile dövmek [f.]"
+ },
+ {
+  "about": "coat",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kaplamak [f.],kaban [i.],mont [i.]"
+ },
+ {
+  "about": "coffee",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kahve [i.],kahvehane [i.],kıraathane [i.]"
+ },
+ {
+  "about": "cold",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "soğukluk [i.],soğukkanlı [s.],soğuk [s.]"
+ },
+ {
+  "about": "college",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yüksekokul [i.],kolej [i.],üniversite [i.]"
+ },
+ {
+  "about": "colour",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "renk [i.],boya [i.],yüzü kızarmak [f.]"
+ },
+ {
+  "about": "come",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "gelmek [f.],came - come [f.],gelip dayanmak [f.]"
+ },
+ {
+  "about": "common",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "alışılmış [s.],alelade [s.],yaygın [s.]"
+ },
+ {
+  "about": "company",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bölük [i.],şirket [i.],firma [i.]"
+ },
+ {
+  "about": "compare",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "mukayese etmek [f.],kıyaslamak [f.],karşılaştırmak [f.]"
+ },
+ {
+  "about": "complete",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "tamamlamak [f.],tam [s.],bütün [s.]"
+ },
+ {
+  "about": "computer",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bilgisayar [i.],kompüter [i.],elektronik beyin [i.]"
+ },
+ {
+  "about": "concert",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "konser [i.],anlaşmak [f.],birlikte hareket etmek [f.]"
+ },
+ {
+  "about": "conversation",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "konuşma [i.],sohbet [i.],muhabbet [i.]"
+ },
+ {
+  "about": "cook",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yemek pişirmek [f.],pişirmek [f.],aşçı [i.]"
+ },
+ {
+  "about": "cooking",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yemek pişirme [i.],mutfak [i.],pişim [i.]"
+ },
+ {
+  "about": "cool",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "soğutmak [f.],serinlik [i.],serin [s.]"
+ },
+ {
+  "about": "correct",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "düzeltmek [f.],doğru [s.],haddini bildirmek [f.]"
+ },
+ {
+  "about": "cost",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "mal olmak [f.],masraf [i.],ücret [i.]"
+ },
+ {
+  "about": "could",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "-abilirdi [f.],-er misin(iz) [f.],-ebilirdi [f.]"
+ },
+ {
+  "about": "country",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yurt [i.],memleket [i.],ülke [i.]"
+ },
+ {
+  "about": "course",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kurs [i.],izlenen yol [i.],rota [i.]"
+ },
+ {
+  "about": "cousin",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kuzen [i.],teyze oğlu\/kızı [i.],amca oğlu [i.]"
+ },
+ {
+  "about": "cow",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "inek [i.],korkutmak [f.],posta koymak [f.]"
+ },
+ {
+  "about": "cream",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kaymak [i.],krema [i.],krem [i.]"
+ },
+ {
+  "about": "create",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "meydana getirmek [f.],oluşturmak [f.],yaratmak [f.]"
+ },
+ {
+  "about": "culture",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kültür [i.],zevk ve eleştirme yeteneklerinin öğrenim ve yaşantılar yoluyla\ngeliştirilmiş olan biçimi [i.],terbiye [i.]"
+ },
+ {
+  "about": "cup",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kupa [i.],fincan [i.],kavramak [f.]"
+ },
+ {
+  "about": "customer",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "müşteri [i.],alıcı [i.],tip [i.]"
+ },
+ {
+  "about": "cut",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kesmek [f.],pay [i.],kesik [i.]"
+ },
+ {
+  "about": "dad",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "babacığım [i.],baba [i.],babacık [i.]"
+ },
+ {
+  "about": "dance",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "dans etmek [f.],dans [i.],sıçramak [f.]"
+ },
+ {
+  "about": "dancer",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "dansöz [i.],dansçı [i.],rakkase [i.]"
+ },
+ {
+  "about": "dancing",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "dans etme [i.],dans [s.],oynama [i.]"
+ },
+ {
+  "about": "dangerous",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "tehlikeli [s.],çekinceli [s.],riskli [s.]"
+ },
+ {
+  "about": "dark",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "karanlık [i.],koyu [s.],belirsizlik [i.]"
+ },
+ {
+  "about": "date",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "(biriyle) çıkmak [f.],randevuya çıkmak [f.],zaman [i.]"
+ },
+ {
+  "about": "daughter",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kız çocuk [i.],kız evlat [i.],ilişki [i.]"
+ },
+ {
+  "about": "day",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "gün [i.],dönem [i.],gündüz [i.]"
+ },
+ {
+  "about": "dear",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sevgili [s.],canım [ünl.],tatlı kimse [i.]"
+ },
+ {
+  "about": "December",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "aralık (ayı) [f.],aralık (ayı) [i.],aralık ayı [i.]"
+ },
+ {
+  "about": "decide",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "karar vermek [f.],belirlemek [f.],azmetmek [f.]"
+ },
+ {
+  "about": "delicious",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "nefis [s.],leziz [s.],lezzetli [s.]"
+ },
+ {
+  "about": "describe",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "betimlemek [f.],tanımlamak [f.],tarif etmek [f.]"
+ },
+ {
+  "about": "description",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "tasvir [i.],betimleme [i.],tarif [i.]"
+ },
+ {
+  "about": "design",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "dizayn etmek [f.],tasarlamak [f.],tasarım [i.]"
+ },
+ {
+  "about": "desk",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "çalışma masası [i.],okul sırası [i.],kürsü [i.]"
+ },
+ {
+  "about": "detail",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "detay [i.],ayrıntı [i.],ayrıntılı anlatmak [f.]"
+ },
+ {
+  "about": "dialogue",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "diyalog [i.],karşılıklı konuşma [i.],konuşma [i.]"
+ },
+ {
+  "about": "dictionary",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sözlük [i.],ansiklopedik sözlük [i.],kamus"
+ },
+ {
+  "about": "die",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ölmek [f.],çenesi atmak [f.],kandilin yağı tükenmek [f.]"
+ },
+ {
+  "about": "diet",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "diyet [i.],perhiz [i.],perhiz vermek [f.]"
+ },
+ {
+  "about": "difference",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ayrım [i.],fark [i.],dava [i.]"
+ },
+ {
+  "about": "different",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "farklı [s.],değişik [s.],başka [s.]"
+ },
+ {
+  "about": "difficult",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "çetin [s.],zor [s.],zorlu [s.]"
+ },
+ {
+  "about": "dinner",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "akşam yemeği [i.],yemek [i.],günün esas yemeği [i.]"
+ },
+ {
+  "about": "dirty",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "pisletmek [f.],pis [s.],kirli [s.]"
+ },
+ {
+  "about": "discuss",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "görüşmek [f.],tartışmak [f.],müzakere etmek [f.]"
+ },
+ {
+  "about": "dish",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "tabak [i.],mahvetmek [f.],oymak [f.]"
+ },
+ {
+  "about": "do",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "etmek [f.],yapmak [f.],did - done [f.]"
+ },
+ {
+  "about": "doctor",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "doktor [i.],değiştirmek (kötü bir amaçla) [f.],tahrif etmek [f.]"
+ },
+ {
+  "about": "dog",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "it [i.],köpek [i.],bozulmak [f.]"
+ },
+ {
+  "about": "dollar",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "amerikan parası [i.],dolar [i.],dolar"
+ },
+ {
+  "about": "door",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kapı [i.],kapı [i.],eşik [i.]"
+ },
+ {
+  "about": "down",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "aşağıya doğru [zf.],aşağı [ed.],alaşağı etmek [f.]"
+ },
+ {
+  "about": "downstairs",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "aşağı katta [i.],altkat [i.],alt kat [i.]"
+ },
+ {
+  "about": "draw",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "karalamak [f.],çekmek [f.],çizmek [f.]"
+ },
+ {
+  "about": "dress",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "giyinmek [f.],giymek [f.],giysi [i.]"
+ },
+ {
+  "about": "drink",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "içmek [f.],içki [i.],drank - drunk [f.]"
+ },
+ {
+  "about": "drive",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sürmek [f.],araba sürmek [f.],dürtü [i.]"
+ },
+ {
+  "about": "driver",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sürücü [i.],şoför [i.],makinist [i.]"
+ },
+ {
+  "about": "during",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "zarfında [zf.],süresince [ed.],sırasında [ed.]"
+ },
+ {
+  "about": "DVD",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "dvd [i.],,"
+ },
+ {
+  "about": "each",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "her biri [zm.],herbir [s.],beher [s.]"
+ },
+ {
+  "about": "ear",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kulak [i.],başaklanmak [f.],kulak [i.]"
+ },
+ {
+  "about": "early",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "erken [s.],ilkel [s.],erken [s.]"
+ },
+ {
+  "about": "east",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "doğu [i.],doğudaki bölüm [i.],gündoğusu [i.]"
+ },
+ {
+  "about": "easy",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "rahat [s.],kolay [s.],basit [s.]"
+ },
+ {
+  "about": "eat",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yemek yemek [f.],yemek [f.],ate - eaten [f.]"
+ },
+ {
+  "about": "egg",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yumurta [i.],teşvik etmek [f.],tahrik etmek [f.]"
+ },
+ {
+  "about": "eight",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sekiz [i.],ambar [i.],sekiz rakamı (8, VIII) [i.]"
+ },
+ {
+  "about": "eighteen",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "onsekiz [i.],onsekiz sayısı (18, XVIII) [i.],on sekiz [i.]"
+ },
+ {
+  "about": "eighty",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "seksen [i.],seksen sayısı (80) [i.],80 [i.]"
+ },
+ {
+  "about": "elephant",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "fil [i.],,"
+ },
+ {
+  "about": "eleven",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "onbir [i.],on bir sayısı (11, XI) [i.],on bir [i.]"
+ },
+ {
+  "about": "else",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "başka [s.],başka türlü [s.],daha [s.]"
+ },
+ {
+  "about": "email",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "email göndermek [f.],eposta,elektronik posta"
+ },
+ {
+  "about": "end",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sona ermek [f.],son vermek [f.],son bulmak [f.]"
+ },
+ {
+  "about": "enjoy",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "tadını çıkarmak [f.],zevk almak [f.],anlamak [f.]"
+ },
+ {
+  "about": "enough",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kafi [s.],yeterli [s.],yeter [s.]"
+ },
+ {
+  "about": "euro",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "euro [i.],avro [i.],"
+ },
+ {
+  "about": "even",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "düzgün [s.],düz [s.],pürüzsüz [s.]"
+ },
+ {
+  "about": "evening",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "akşam [s.],akşam [i.],son evreler [i.]"
+ },
+ {
+  "about": "event",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "olay [i.],aksiyon [i.],yarışma [i.]"
+ },
+ {
+  "about": "ever",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "durmadan [zf.],her zaman [zf.],daima [zf.]"
+ },
+ {
+  "about": "every",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "her [s.],bütün [s.],alışılmış [s.]"
+ },
+ {
+  "about": "everybody",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "cümle alem [zm.],dost düşman [zm.],herkes [zm.]"
+ },
+ {
+  "about": "everyone",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "herkes [zm.],herkes [zm.],elalem"
+ },
+ {
+  "about": "everything",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "her şey [zm.],her şey [zm.],her şey [zm.]"
+ },
+ {
+  "about": "exam",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "imtihan [i.],sınav [i.],muayene [i.]"
+ },
+ {
+  "about": "example",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "örnek [i.],ibret [i.],numune [i.]"
+ },
+ {
+  "about": "excited",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "heyecanlı [s.],hararetli [s.],coşkulu [s.]"
+ },
+ {
+  "about": "exciting",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "heyecanlı [s.],heyecan verici [s.],heyecanlandırma [i.]"
+ },
+ {
+  "about": "exercise",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "alıştırma yapmak [f.],egzersiz yapmak [f.],egzersiz [i.]"
+ },
+ {
+  "about": "expensive",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "masraflı [s.],pahalı [s.],pahalıya mal olan [s.]"
+ },
+ {
+  "about": "explain",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "açıklamak [f.],izah etmek [f.],izah etmek [f.]"
+ },
+ {
+  "about": "extra",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ekstra [s.],ilave gazete [i.],ilave [i.]"
+ },
+ {
+  "about": "eye",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "göz [i.],dikkatle bakmak [f.],süzmek [f.]"
+ },
+ {
+  "about": "face",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yüzleşmek [f.],yüz yüze gelmek [f.],yönelmek [f.]"
+ },
+ {
+  "about": "fact",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "vaka [i.],gerçek durum [i.],vak’a [i.]"
+ },
+ {
+  "about": "fall",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "inmek [f.],düşmek [f.],güz [i.]"
+ },
+ {
+  "about": "FALSE",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "takma [s.],düzmece [s.],sahte [s.]"
+ },
+ {
+  "about": "family",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sülale [i.],aile [i.],hamile [i.]"
+ },
+ {
+  "about": "famous",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ünlü [s.],meşhur [s.],ünlü [s.]"
+ },
+ {
+  "about": "fantastic",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "fantastik [s.],şahane [s.],harika [s.]"
+ },
+ {
+  "about": "far",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "uzak [s.],öteki [s.],çok fazla [s.]"
+ },
+ {
+  "about": "farm",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "çiftlik [i.],ekmek [f.],ekip biçmek [f.]"
+ },
+ {
+  "about": "farmer",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "çiftçi [i.],çiftlik sahibi [i.],rençper [i.]"
+ },
+ {
+  "about": "fast",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "süratli [s.],çabuk [zf.],hızlı [zf.]"
+ },
+ {
+  "about": "fat",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "semirtmek [f.],şişmanlatmak [f.],yağ [i.]"
+ },
+ {
+  "about": "father",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "papaz [i.],peder [i.],baba [i.]"
+ },
+ {
+  "about": "favourite",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "gözde [i.],favori [i.],gözde [s.]"
+ },
+ {
+  "about": "February",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "şubat [i.],yılın ikinci ayı [i.],gücük ay [i.]"
+ },
+ {
+  "about": "feel",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hissetmek [f.],felt - felt [f.],sezmek [f.]"
+ },
+ {
+  "about": "feeling",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "his [i.],duygu [i.],şefkat [i.]"
+ },
+ {
+  "about": "festival",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bayram [i.],şenlik [i.],festival [i.]"
+ },
+ {
+  "about": "few",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "az [s.],birkaç [s.],az miktar [s.]"
+ },
+ {
+  "about": "fifteen",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "onbeş [i.],on beş sayısı (15, XV) [i.],on beş [i.]"
+ },
+ {
+  "about": "fifth",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "beşinci [s.],beşte bir [s.],beşi [s.]"
+ },
+ {
+  "about": "fifty",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "elli sayısı (50) [i.],elli [i.],50 [i.]"
+ },
+ {
+  "about": "fill",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "doldurmak [f.],kaplamak [f.],şişirmek [f.]"
+ },
+ {
+  "about": "film",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "film [i.],zar vb kaplamak [f.],filme almak [f.]"
+ },
+ {
+  "about": "final",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "final [i.],nihai [s.],kesin [s.]"
+ },
+ {
+  "about": "find",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bulmak [f.],found - found [f.],rastlamak [f.]"
+ },
+ {
+  "about": "fine",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ceza kesmek [f.],para cezası [i.],hoş [s.]"
+ },
+ {
+  "about": "finish",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sona ermek [f.],bitirmek [f.],bitmek [f.]"
+ },
+ {
+  "about": "fire",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ateşlemek [f.],kovmak [f.],yangın [i.]"
+ },
+ {
+  "about": "first",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "birinci [s.],ilk [s.],önce [zf.]"
+ },
+ {
+  "about": "fish",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "balık [i.],balığa çıkmak [f.],avlamak [f.]"
+ },
+ {
+  "about": "five",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "beş [i.],beş rakamı (5, V) [i.],iskambilde beşli [i.]"
+ },
+ {
+  "about": "flat",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "düz yüzey [i.],daire [i.],yassı [s.]"
+ },
+ {
+  "about": "flight",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "uçuş [i.],uçmak [f.],yağmur (kurşun, ok vb) [i.]"
+ },
+ {
+  "about": "floor",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yeri kaplamak [f.],kat [i.],yer [i.]"
+ },
+ {
+  "about": "flower",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "çiçek [i.],gelişmek [f.],çiçeklenmek [f.]"
+ },
+ {
+  "about": "fly",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "uçmak [f.],sinek [i.],flew - flown [f.]"
+ },
+ {
+  "about": "follow",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "takip etmek [f.],izlemek [f.],kollamak [f.]"
+ },
+ {
+  "about": "food",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "besin [i.],yiyecek [i.],gıda [i.]"
+ },
+ {
+  "about": "foot",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ayak [i.],hesaplamak [f.],çıkarmak [f.]"
+ },
+ {
+  "about": "football",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "futbol [i.],futbol topu [i.],amerikan futbolu [i.]"
+ },
+ {
+  "about": "for",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "için [ed.],yönünden [ed.],zarfında [ed.]"
+ },
+ {
+  "about": "forget",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "unutmak [f.],forgot - forgotten\/forgot [f.],ihmal etmek [f.]"
+ },
+ {
+  "about": "form",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "biçimlendirmek [f.],şekillendirmek [f.],oluşturmak [f.]"
+ },
+ {
+  "about": "forty",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kırk sayısı (40) [i.],kırk [i.],40 [i.]"
+ },
+ {
+  "about": "four",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "dört [i.],kare [i.],dört rakamı 4 [i.]"
+ },
+ {
+  "about": "fourteen",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "on dört sayısı [i.],XIV [i.],on dört [i.]"
+ },
+ {
+  "about": "fourth",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "dörtte bir [s.],dördü [s.],dördüncü [s.]"
+ },
+ {
+  "about": "free",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bağımsız [s.],beleş [s.],muaf [s.]"
+ },
+ {
+  "about": "Friday",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "cuma [i.],cuma günü [i.],"
+ },
+ {
+  "about": "friend",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ahbap [i.],arkadaş [i.],dost [i.]"
+ },
+ {
+  "about": "friendly",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "arkadaş canlısı [s.],arkadaşça [s.],cana yakın [s.]"
+ },
+ {
+  "about": "from",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "itibaren [ed.],-den beri [ed.],-den [ed.]"
+ },
+ {
+  "about": "front",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yönelmek [f.],ön [i.],cephe [i.]"
+ },
+ {
+  "about": "fruit",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "meyve vermek [f.],meyve [i.],meyvelenmek [f.]"
+ },
+ {
+  "about": "full",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "tok [s.],tam [s.],dolu [s.]"
+ },
+ {
+  "about": "fun",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "eğlence [i.],eğlenme [i.],şaka etmek [f.]"
+ },
+ {
+  "about": "funny",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "komik [s.],gırgır [s.],güldürücü [s.]"
+ },
+ {
+  "about": "future",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "istikbal [i.],gelecek [i.],gelecek zaman [i.]"
+ },
+ {
+  "about": "game",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "oyun [i.],kumar oynamak [f.],maç [i.]"
+ },
+ {
+  "about": "garden",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bahçe [i.],çiçeklerle uğraşmak [f.],bahçede çalışmak [f.]"
+ },
+ {
+  "about": "geography",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "coğrafya [i.],coğrafya,coğrafya"
+ },
+ {
+  "about": "get",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "elde etmek [f.],almak [f.],kazanmak [f.]"
+ },
+ {
+  "about": "girl",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kız [i.],kız arkadaş [i.],kız [i.]"
+ },
+ {
+  "about": "girlfriend",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kız arkadaş [i.],manita [i.],flört [i.]"
+ },
+ {
+  "about": "give",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "vermek [f.],gave - given [f.],bahşetmek [f.]"
+ },
+ {
+  "about": "glass",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kadeh [i.],bardak [i.],cam [i.]"
+ },
+ {
+  "about": "go",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hareket etmek [f.],gitmek [f.],went - gone [f.]"
+ },
+ {
+  "about": "good",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "güzel [s.],hayırlı [s.],iyi [s.]"
+ },
+ {
+  "about": "goodbye",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "güle güle [i.],hoşçakal [i.],elveda [i.]"
+ },
+ {
+  "about": "grandfather",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "dede [i.],büyükbaba [i.],cet [i.]"
+ },
+ {
+  "about": "grandmother",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "babaanne [i.],anneanne [i.],nine [i.]"
+ },
+ {
+  "about": "grandparent",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "büyükbaba [i.],büyük ebeveyn [i.],büyükbaba veya büyükanne [i.]"
+ },
+ {
+  "about": "great",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "mükemmel [s.],müthiş [s.],harika [s.]"
+ },
+ {
+  "about": "green",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yeşil [s.],yeşermek [f.],yeşile boyamak [f.]"
+ },
+ {
+  "about": "grey",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ağartmak [f.],ağarmak [f.],gri [i.]"
+ },
+ {
+  "about": "group",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "grup [i.],gruplandırmak [f.],toplanmak [f.]"
+ },
+ {
+  "about": "grow",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yetişmek [f.],büyümek [f.],grew - grown [f.]"
+ },
+ {
+  "about": "guess",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "tahmin etmek [f.],tahmin [i.],sanmak [f.]"
+ },
+ {
+  "about": "guitar",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "gitarist [i.],kitara [i.],gitar [i.]"
+ },
+ {
+  "about": "gym",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "spor salonu [i.],jimnastik [i.],beden eğitimi [i.]"
+ },
+ {
+  "about": "hair",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "tüy [i.],kıl [i.],saç [i.]"
+ },
+ {
+  "about": "half",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yarım [s.],yarı [s.],devre [i.]"
+ },
+ {
+  "about": "hand",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "el [i.],yakalamak [f.],uzatmak [f.]"
+ },
+ {
+  "about": "happen",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "meydana gelmek [f.],olmak [f.],başından geçmek [f.]"
+ },
+ {
+  "about": "happy",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sevinçli [s.],mutlu [s.],çakırkeyif [s.]"
+ },
+ {
+  "about": "hard",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "çetin [s.],sert [s.],zahmetli [s.]"
+ },
+ {
+  "about": "hat",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "şapka [i.],şapka [i.],başlık [i.]"
+ },
+ {
+  "about": "hate",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "nefret etmek [f.],nefret [i.],kin beslemek [f.]"
+ },
+ {
+  "about": "have",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sahip olmak [f.],had - had [f.],elinde tutmak [f.]"
+ },
+ {
+  "about": "have to",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "mecburiyetinde kalmak [f.],gerekmek [f.],mecbur olmak [f.]"
+ },
+ {
+  "about": "he",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "eril o [zm.],o [zm.],kendileri [zm.]"
+ },
+ {
+  "about": "head",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kelle [i.],kafa [i.],baş [i.]"
+ },
+ {
+  "about": "health",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sıhhat [i.],sağlık [i.],afiyet [i.]"
+ },
+ {
+  "about": "healthy",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sıhhatli [s.],sağlıklı [s.],sağlığa yararlı [s.]"
+ },
+ {
+  "about": "hear",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "duymak [f.],işitmek [f.],heard - heard [f.]"
+ },
+ {
+  "about": "hello",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "merhaba [ünl.],merhaba [ünl.],selam [ünl.]"
+ },
+ {
+  "about": "help",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yardım etmek [f.],yardım [i.],muavenet etmek [f.]"
+ },
+ {
+  "about": "her",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ona [zm.],dişil onu [zm.],ondan [zm.]"
+ },
+ {
+  "about": "here",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "burada [zf.],buraya [zf.],burda [zf.]"
+ },
+ {
+  "about": "hey",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "selam,,"
+ },
+ {
+  "about": "hi",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "merhaba [ünl.],selam [ünl.],merhabalar"
+ },
+ {
+  "about": "high",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yüksek [s.],direnmek [f.],öfkelenmek [f.]"
+ },
+ {
+  "about": "him",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ona [zm.],onu [zm.],(erkek) onu [zm.]"
+ },
+ {
+  "about": "his",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "eril onunki [zm.],onun [zm.],onunki [zm.]"
+ },
+ {
+  "about": "history",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "geçmiş [i.],tarih [i.],kayıtlar [i.]"
+ },
+ {
+  "about": "hobby",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hobi [i.],şahin [i.],merak [i.]"
+ },
+ {
+  "about": "holiday",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bayram [i.],tatil [i.],tatil yapmak [f.]"
+ },
+ {
+  "about": "home",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ev [i.],yerleştirmek [f.],yuvasına dönmek [f.]"
+ },
+ {
+  "about": "homework",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ödev [i.],ev ödevi [i.],ödev [i.]"
+ },
+ {
+  "about": "hope",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ummak [f.],umut etmek [f.],ümit etmek [f.]"
+ },
+ {
+  "about": "horse",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "beygir [i.],at [i.],oynamak [f.]"
+ },
+ {
+  "about": "hospital",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hastane [i.],darüşşifa [i.],darülaceze [i.]"
+ },
+ {
+  "about": "hot",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kızgın [s.],ateşli [s.],acı [s.]"
+ },
+ {
+  "about": "hotel",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "otel [i.],,"
+ },
+ {
+  "about": "hour",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "saat [i.],vakit [i.],zaman [i.]"
+ },
+ {
+  "about": "house",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ev [i.],konut [i.],kendi evine almak [f.]"
+ },
+ {
+  "about": "how",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "nasıl [zf.],yapma yöntemi [i.],yapma tarzı [i.]"
+ },
+ {
+  "about": "however",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bununla birlikte [zf.],yine de [bağ.],her nasılsa [zf.]"
+ },
+ {
+  "about": "hundred",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yüz [s.],yüzlük [i.],yüz sayısı, 100 [i.]"
+ },
+ {
+  "about": "hungry",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "acıkmış [s.],aç [s.],istekli [s.]"
+ },
+ {
+  "about": "husband",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "koca [i.],eş [i.],idareli kullanmak [f.]"
+ },
+ {
+  "about": "I",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ben [zm.],ingiliz alfabesinin dokuzuncu harfi\n[i.],romen rakamları dizisinde 1 sayısı\n[i.]"
+ },
+ {
+  "about": "Internet",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "internet [i.],ağlararası ağ,sanaldalyan"
+ },
+ {
+  "about": "ice",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "buz [i.],öldürmek [f.],buzda soğutmak [f.]"
+ },
+ {
+  "about": "ice cream",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "dondurma [i.],dondurma,"
+ },
+ {
+  "about": "idea",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "fikir [i.],düşünce [i.],sanı [i.]"
+ },
+ {
+  "about": "if",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "eğer [bağ.],belirsizlik [i.],şart [i.]"
+ },
+ {
+  "about": "imagine",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hayal etmek [f.],sanmak [f.],kafasında canlandırmak [f.]"
+ },
+ {
+  "about": "important",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "mühim [s.],önemli [s.],gururlu [s.]"
+ },
+ {
+  "about": "improve",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "geliştirmek [f.],gelişmek [f.],ilerletmek [f.]"
+ },
+ {
+  "about": "in",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "içeri [zf.],içinde [ed.],iç [i.]"
+ },
+ {
+  "about": "include",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "katmak [f.],içermek [f.],kapsamak [f.]"
+ },
+ {
+  "about": "information",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bilgi [i.],ilmi vukuf [i.],iddia [i.]"
+ },
+ {
+  "about": "interest",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ilgilendirmek [f.],çıkar [i.],faiz [i.]"
+ },
+ {
+  "about": "interested",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "alakalı [s.],ilgili [s.],hissedar [i.]"
+ },
+ {
+  "about": "interesting",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ilginç [s.],ilgi çekici [s.],ilgilenme [i.]"
+ },
+ {
+  "about": "interview",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "görüşmek [f.],görüşme [i.],mülakat [i.]"
+ },
+ {
+  "about": "into",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "içine [ed.],şekline [ed.],biçimine [ed.]"
+ },
+ {
+  "about": "introduce",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "tanıtmak [f.],tanıştırmak [f.],içeri sokmak [f.]"
+ },
+ {
+  "about": "island",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ada [i.],adacık [i.],ada [i.]"
+ },
+ {
+  "about": "it",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ona [zm.],ilişki [i.],ebe (oyunlarda) [i.]"
+ },
+ {
+  "about": "its",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "onun [zm.],-in [zm.],"
+ },
+ {
+  "about": "jacket",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ceket [i.],kaplamak [f.],zarf [i.]"
+ },
+ {
+  "about": "January",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ocak [i.],ocak (ay) [i.],ocak ayı [i.]"
+ },
+ {
+  "about": "jeans",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kot [i.],kot pantolon [i.],blucin [i.]"
+ },
+ {
+  "about": "job",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "görev [i.],iş [i.],kiraya vermek [f.]"
+ },
+ {
+  "about": "join",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "birleştirmek [f.],katılmak [f.],katmak [f.]"
+ },
+ {
+  "about": "journey",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yolculuk [i.],seyahat [i.],yolculuk etmek [f.]"
+ },
+ {
+  "about": "juice",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "meyve suyu [i.],özsu [i.],benzin [i.]"
+ },
+ {
+  "about": "July",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "temmuz [i.],yılın yedinci ayı [i.],temmuz ayı [i.]"
+ },
+ {
+  "about": "June",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "haziran [i.],yılın altıncı ayı [i.],haziran ayı [i.]"
+ },
+ {
+  "about": "just",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sadece [s.],adil [s.],yalnızca [zf.]"
+ },
+ {
+  "about": "keep",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "tutmak [f.],saklamak [f.],kept - kept [f.]"
+ },
+ {
+  "about": "key",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "anahtar [i.],tuş [i.],girmek bilgisayar [f.]"
+ },
+ {
+  "about": "kilometre",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kilometre [i.],kilometre (simgesi km),bin metre"
+ },
+ {
+  "about": "kind",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "tür [i.],çeşit [i.],cins [i.]"
+ },
+ {
+  "about": "kitchen",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "mutfak [i.],kuzine [i.],nevale [i.]"
+ },
+ {
+  "about": "know",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bilmek [f.],tanımak [f.],knew - known [f.]"
+ },
+ {
+  "about": "land",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "karaya ayak basmak [f.],kıyıya çıkmak [f.],karaya çıkmak [f.]"
+ },
+ {
+  "about": "language",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "lisan [i.],dil [i.],edebiyat [i.]"
+ },
+ {
+  "about": "large",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "iri [s.],geniş [s.],büyük [s.]"
+ },
+ {
+  "about": "last",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sonuncu [s.],son [s.],tutunmak [f.]"
+ },
+ {
+  "about": "late",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "gecikmiş [s.],geç [zf.],her zamanki [s.]"
+ },
+ {
+  "about": "later",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sonradan [zf.],sonra [zf.],sonraki [zf.]"
+ },
+ {
+  "about": "laugh",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "gülmek [f.],gülme [i.],gülüş [i.]"
+ },
+ {
+  "about": "learn",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "öğrenmek [f.],learned\/learnt - learned\/learnt [f.],işitmek [f.]"
+ },
+ {
+  "about": "leave",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bırakmak [f.],ayrılmak [f.],terk etmek [f.]"
+ },
+ {
+  "about": "left",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sol [s.],kalmak [f.],sol kanat [i.]"
+ },
+ {
+  "about": "leg",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ayak (mobilya\/pergel) [i.],bacak [i.],koşmak [f.]"
+ },
+ {
+  "about": "lesson",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ders [i.],azar [i.],hisse [i.]"
+ },
+ {
+  "about": "let",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "izin vermek [f.],let - let [f.],vermek [f.]"
+ },
+ {
+  "about": "letter",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "mektup [i.],harf [i.],basmak [f.]"
+ },
+ {
+  "about": "library",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kitaplık [i.],kütüphane [i.],kütüphane binası [i.]"
+ },
+ {
+  "about": "lie",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yatmak [f.],uzanmak [f.],yalan söylemek [f.]"
+ },
+ {
+  "about": "life",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yaşam [i.],hayat [i.],can [i.]"
+ },
+ {
+  "about": "light",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "aydınlık [i.],nur [i.],ışık [i.]"
+ },
+ {
+  "about": "like",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "beğenmek [f.],hoşlanmak [f.],sevmek [f.]"
+ },
+ {
+  "about": "line",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "astarlamak [f.],satır [i.],hat [i.]"
+ },
+ {
+  "about": "lion",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "aslan [i.],arslan [i.],başarılı ve aranan kimse [i.]"
+ },
+ {
+  "about": "list",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "listelemek [f.],liste [i.],kaydetmek [f.]"
+ },
+ {
+  "about": "listen",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "dinlemek [f.],kulak asmak [f.],dinlenmek"
+ },
+ {
+  "about": "little",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ufak [s.],az [s.],küçük [s.]"
+ },
+ {
+  "about": "live",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yaşamak [f.],naklen [zf.],ikamet etmek [f.]"
+ },
+ {
+  "about": "local",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "lokal [s.],yerel [s.],yerli [s.]"
+ },
+ {
+  "about": "long",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "uzun [s.],hasretini çekmek [f.],susamak [f.]"
+ },
+ {
+  "about": "look",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bakmak [f.],görünüş [i.],bakış [i.]"
+ },
+ {
+  "about": "lose",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kaybetmek [f.],yitirmek [f.],lost - lost [f.]"
+ },
+ {
+  "about": "lot",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "pay [i.],bölüştürmek [f.],taksim etmek [f.]"
+ },
+ {
+  "about": "love",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sevmek [f.],sevda [i.],aşk [i.]"
+ },
+ {
+  "about": "lunch",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "öğle yemeği [i.],öğle yemeği yemek [f.],tümsek [i.]"
+ },
+ {
+  "about": "machine",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "makine [i.],makine ile yapmak veya şekil\nvermek [f.],makine ile yapmak [f.]"
+ },
+ {
+  "about": "magazine",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "fişek haznesi [i.],dergi [i.],mecmua [i.]"
+ },
+ {
+  "about": "main",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "esas [i.],ana [s.],baş [s.]"
+ },
+ {
+  "about": "make",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yapmak [f.],made - made [f.],katetmek [f.]"
+ },
+ {
+  "about": "man",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "insan [i.],adam [i.],erkek [i.]"
+ },
+ {
+  "about": "many",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "birçok [s.],çok [zf.],çoğu [i.]"
+ },
+ {
+  "about": "map",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "harita [i.],planlamak [f.],saptamak [f.]"
+ },
+ {
+  "about": "March",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yürüyüş yapmak (topluca) [f.],yürüyüş (topluca) [i.],mart ayı [i.]"
+ },
+ {
+  "about": "market",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "çarşı [i.],pazar [i.],piyasa [i.]"
+ },
+ {
+  "about": "married",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "evli [s.],evliliğe\/evlilere özgü [s.],başı bağlı [s.]"
+ },
+ {
+  "about": "match",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "eşleştirmek [f.],eşlemek [f.],eş [i.]"
+ },
+ {
+  "about": "May",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "mayıs ayı [i.],mayıs [i.],mümkün olmak [f.]"
+ },
+ {
+  "about": "maybe",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "belki [ünl.],belki [zf.],belki de [bağ.]"
+ },
+ {
+  "about": "me",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ben [zm.],mi [i.],beni [zm.]"
+ },
+ {
+  "about": "meal",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "öğün [i.],yemek [i.],sofra [i.]"
+ },
+ {
+  "about": "mean",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "demek istemek [f.],kastetmek [f.],anlamına gelmek [f.]"
+ },
+ {
+  "about": "meaning",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "mana [i.],meal [i.],anlam [s.]"
+ },
+ {
+  "about": "meat",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "et [i.],yenecek et [i.],öz [i.]"
+ },
+ {
+  "about": "meet",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "karşılaşmak [f.],buluşmak [f.],görüşme yapmak [f.]"
+ },
+ {
+  "about": "meeting",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "toplantı [i.],buluşma [i.],miting [i.]"
+ },
+ {
+  "about": "member",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "üye [i.],organ [i.],mensup [i.]"
+ },
+ {
+  "about": "menu",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "menü [i.],mönü [i.],bir restoranda mevcut yiyecek ve\niçeceklerin listesi [i.]"
+ },
+ {
+  "about": "message",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ileti [i.],mesaj [i.],resmi bildiri [i.]"
+ },
+ {
+  "about": "metre",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "metre [i.],saat ile ölçmek [f.],vezin [i.]"
+ },
+ {
+  "about": "midnight",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "geceyarısı [i.],gece yarısı [i.],"
+ },
+ {
+  "about": "mile",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "mil [i.],mil uzaklık ölçü birimi 1609 m [i.],mil"
+ },
+ {
+  "about": "milk",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "süt [i.],süt vermek (inek) [f.],faydalanmak [f.]"
+ },
+ {
+  "about": "million",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "milyon [i.],,"
+ },
+ {
+  "about": "minute",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "dakika [i.],zabıt tutmak [f.],tutanak tutmak [f.]"
+ },
+ {
+  "about": "miss",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ıska geçmek [f.],özlemek [f.],kaçırmak [f.]"
+ },
+ {
+  "about": "mistake",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yanılgı [i.],hata [i.],yanlış [i.]"
+ },
+ {
+  "about": "model",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "model [i.],manken [i.],modellik etmek [f.]"
+ },
+ {
+  "about": "modern",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "çağdaş [s.],modern [s.],modern kimse [i.]"
+ },
+ {
+  "about": "moment",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "an [i.],önem [i.],cevher [i.]"
+ },
+ {
+  "about": "Monday",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "pazartesi [i.],,"
+ },
+ {
+  "about": "money",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "para [i.],para kırmak [f.],patpat [i.]"
+ },
+ {
+  "about": "month",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ay [i.],ay [i.],yılın on iki bölümünden her biri"
+ },
+ {
+  "about": "more",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "daha fazla [s.],daha [zf.],fazla şey [i.]"
+ },
+ {
+  "about": "morning",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sabah [s.],sabah vakti [i.],başlama [i.]"
+ },
+ {
+  "about": "most",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "en [s.],en çok [s.],en fazlası [i.]"
+ },
+ {
+  "about": "mother",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ana [i.],anne [i.],anne gibi davranmak [f.]"
+ },
+ {
+  "about": "mountain",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "dağ [i.],yığın [i.],cebel [i.]"
+ },
+ {
+  "about": "mouse",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "fare [i.],fare avlamak [f.],fare tutmak [f.]"
+ },
+ {
+  "about": "mouth",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ağız [i.],tane tane söylemek [f.],dudaklarını oynatarak konuşur gibi\nyapmak [f.]"
+ },
+ {
+  "about": "move",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kımıldamak [f.],kıpırdamak [f.],hareket etmek [f.]"
+ },
+ {
+  "about": "movie",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "film (sinemada gösterilen) [i.],sinema [i.],film [i.]"
+ },
+ {
+  "about": "much",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "fazla [s.],çok [zf.],çok şey [i.]"
+ },
+ {
+  "about": "mum",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "maske ile oynamak [f.],kasımpatı [i.],hanımefendi [i.]"
+ },
+ {
+  "about": "museum",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "müze [i.],,"
+ },
+ {
+  "about": "music",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "müzik [i.],ahenk [i.],nağme [i.]"
+ },
+ {
+  "about": "must",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "gerekmek [f.],-malı [f.],-meli [f.]"
+ },
+ {
+  "about": "my",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "benim [zm.],bana ait [ünl.],"
+ },
+ {
+  "about": "name",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "isim [i.],ad [i.],ismiyle çağırmak [f.]"
+ },
+ {
+  "about": "natural",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "tabii [s.],doğuştan [s.],natürel [s.]"
+ },
+ {
+  "about": "near",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yakın [zf.],yakınlaşmak [f.],yaklaşmak [f.]"
+ },
+ {
+  "about": "need",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ihtiyaç duymak [f.],gerek [i.],gereksinim [i.]"
+ },
+ {
+  "about": "negative",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "negatif [s.],olumsuz [s.],etkisiz hale getirmek [f.]"
+ },
+ {
+  "about": "neighbour",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "komşu [i.],komşu olmak [f.],yaklaşmak [f.]"
+ },
+ {
+  "about": "never",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hiç [zf.],asla [ünl.],katiyen [zf.]"
+ },
+ {
+  "about": "new",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yeni [s.],keşfedilmemiş [s.],değişik [s.]"
+ },
+ {
+  "about": "news",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "haber [i.],havadis [i.],bilgi [i.]"
+ },
+ {
+  "about": "newspaper",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "gazete [i.],gazete,gazete"
+ },
+ {
+  "about": "next",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sonraki [ed.],bundan sonraki [s.],en bitişik [s.]"
+ },
+ {
+  "about": "next to",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bitişik [s.],yanında [zf.],hemen yanındaki [ed.]"
+ },
+ {
+  "about": "nice",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sevimli [s.],güzel [s.],hoş [s.]"
+ },
+ {
+  "about": "night",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "gece [s.],tün [i.],karanlık [i.]"
+ },
+ {
+  "about": "nine",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "dokuz [i.],dokuzu [i.],9 [i.]"
+ },
+ {
+  "about": "nineteen",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "XIX [i.],on dokuz [i.],on dokuz sayısı [i.]"
+ },
+ {
+  "about": "ninety",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "doksan sayısı (90) [i.],doksan [i.],90 [i.]"
+ },
+ {
+  "about": "no",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hayır [ünl.],aleyhte oy [i.],red [i.]"
+ },
+ {
+  "about": "no one",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hiç kimse [zm.],,"
+ },
+ {
+  "about": "nobody",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hiç kimse [zm.],önemsiz biri [i.],bir hiç [i.]"
+ },
+ {
+  "about": "north",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kuzey [i.],şimal [i.],kuzeye bakan [s.]"
+ },
+ {
+  "about": "nose",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "burun [i.],koku almak [f.],yavaş ilerlemek [f.]"
+ },
+ {
+  "about": "not",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "gayri [s.],yoksa [zf.],asla [zf.]"
+ },
+ {
+  "about": "note",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "not etmek [f.],senet [i.],nota [i.]"
+ },
+ {
+  "about": "nothing",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hiç [i.],hiçbir şey [i.],önemsiz (şey) [i.]"
+ },
+ {
+  "about": "November",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kasım [i.],teşrin-i sani,"
+ },
+ {
+  "about": "now",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "şimdi [zf.],halen [zf.],derhal [zf.]"
+ },
+ {
+  "about": "number",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "numaralamak [f.],saymak [f.],sayı [i.]"
+ },
+ {
+  "about": "nurse",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hemşirelik yapmak [f.],meme vermek [f.],bakıcılık yapmak [f.]"
+ },
+ {
+  "about": "object",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "itiraz etmek [f.],razı olmamak [f.],karşı çıkmak [f.]"
+ },
+ {
+  "about": "o'clock",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "saat [zf.],saate göre [zf.],saat (tam saatlerle kullanılır) [zf.]"
+ },
+ {
+  "about": "October",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ekim [i.],teşrin-i evvel,"
+ },
+ {
+  "about": "of",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "karşı [ed.],olan [ed.],hakkında [ed.]"
+ },
+ {
+  "about": "off",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kapalı [s.],dışında [zf.],kalkmak [f.]"
+ },
+ {
+  "about": "office",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "makam [i.],ofis [i.],büro [i.]"
+ },
+ {
+  "about": "often",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sık sık [zf.],çoğu kez [zf.],sık [zf.]"
+ },
+ {
+  "about": "oh",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ey [ünl.],ha [ünl.],"
+ },
+ {
+  "about": "OK",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "onaylamak [f.],okeylemek [f.],kabul etmek [f.]"
+ },
+ {
+  "about": "old",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "eskimiş [s.],yaşlı [s.],eski [s.]"
+ },
+ {
+  "about": "on",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "üstünde [ed.],üzerinde [ed.],yanmak [f.]"
+ },
+ {
+  "about": "once",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bir kere [zf.],bir kez [zf.],birkez [zf.]"
+ },
+ {
+  "about": "one",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bir [i.],tek [s.],biri [zm.]"
+ },
+ {
+  "about": "onion",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "soğan [i.],soğancık,kuru soğan"
+ },
+ {
+  "about": "online",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bağlantılı [s.],online olarak [zf.],çevrim içi"
+ },
+ {
+  "about": "only",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "tek [s.],sırf [zf.],yalnızca [zf.]"
+ },
+ {
+  "about": "open",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "açılmak [f.],açmak [f.],açık [s.]"
+ },
+ {
+  "about": "opinion",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kanaat [i.],kanı [i.],düşünce [i.]"
+ },
+ {
+  "about": "opposite",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "zıt [i.],aksi [s.],karşıt [s.]"
+ },
+ {
+  "about": "or",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ya da [bağ.],veya [bağ.],altın sarısı [i.]"
+ },
+ {
+  "about": "orange",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "portakal [i.],portakal rengi [i.],portakalrengi [i.]"
+ },
+ {
+  "about": "order",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sipariş vermek [f.],emretmek [f.],buyurmak [f.]"
+ },
+ {
+  "about": "other",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "öbür [s.],öteki [s.],başka [s.]"
+ },
+ {
+  "about": "our",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bizim [zm.],bizim [zm.],"
+ },
+ {
+  "about": "out",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "çıkış [i.],dışarıda [zf.],dışarı [zf.]"
+ },
+ {
+  "about": "outside",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "dıştan [zf.],dışarı [zf.],dışarısı [zf.]"
+ },
+ {
+  "about": "over",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bitmiş [s.],üzerine [ed.],üstüne [ed.]"
+ },
+ {
+  "about": "own",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sahip olmak [f.],kendi [zm.],itiraf etmek [f.]"
+ },
+ {
+  "about": "page",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sayfa [i.],otelde birini komiyle çağırttırmak\n[f.],bir yazının sayfalarını\nnumaralamak [f.]"
+ },
+ {
+  "about": "paint",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "boyamak [f.],boya [i.],portresini yapmak [f.]"
+ },
+ {
+  "about": "painting",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "tablo [i.],resim [i.],ressamlık [i.]"
+ },
+ {
+  "about": "pair",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "çift [i.],eşleştirmek [f.],eşlemek [f.]"
+ },
+ {
+  "about": "paper",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kağıt [i.],duvar kağıdı kaplamak [f.],örtbas etmek [f.]"
+ },
+ {
+  "about": "paragraph",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "fıkra [i.],paragraf [i.],makale [i.]"
+ },
+ {
+  "about": "parent",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ebeveynlik etmek [f.],ata [i.],soy [i.]"
+ },
+ {
+  "about": "park",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "park etmek [f.],park [i.],park yapmak [f.]"
+ },
+ {
+  "about": "part",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "parça [i.],kısım [i.],taraf [i.]"
+ },
+ {
+  "about": "partner",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "eş [i.],ortak [i.],ortak etmek [f.]"
+ },
+ {
+  "about": "party",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "taraf [i.],parti [i.],(parti yaparak) kutlamak [f.]"
+ },
+ {
+  "about": "passport",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "geçiş belgesi [i.],taşıyıcısının kendisininkinden başka ülkelere seyahat etmesine imkan\ntanıyan kimlik belgesi [i.],pasaport [i.]"
+ },
+ {
+  "about": "past",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "geçmiş [s.],geçmiş zaman [i.],bir kimsenin geçmişi [i.]"
+ },
+ {
+  "about": "pay",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ödemek [f.],ödeme [i.],ücret [i.]"
+ },
+ {
+  "about": "pen",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kalem [i.],hapsetmek [f.],kaleme almak [f.]"
+ },
+ {
+  "about": "pencil",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kalem [i.],kurşunkalem [i.],kurşunkalemle çizmek [f.]"
+ },
+ {
+  "about": "people",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "insanlar [i.],ulus [i.],halk [i.]"
+ },
+ {
+  "about": "pepper",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "biber [i.],üzerine biber ekmek [f.],pul biber koymak [f.]"
+ },
+ {
+  "about": "perfect",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kusursuz [s.],mükemmel [s.],mükemmelleştirmek [f.]"
+ },
+ {
+  "about": "period",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "devir [i.],dönem [i.],çağ [i.]"
+ },
+ {
+  "about": "person",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kişi [i.],şahıs [i.],kimse [i.]"
+ },
+ {
+  "about": "personal",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kişisel [s.],özel [s.],şahsi [s.]"
+ },
+ {
+  "about": "phone",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "telefon etmek [f.],telefon açmak [f.],telefonlamak [f.]"
+ },
+ {
+  "about": "photo",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "foto [i.],fotoğraflamak [f.],resim vermek [f.]"
+ },
+ {
+  "about": "photograph",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "fotoğraflamak [f.],fotoğrafını çekmek [f.],resim vermek [f.]"
+ },
+ {
+  "about": "phrase",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ifade etmek [f.],uygun sözcük ve cümlelerle ifade\netmek [f.],cümle veya sözcüklerle anlatmak\n[f.]"
+ },
+ {
+  "about": "piano",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "piyano çalgı [i.],piyano [i.],hafif [s.]"
+ },
+ {
+  "about": "picture",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "resim [i.],yansıtmak [f.],resmetmek [f.]"
+ },
+ {
+  "about": "piece",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "tane [i.],parça [i.],yamamak [f.]"
+ },
+ {
+  "about": "pig",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "domuz [i.],pislik içinde yaşamak [f.],yavrulamak (domuz) [f.]"
+ },
+ {
+  "about": "pink",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "pembe [i.],delmek (süngü ile) [f.],süngü ile delmek [f.]"
+ },
+ {
+  "about": "place",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "koymak [f.],oturtmak [f.],yerleştirmek [f.]"
+ },
+ {
+  "about": "plan",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "planlamak [f.],tasarlamak [f.],plan [i.]"
+ },
+ {
+  "about": "plane",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "düzlemek [f.],düz (yüzey) [i.],düzlem [i.]"
+ },
+ {
+  "about": "plant",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "dikmek [f.],ekmek [f.],tesis [i.]"
+ },
+ {
+  "about": "play",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "oynamak [f.],çalmak [f.],piyes [i.]"
+ },
+ {
+  "about": "player",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "oyuncu [i.],çalgıcı [i.],sporcu [i.]"
+ },
+ {
+  "about": "please",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "memnun etmek [f.],lütfen [ünl.],gönlünü hoş etmek [f.]"
+ },
+ {
+  "about": "point",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "nokta [i.],puan [i.],uç [i.]"
+ },
+ {
+  "about": "police",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "polis [i.],inzibat altına almak [f.],güvenliği sağlamak [f.]"
+ },
+ {
+  "about": "policeman",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "polis [i.],zabıta memuru [i.],polis (memuru) [i.]"
+ },
+ {
+  "about": "pool",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "havuz [i.],toplamak [f.],karı paylaşmak [f.]"
+ },
+ {
+  "about": "poor",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kötü [s.],fakir [s.],zavallı [s.]"
+ },
+ {
+  "about": "popular",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "popüler [s.],halkın kesesine elverişli [i.],halka hitap eden [s.]"
+ },
+ {
+  "about": "positive",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "pozitif [s.],artı [s.],olumlu [s.]"
+ },
+ {
+  "about": "possible",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "olabilir [s.],olanaklı [s.],muhtemel [s.]"
+ },
+ {
+  "about": "post",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "postalamak [f.],makam [i.],direk [i.]"
+ },
+ {
+  "about": "potato",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "patates [i.],baş [i.],kafa [i.]"
+ },
+ {
+  "about": "pound",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yumruklamak [f.],çakmak [f.],dalgaya çarpmak (gemi) [f.]"
+ },
+ {
+  "about": "practice",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "uygulamak [f.],alıştırma yapmak [f.],yapmak [f.]"
+ },
+ {
+  "about": "practise",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "pratik yapmak [f.],alıştırma yapmak [f.],etmek [f.]"
+ },
+ {
+  "about": "prefer",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "tercih etmek [f.],yeğlemek [f.],yeğ tutmak [f.]"
+ },
+ {
+  "about": "prepare",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hazırlamak [f.],düzmek [f.],pişirmek [f.]"
+ },
+ {
+  "about": "present",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sunmak [f.],takdim etmek [f.],şimdiki zaman [i.]"
+ },
+ {
+  "about": "pretty",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "şirin [s.],tatlı [s.],güzel [s.]"
+ },
+ {
+  "about": "price",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bedel [i.],fiyat [i.],ücret [i.]"
+ },
+ {
+  "about": "probably",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "galiba [zf.],muhtemelen [zf.],muhtemel olarak [zf.]"
+ },
+ {
+  "about": "problem",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "problem [i.],mesele [i.],sorun [i.]"
+ },
+ {
+  "about": "product",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ürün [i.],mahsul [i.],meyve [i.]"
+ },
+ {
+  "about": "programme",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "program [i.],programlamak [f.],planlamak [f.]"
+ },
+ {
+  "about": "project",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "proje [i.],iz düşürmek [f.],planını çizmek [f.]"
+ },
+ {
+  "about": "purple",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "mor [i.],mora boyamak [f.],erguvan rengi [i.]"
+ },
+ {
+  "about": "put",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "koymak [f.],put - put [f.],hamletmek [f.]"
+ },
+ {
+  "about": "quarter",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "çeyrek [i.],yerleştirmek (bir kimseyi bir\nyere\/birinin yanına) [f.],yerleştirmek [f.]"
+ },
+ {
+  "about": "question",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "soru [i.],sorular sormak [f.],sorgulamak [f.]"
+ },
+ {
+  "about": "quick",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "süratli [s.],hızlı [s.],çabuk [zf.]"
+ },
+ {
+  "about": "quickly",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hızla [zf.],aceleyle [zf.],süratle [zf.]"
+ },
+ {
+  "about": "quiet",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sessizlik [i.],sakin [s.],sessiz [s.]"
+ },
+ {
+  "about": "quite",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "epeyce [zf.],pek [zf.],epey [zf.]"
+ },
+ {
+  "about": "radio",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "radyo [i.],telsiz [i.],telsizle haber vermek [f.]"
+ },
+ {
+  "about": "rain",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yağmur yağmak [f.],yağmur [i.],yağmur gibi yağdırmak [f.]"
+ },
+ {
+  "about": "read",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "okumak [f.],read (sounds like \"red\") - read\n(sounds like \"red\") [f.],çözmek [f.]"
+ },
+ {
+  "about": "reader",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "okur [i.],okuyucu [i.],eleştirmen [i.]"
+ },
+ {
+  "about": "reading",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "okuma [s.],mana [i.],yorum [i.]"
+ },
+ {
+  "about": "ready",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hazır [s.],hazırlamak [f.],peşin para [i.]"
+ },
+ {
+  "about": "real",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hakiki [s.],gerçek [s.],taşınmaz [s.]"
+ },
+ {
+  "about": "really",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hakikaten [zf.],gerçekten [zf.],cidden [zf.]"
+ },
+ {
+  "about": "reason",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sebep [i.],akıl [i.],gerekçe [i.]"
+ },
+ {
+  "about": "red",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "al [s.],kızıl [s.],kırmızı [s.]"
+ },
+ {
+  "about": "relax",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "rahatlamak [f.],rahatlatmak [f.],dinlenmek [f.]"
+ },
+ {
+  "about": "remember",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hatırlamak [f.],anımsamak [f.],anmak [f.]"
+ },
+ {
+  "about": "repeat",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yinelemek [f.],tekrarlamak [f.],tekerrür etmek [f.]"
+ },
+ {
+  "about": "report",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "haber vermek [f.],rapor etmek [f.],ihbar etmek [f.]"
+ },
+ {
+  "about": "restaurant",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "restoran [i.],lokanta [i.],doyumevi [i.]"
+ },
+ {
+  "about": "result",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "netice [i.],sonuç [i.],sonucu olmak [f.]"
+ },
+ {
+  "about": "return",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "geri dönmek [f.],dönmek [f.],iade etmek [f.]"
+ },
+ {
+  "about": "rice",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "pirinç [i.],çeltik [i.],pilav [i.]"
+ },
+ {
+  "about": "rich",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "zengin [s.],varsıl [s.],bol bol [s.]"
+ },
+ {
+  "about": "ride",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "binmek [f.],gezinti [i.],rode - ridden [f.]"
+ },
+ {
+  "about": "right",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sağ [i.],hak [i.],haklı [s.]"
+ },
+ {
+  "about": "river",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "nehir [i.],nehir [i.],akış [i.]"
+ },
+ {
+  "about": "road",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yol [i.],uyulan ilke [i.],bir amaca ulaşmak için\nbaşvurulması gereken yöntem [i.]"
+ },
+ {
+  "about": "room",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "oda [i.],oturmak [f.],kalmak [f.]"
+ },
+ {
+  "about": "routine",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "rutin [s.],adet [i.],hergünkü işler [i.]"
+ },
+ {
+  "about": "rule",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hüküm sürmek [f.],hükmetmek [f.],kural [i.]"
+ },
+ {
+  "about": "run",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "çalıştırmak [f.],işletmek [f.],koşmak [f.]"
+ },
+ {
+  "about": "sad",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hüzünlü [s.],mahzun [s.],üzücü [s.]"
+ },
+ {
+  "about": "salad",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "salata [i.],,"
+ },
+ {
+  "about": "salt",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "tuz [i.],biriktirmek [f.],tuzlayarak saklamak [f.]"
+ },
+ {
+  "about": "same",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "aynı [s.],eşit [s.],farksız [s.]"
+ },
+ {
+  "about": "sandwich",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sandviç [i.],sıkıştırmak [f.],arasına sıkıştırmak [f.]"
+ },
+ {
+  "about": "Saturday",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "cumartesi [i.],,"
+ },
+ {
+  "about": "say",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "söylemek [f.],demek [f.],said - said [f.]"
+ },
+ {
+  "about": "school",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "mektep [i.],okul [i.],yetiştirmek [f.]"
+ },
+ {
+  "about": "science",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ilim [i.],bilim [i.],beceri [i.]"
+ },
+ {
+  "about": "scientist",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bilgin [i.],bilim insanı [i.],bilim adamı [i.]"
+ },
+ {
+  "about": "sea",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "deniz [i.],okyanus [i.],dalga [i.]"
+ },
+ {
+  "about": "second",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "saniye [i.],ikinci [s.],destek vermek [f.]"
+ },
+ {
+  "about": "section",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kesit [i.],bölüm [i.],kısım [i.]"
+ },
+ {
+  "about": "see",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "görmek [f.],bakmak [f.],saw - seen [f.]"
+ },
+ {
+  "about": "sell",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "satılmak [f.],satmak [f.],sold - sold [f.]"
+ },
+ {
+  "about": "send",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yollamak [f.],göndermek [f.],sent - sent [f.]"
+ },
+ {
+  "about": "sentence",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "cümle [i.],mahkum etmek [f.],hüküm giydirmek [f.]"
+ },
+ {
+  "about": "September",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "eylül [i.],,"
+ },
+ {
+  "about": "seven",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yedi [i.],7 [i.],yedi rakamı [i.]"
+ },
+ {
+  "about": "seventeen",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "XVII [i.],on yedi sayısı [i.],on yedi [i.]"
+ },
+ {
+  "about": "seventy",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yetmiş [i.],LXX [i.],yetmiş sayısı [i.]"
+ },
+ {
+  "about": "share",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "paylaşmak [f.],hisse [i.],pay [i.]"
+ },
+ {
+  "about": "she",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "dişi hayvan [i.],dişi [i.],kadın [i.]"
+ },
+ {
+  "about": "sheep",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "koyun [i.],koyun gibi tip [i.],ezik kimse [i.]"
+ },
+ {
+  "about": "shirt",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "gömlek [i.],mintan [i.],gömlek [i.]"
+ },
+ {
+  "about": "shoe",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ayakkabı [i.],pabuç [i.],shoed\/shod - shoed\/shod [f.]"
+ },
+ {
+  "about": "shop",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "mağaza [i.],dükkan [i.],ele vermek [f.]"
+ },
+ {
+  "about": "shopping",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "alışveriş [i.],çarşı pazar dolaşma [i.],çarşıya çıkma [i.]"
+ },
+ {
+  "about": "short",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "az [s.],alçak [s.],kısa [s.]"
+ },
+ {
+  "about": "should",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "gerekmek [f.],-malı [f.],-meli [f.]"
+ },
+ {
+  "about": "show",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "göstermek [f.],gösteri [i.],showed - shown\/showed [f.]"
+ },
+ {
+  "about": "shower",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sağanak [i.],duş [i.],duş almak [f.]"
+ },
+ {
+  "about": "sick",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hasta [s.],yakalatmak [f.],kusmak [f.]"
+ },
+ {
+  "about": "similar",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "benzer [s.],eş [s.],benzeş [s.]"
+ },
+ {
+  "about": "sing",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "söylemek [f.],ötmek [f.],şarkı söylemek [f.]"
+ },
+ {
+  "about": "singer",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "şarkıcı [i.],hanende [i.],şair [i.]"
+ },
+ {
+  "about": "sister",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "abla [i.],kardeş [i.],kız kardeş [i.]"
+ },
+ {
+  "about": "sit",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "oturmak [f.],sat - sat [f.],tünemek [f.]"
+ },
+ {
+  "about": "situation",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hal [i.],durum [i.],ekmek kapısı [i.]"
+ },
+ {
+  "about": "six",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "şeş [i.],altı rakamı [i.],altı [i.]"
+ },
+ {
+  "about": "sixteen",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "onaltı [i.],XVI [i.],on altı sayısı [i.]"
+ },
+ {
+  "about": "sixty",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "altmış [i.],LX [i.],altmış sayısı (60, LX) [i.]"
+ },
+ {
+  "about": "skill",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "maharet [i.],beceri [i.],hüner [i.]"
+ },
+ {
+  "about": "skirt",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "etek [i.],kenarından geçmek [f.],uzak durmak [f.]"
+ },
+ {
+  "about": "sleep",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "uyumak [f.],uyku [i.],slept - slept [f.]"
+ },
+ {
+  "about": "slow",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yavaşlatmak [f.],yavaş [s.],ağır [s.]"
+ },
+ {
+  "about": "small",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "az [s.],küçük [s.],ufak [s.]"
+ },
+ {
+  "about": "snake",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yılan [i.],yılan gibi gitmek [f.],yılan gibi kıvrılmak [f.]"
+ },
+ {
+  "about": "snow",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kar [i.],yağmak [f.],karla kaplamak [f.]"
+ },
+ {
+  "about": "so",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bu yüzden [zf.],öyle [zf.],böyle [zf.]"
+ },
+ {
+  "about": "some",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "biraz [s.],bazı [s.],birkaç [s.]"
+ },
+ {
+  "about": "somebody",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "biri [zm.],birisi [zm.],şahsiyet [zm.]"
+ },
+ {
+  "about": "someone",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "birisi [zm.],kimse [zm.],bir kimse [zm.]"
+ },
+ {
+  "about": "something",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bir şey [i.],falan,"
+ },
+ {
+  "about": "sometimes",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bazen [zf.],ara sıra [zf.],ara sıra [zf.]"
+ },
+ {
+  "about": "son",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "oğul [i.],evlat [i.],mahdum [i.]"
+ },
+ {
+  "about": "song",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "şarkı [i.],şakıma [i.],güfte [i.]"
+ },
+ {
+  "about": "soon",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "birazdan [zf.],kısa süre içinde [zf.],az sonra [s.]"
+ },
+ {
+  "about": "sorry",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "üzgün [s.],esef etmek [f.],eseflenmek [f.]"
+ },
+ {
+  "about": "sound",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ses [i.],söylemek [f.],derine dalmak (balina) [f.]"
+ },
+ {
+  "about": "soup",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "çorba [i.],nitrogliserin [i.],yoğun sis [i.]"
+ },
+ {
+  "about": "south",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "güney [i.],cenup [i.],lodos [i.]"
+ },
+ {
+  "about": "space",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "aralık [i.],açıklık [i.],mekan [i.]"
+ },
+ {
+  "about": "speak",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "konuşmak [f.],spoke - spoken [f.],ses çıkarmak [f.]"
+ },
+ {
+  "about": "special",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "özel [s.],yemek (lokantaya has) [i.],özel sayı [i.]"
+ },
+ {
+  "about": "spell",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hecelemek [f.],büyü [i.],spelled\/spelt - spelled\/spelt [f.]"
+ },
+ {
+  "about": "spelling",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yazım [s.],yazılış [i.],imla [i.]"
+ },
+ {
+  "about": "spend",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "geçirmek (geceyi vb) [f.],harcamak [f.],spent - spent [f.]"
+ },
+ {
+  "about": "sport",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "spor [i.],şaka söylemek [f.],oynamak [f.]"
+ },
+ {
+  "about": "spring",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "memba [i.],ilkbahar [i.],bahar [i.]"
+ },
+ {
+  "about": "stand",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "(teklif) geçerli olmak [f.],katlanmak [f.],ayakta durmak [f.]"
+ },
+ {
+  "about": "star",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yıldız [i.],yıldızlarla süslemek [f.],başrolde oynatmak [f.]"
+ },
+ {
+  "about": "start",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "başlamak [f.],başlatmak [f.],başlangıç [i.]"
+ },
+ {
+  "about": "statement",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ifade [i.],söz [i.],beyan [i.]"
+ },
+ {
+  "about": "station",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "terminal [i.],istasyon [i.],görevlendirmek [f.]"
+ },
+ {
+  "about": "stay",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kalmak [f.],kalma süresi [i.],kalma [i.]"
+ },
+ {
+  "about": "still",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "durgun [s.],hareketsiz [s.],hala [zf.]"
+ },
+ {
+  "about": "stop",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "durmak [f.],durdurmak [f.],dinmek [f.]"
+ },
+ {
+  "about": "story",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hikaye [i.],anlatı [i.],tarih [i.]"
+ },
+ {
+  "about": "street",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "cadde [i.],sokak [i.],mahalle [i.]"
+ },
+ {
+  "about": "strong",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "güçlü [s.],kuvvetli [s.],domuz gibi [i.]"
+ },
+ {
+  "about": "student",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "öğrenci [i.],talebe [i.],mektepli [i.]"
+ },
+ {
+  "about": "study",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "incelemek [f.],çalışmak [f.],çalışma [i.]"
+ },
+ {
+  "about": "style",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "biçim [i.],tarz [i.],biçem [i.]"
+ },
+ {
+  "about": "subject",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ders [i.],özne [i.],konu [i.]"
+ },
+ {
+  "about": "success",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "muvaffakiyet [i.],başarı [i.],başarılmış iş [i.]"
+ },
+ {
+  "about": "sugar",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "şeker [i.],kompliman yapmak [f.],şeker katmak [f.]"
+ },
+ {
+  "about": "summer",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yaz [i.],yazı geçirmek [f.],hayatın baharı [i.]"
+ },
+ {
+  "about": "sun",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "güneş [i.],güneşte bırakmak [f.],güneşlenmek [f.]"
+ },
+ {
+  "about": "Sunday",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "pazar [i.],,bayramlık [s.]"
+ },
+ {
+  "about": "supermarket",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "süpermarket [i.],,"
+ },
+ {
+  "about": "sure",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "emin [s.],,soruşturmak [f.]"
+ },
+ {
+  "about": "sweater",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "süveter [i.],,sömüren işveren [i.]"
+ },
+ {
+  "about": "swim",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yüzmek [f.],,swam - swum [f.]"
+ },
+ {
+  "about": "swimming",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yüzme [i.],,yüzme sporu [i.]"
+ },
+ {
+  "about": "table",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "masa [i.],,sofra [i.]"
+ },
+ {
+  "about": "take",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "almak [f.],,götürmek [f.]"
+ },
+ {
+  "about": "talk",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "konuşmak [f.],,konuşma [i.]"
+ },
+ {
+  "about": "tall",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "uzun [s.],,uzun boylu [s.]"
+ },
+ {
+  "about": "taxi",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "taksi [i.],,birini taksiyle götürmek [f.]"
+ },
+ {
+  "about": "tea",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "çay [i.],,çeşitli bitkilerin demlenmesinden\nelde edilen içeceklerin tümü [i.]"
+ },
+ {
+  "about": "teach",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ders vermek [f.],,taught - taught [f.]"
+ },
+ {
+  "about": "teacher",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "öğretmen [i.],,öğretmen [i.]"
+ },
+ {
+  "about": "team",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "takım [i.],,takım halinde yapmak [f.]"
+ },
+ {
+  "about": "teenager",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "on üç ile on dokuz yaşlar arasındaki\nkimse [i.],,yeniyetme [i.]"
+ },
+ {
+  "about": "telephone",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "telefon [i.],,telefon açmak [f.]"
+ },
+ {
+  "about": "television",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "televizyon [i.],,"
+ },
+ {
+  "about": "tell",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "haber vermek [f.],,anlatmak [f.]"
+ },
+ {
+  "about": "ten",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "on [i.],,onlu [i.]"
+ },
+ {
+  "about": "tennis",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "tenis [i.],,tenis"
+ },
+ {
+  "about": "terrible",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "berbat [s.],,müthiş [s.]"
+ },
+ {
+  "about": "test",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sınamak [f.],,test [i.]"
+ },
+ {
+  "about": "text",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "metin [i.],,parça [i.]"
+ },
+ {
+  "about": "than",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "-den [ed.],,-mektense [ed.]"
+ },
+ {
+  "about": "thank",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "teşekkür etmek [f.],,teşekkür etmek [f.]"
+ },
+ {
+  "about": "thanks",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "teşekkür [i.],,sağ ol [ünl.]"
+ },
+ {
+  "about": "that",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "şu [zm.],,o kadar [zf.]"
+ },
+ {
+  "about": "the",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "belirli durumlarda isimden önce\nkullanılır [i.],,"
+ },
+ {
+  "about": "theatre",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "tiyatro [i.],,alan [i.]"
+ },
+ {
+  "about": "their",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "onların [zm.],,"
+ },
+ {
+  "about": "them",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "onlara [zm.],,"
+ },
+ {
+  "about": "then",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "o zamanlar [i.],,o zamanın [s.]"
+ },
+ {
+  "about": "there",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "oraya [zf.],,ora [zf.]"
+ },
+ {
+  "about": "they",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "onlar [zm.],,"
+ },
+ {
+  "about": "thing",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "şey [i.],,olay [i.]"
+ },
+ {
+  "about": "think",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sanmak [f.],,thought - thought [f.]"
+ },
+ {
+  "about": "third",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "üçte bir [i.],,üçüncü olarak [zf.]"
+ },
+ {
+  "about": "thirsty",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "susuz [s.],,kurak [s.]"
+ },
+ {
+  "about": "thirteen",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "on üç sayısı (13, XIII) [i.],,on üç [i.]"
+ },
+ {
+  "about": "thirty",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "otuz sayısı (30, XXX) [i.],,30 [i.]"
+ },
+ {
+  "about": "this",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bu [zm.],,bu kadar [zf.]"
+ },
+ {
+  "about": "thousand",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bin [i.],,binlik [s.]"
+ },
+ {
+  "about": "three",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "iskambilde üçlü [i.],,se [i.]"
+ },
+ {
+  "about": "through",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "başından sonuna kadar [ed.],,üzerinden [ed.]"
+ },
+ {
+  "about": "Thursday",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "perşembe [i.],,"
+ },
+ {
+  "about": "ticket",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bilet [i.],,etiketlemek [f.]"
+ },
+ {
+  "about": "time",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kez [i.],,müddet [i.]"
+ },
+ {
+  "about": "tired",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "argın [s.],yorgun [s.],yorgun düşmüş [s.]"
+ },
+ {
+  "about": "title",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "unvan [i.],başlık [i.],isimlendirmek [f.]"
+ },
+ {
+  "about": "to",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "karşı [ed.],-mek\/-mak (mastar) [f.],kadar [zf.]"
+ },
+ {
+  "about": "today",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "bugün [zf.],şimdi [zf.],bu günlerde [zf.]"
+ },
+ {
+  "about": "together",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "birlikte [zf.],beraber [zf.],kuyruk (kimse) [s.]"
+ },
+ {
+  "about": "toilet",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hela [i.],tuvalet [i.],makyaj [i.]"
+ },
+ {
+  "about": "tomato",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "domates [i.],domates,"
+ },
+ {
+  "about": "tomorrow",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yarın [zf.],yarın [i.],"
+ },
+ {
+  "about": "tonight",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "akşama [zf.],bu akşam [zf.],bu gece [zf.]"
+ },
+ {
+  "about": "too",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "gereğinden çok [s.],çok [s.],aşırı [s.]"
+ },
+ {
+  "about": "tooth",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "diş [i.],dişle kaplamak [f.],dişlemek [f.]"
+ },
+ {
+  "about": "topic",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "konu [i.],başlık [i.],bahis [i.]"
+ },
+ {
+  "about": "tourist",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "turist [i.],gezgin [i.],seyyah [i.]"
+ },
+ {
+  "about": "town",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "şehir [i.],kasaba [i.],şehir merkezi [i.]"
+ },
+ {
+  "about": "traffic",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "gidiş geliş [i.],trafik [i.],iş yapmak [f.]"
+ },
+ {
+  "about": "train",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "eğitim vermek [f.],eğitmek [f.],tren [i.]"
+ },
+ {
+  "about": "travel",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "gezmek [f.],seyahat etmek [f.],yolculuk etmek [f.]"
+ },
+ {
+  "about": "tree",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ağaç [i.],ağaca çıkarmak [f.],çarmıh [i.]"
+ },
+ {
+  "about": "trip",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "seyahat [i.],yolculuk [i.],gezi [i.]"
+ },
+ {
+  "about": "trousers",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "pantolon [i.],pantolon [i.],pantolon"
+ },
+ {
+  "about": "TRUE",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hakiki [s.],gerçek [s.],doğru [s.]"
+ },
+ {
+  "about": "try",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "denemek [f.],deneme [i.],yoklamak [f.]"
+ },
+ {
+  "about": "T-shirt",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "tişört [i.],tişört,yarım kollu fanila"
+ },
+ {
+  "about": "Tuesday",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "salı [i.],,"
+ },
+ {
+  "about": "turn",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "dönmek [f.],döndürmek [f.],çevirmek [f.]"
+ },
+ {
+  "about": "TV",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "televizyon [i.],,"
+ },
+ {
+  "about": "twelve",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "oniki [i.],on iki sayısı (12, XII) [i.],on iki [i.]"
+ },
+ {
+  "about": "twenty",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yirmi [i.],yirmi sayısı (20, XX) [i.],20 [i.]"
+ },
+ {
+  "about": "twice",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "iki kez [zf.],iki sefer [zf.],iki kere [zf.]"
+ },
+ {
+  "about": "two",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "iki [i.],iskambilde ikili [i.],iki rakamı [i.]"
+ },
+ {
+  "about": "type",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yazmak [f.],tür [i.],tip [i.]"
+ },
+ {
+  "about": "umbrella",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "şemsiye [i.],şemsiyelik [i.],koruyucu [i.]"
+ },
+ {
+  "about": "uncle",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "dayı [i.],amca [i.],enişte [i.]"
+ },
+ {
+  "about": "under",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "altında [ed.],alt [s.],az [s.]"
+ },
+ {
+  "about": "understand",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "anlayış göstermek [f.],anlamak [f.],understood - understood [f.]"
+ },
+ {
+  "about": "university",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "üniversite [i.],üniversite [i.],bilimyurt [i.]"
+ },
+ {
+  "about": "until",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ila [ed.],değin [ed.],dek [ed.]"
+ },
+ {
+  "about": "up",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yukarı [ünl.],yükseltmek [f.],artırmak [f.]"
+ },
+ {
+  "about": "upstairs",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "üst kat [i.],üst kat [i.],yukarı kat [i.]"
+ },
+ {
+  "about": "us",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "biz [zm.],abd [i.],bizi [zm.]"
+ },
+ {
+  "about": "use",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kullanmak [f.],kullanım [i.],kullanma [i.]"
+ },
+ {
+  "about": "useful",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "faydalı [s.],yararlı [s.],kullanışlı [s.]"
+ },
+ {
+  "about": "usually",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "genellikle [zf.],çoğunlukla [zf.],çoğu zaman [zf.]"
+ },
+ {
+  "about": "vacation",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "tatil [i.],tatil yapmak [f.],izin [i.]"
+ },
+ {
+  "about": "vegetable",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sebze [i.],bitkisel [s.],göveri [i.]"
+ },
+ {
+  "about": "very",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "çok [zf.],hatta [s.],bile [s.]"
+ },
+ {
+  "about": "video",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "video terminal [i.],ekran [i.],video filmi [i.]"
+ },
+ {
+  "about": "village",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "köy [i.],köy halkı [i.],şehir ve kasabalardan küçük ama\nkalıcı yerleşim birimi [i.]"
+ },
+ {
+  "about": "visit",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ziyaret etmek [f.],ziyaret [i.],gezmek [f.]"
+ },
+ {
+  "about": "visitor",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ziyaretçi [i.],ziyarete giden kimse [i.],zair [i.]"
+ },
+ {
+  "about": "wait",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "beklemek [f.],bekleyiş [i.],bekleme [i.]"
+ },
+ {
+  "about": "waiter",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "garson [i.],erkek garson [i.],garson"
+ },
+ {
+  "about": "wake",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "canlanmak [f.],uyanmak [f.],woke\/waked - woken\/waked [f.]"
+ },
+ {
+  "about": "walk",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yürümek [f.],dolaşmak [f.],yürüyerek gitmek [f.]"
+ },
+ {
+  "about": "wall",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "duvar [i.],tecrit etmek [f.],ayırmak [f.]"
+ },
+ {
+  "about": "want",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "istemek [f.],istek [i.],isteklenmek [f.]"
+ },
+ {
+  "about": "warm",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ısıtmak [f.],ısınmak [f.],ılık [s.]"
+ },
+ {
+  "about": "wash",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yıkanmak [f.],aşındırmak [f.],yıkamak [f.]"
+ },
+ {
+  "about": "watch",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "seyretmek (tv) [f.],seyretmek [f.],gözlemek [f.]"
+ },
+ {
+  "about": "water",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sulamak [f.],su [s.],ıslatmak [f.]"
+ },
+ {
+  "about": "way",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yol [i.],taraf [i.],tarz [i.]"
+ },
+ {
+  "about": "we",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "biz [zm.],,"
+ },
+ {
+  "about": "wear",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "giymek [f.],takmak [f.],aşındırmak [f.]"
+ },
+ {
+  "about": "weather",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hava [i.],hava durumu [i.],yalpalamak [f.]"
+ },
+ {
+  "about": "website",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "internet sitesi [i.],web sitesi,ağ sitesi"
+ },
+ {
+  "about": "Wednesday",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "çarşamba [i.],,"
+ },
+ {
+  "about": "week",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hafta [i.],ardışık yedi günlük süre [i.],hafta [i.]"
+ },
+ {
+  "about": "weekend",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hafta sonu [i.],hafta sonunu geçirmek [f.],haftasonu [i.]"
+ },
+ {
+  "about": "welcome",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hoş geldiniz [ünl.],hoş geldin [ünl.],hoş karşılamak [f.]"
+ },
+ {
+  "about": "well",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "fışkırmak [f.],kuyu [i.],iyi [s.]"
+ },
+ {
+  "about": "west",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "batı [i.],batıdaki [s.],batıya doğru [zf.]"
+ },
+ {
+  "about": "what",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ne [ünl.],neyi [i.],hangi [s.]"
+ },
+ {
+  "about": "when",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ne zaman [zf.],zaman [i.],ne vakit [zf.]"
+ },
+ {
+  "about": "where",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "nereye [zf.],nerede [zf.],nere [zf.]"
+ },
+ {
+  "about": "which",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "hangi [s.],kaçıncı [s.],hangi [s.]"
+ },
+ {
+  "about": "white",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "beyaz [s.],ak [s.],solgun [s.]"
+ },
+ {
+  "about": "who",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kimi [zm.],kim [zm.],kime [zm.]"
+ },
+ {
+  "about": "why",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "neden [zf.],niçin [zf.],niye [zf.]"
+ },
+ {
+  "about": "wife",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kocanın eşi [i.],hanım [i.],karı [i.]"
+ },
+ {
+  "about": "will",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "vasiyet [i.],irade [i.],dilemek [f.]"
+ },
+ {
+  "about": "win",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kazanmak [f.],galip gelmek [f.],zafer [i.]"
+ },
+ {
+  "about": "window",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "pencere [i.],camekan [i.],vitrin [i.]"
+ },
+ {
+  "about": "wine",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "şarap sunmak [f.],şarap [i.],şarap rengi [i.]"
+ },
+ {
+  "about": "winter",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kış [i.],kışlık [s.],kışlamak [f.]"
+ },
+ {
+  "about": "with",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "ile [ed.],-lı [zf.],beraberinde [zf.]"
+ },
+ {
+  "about": "without",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "dış [i.],dıştan [zf.],dışarıda [zf.]"
+ },
+ {
+  "about": "woman",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kadın [i.],hanım [i.],kadın [i.]"
+ },
+ {
+  "about": "wonderful",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "müthiş [s.],harikulade [s.],harika [s.]"
+ },
+ {
+  "about": "word",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "laf [i.],söz [i.],sözcük [i.]"
+ },
+ {
+  "about": "work",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "çalışmak [f.],işe yaramak [f.],iş yapmak [f.]"
+ },
+ {
+  "about": "worker",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "işçi [i.],adam [i.],amele [i.]"
+ },
+ {
+  "about": "world",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "alem [i.],dünya [i.],evren [i.]"
+ },
+ {
+  "about": "would",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "istemek [f.],-ecekti [f.],-çekti [f.]"
+ },
+ {
+  "about": "write",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yazmak [f.],wrote - written [f.],kaydetmek [f.]"
+ },
+ {
+  "about": "writer",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yazar [i.],müellif [i.],muharrir [i.]"
+ },
+ {
+  "about": "writing",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yazma [i.],yazım [i.],yazı [i.]"
+ },
+ {
+  "about": "wrong",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yanlış [s.],gadretmek [f.],haksızlık etmek [f.]"
+ },
+ {
+  "about": "yeah",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "tamam [ünl.],he [ünl.],evet [ünl.]"
+ },
+ {
+  "about": "year",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "yıl [i.],sene [i.],ihtiyarlık [i.]"
+ },
+ {
+  "about": "yellow",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "sarı [s.],sararmak [f.],sarartmak [f.]"
+ },
+ {
+  "about": "yes",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "evet [i.],olumlu cevap [i.],olumlu oy [i.]"
+ },
+ {
+  "about": "yesterday",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "dün [zf.],,"
+ },
+ {
+  "about": "you",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "siz [zm.],sen [zm.],seni [zm.]"
+ },
+ {
+  "about": "young",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "genç [i.],hayvan yavrusu [i.],döl [i.]"
+ },
+ {
+  "about": "your",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "senin [zm.],sizin [zm.],"
+ },
+ {
+  "about": "yourself",
+  "hemen hemen [zf.],aşağı yukarı [zf.],yaklaşık [zf.]": "kendiniz [zm.],kendin [zm.],kendini [zm.]"
+ }
+]

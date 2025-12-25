@@ -1,0 +1,74 @@
+{
+  "A2": [
+    {"en": "Family", "tr": "Aile"},
+    {"en": "Friend", "tr": "Arkadaş"},
+    {"en": "Job", "tr": "İş / Meslek"},
+    {"en": "City", "tr": "Şehir"},
+    {"en": "Country", "tr": "Ülke"},
+    {"en": "Food", "tr": "Yiyecek"},
+    {"en": "Drink", "tr": "İçecek"},
+    {"en": "Money", "tr": "Para"},
+    {"en": "Time", "tr": "Zaman"},
+    {"en": "Week", "tr": "Hafta"}
+  ],
+  "B1": [
+    {"en": "Ability", "tr": "Yetenek"},
+    {"en": "Abroad", "tr": "Yurt dışı"},
+    {"en": "Accept", "tr": "Kabul etmek"},
+    {"en": "Accident", "tr": "Kaza"},
+    {"en": "Adventure", "tr": "Macera"},
+    {"en": "Agree", "tr": "Katılmak (fikir)"},
+    {"en": "Allow", "tr": "İzin vermek"},
+    {"en": "Angry", "tr": "Kızgın"},
+    {"en": "Answer", "tr": "Cevap"},
+    {"en": "Area", "tr": "Alan / Bölge"}
+  ],
+  "B2": [
+    {"en": "Abandon", "tr": "Terk etmek"},
+    {"en": "Absolute", "tr": "Kesin / Tam"},
+    {"en": "Academic", "tr": "Akademik"},
+    {"en": "Acceptable", "tr": "Kabul edilebilir"},
+    {"en": "Accompany", "tr": "Eşlik etmek"},
+    {"en": "Account", "tr": "Hesap / Açıklama"},
+    {"en": "Accurate", "tr": "Doğru / Kesin"},
+    {"en": "Accuse", "tr": "Suçlamak"},
+    {"en": "Achieve", "tr": "Başarmak"},
+    {"en": "Acknowledge", "tr": "Kabul etmek / Onaylamak"}
+  ],
+  "C1": [
+    {"en": "Abstract", "tr": "Soyut"},
+    {"en": "Accumulate", "tr": "Biriktirmek"},
+    {"en": "Adequate", "tr": "Yeterli"},
+    {"en": "Advocate", "tr": "Savunmak"},
+    {"en": "Aggregate", "tr": "Toplam / Bir araya getirmek"},
+    {"en": "Alleviate", "tr": "Hafifletmek"},
+    {"en": "Allocate", "tr": "Tahsis etmek"},
+    {"en": "Ambiguous", "tr": "Muğlak / Belirsiz"},
+    {"en": "Amend", "tr": "Değiştirmek (yasa vb.)"},
+    {"en": "Analogy", "tr": "Benzerlik / Analoji"}
+  ],
+  "TOEFL": [
+    {"en": "Aberration", "tr": "Sapma / Anormallik"},
+    {"en": "Abhor", "tr": "Nefret etmek"},
+    {"en": "Acquiesce", "tr": "Razı olmak / Boyun eğmek"},
+    {"en": "Alacrity", "tr": "Canlılık / İsteklilik"},
+    {"en": "Amiable", "tr": "Sevimli / Tatlı"},
+    {"en": "Appease", "tr": "Yatıştırmak"},
+    {"en": "Arcane", "tr": "Gizemli / Esrarengiz"},
+    {"en": "Avarice", "tr": "Açgözlülük"},
+    {"en": "Brazen", "tr": "Yüzsüz / Utanmaz"},
+    {"en": "Brusque", "tr": "Kaba / Sert (tavır)"}
+  ],
+  "YDS": [
+    {"en": "Abate", "tr": "Azalmak / Dinmek"},
+    {"en": "Abduct", "tr": "Kaçırmak (insan)"},
+    {"en": "Abstain", "tr": "Kaçınmak / Çekimser kalmak"},
+    {"en": "Accede", "tr": "Kabul etmek / Razı olmak"},
+    {"en": "Acclaim", "tr": "Övmek / Alkışlamak"},
+    {"en": "Accomplice", "tr": "Suç ortağı"},
+    {"en": "Acumen", "tr": "Sezgi / Keskin zeka"},
+    {"en": "Adhere", "tr": "Yapışmak / Bağlı kalmak"},
+    {"en": "Adversary", "tr": "Rakip / Düşman"},
+    {"en": "Affluent", "tr": "Zengin / Varlıklı"}
+  ]
+}
