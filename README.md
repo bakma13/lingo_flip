@@ -1,6 +1,6 @@
-# my_english_words
+# Lingo Flip
 
-A new Flutter project.
+English-Turkish Vocabulary Cards Application
 
 ## Getting Started
 
